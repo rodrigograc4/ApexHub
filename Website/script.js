@@ -26,10 +26,10 @@ function setTimer(time, d, h, m, s, e) {
         var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
         // Result is output to the specific element
-        document.getElementById(d).innerHTML = days + "d "
-        document.getElementById(h).innerHTML = hours + "h "
-        document.getElementById(m).innerHTML = minutes + "m "
-        document.getElementById(s).innerHTML = seconds + "s "
+        document.getElementById(d).innerHTML = days.toString().padStart(2, "0") + "d "
+        document.getElementById(h).innerHTML = hours.toString().padStart(2, "0") + "h "
+        document.getElementById(m).innerHTML = minutes.toString().padStart(2, "0") + "m "
+        document.getElementById(s).innerHTML = seconds.toString().padStart(2, "0") + "s "
 
         // Display the message when countdown is over
         if (timeleft < 0) {
