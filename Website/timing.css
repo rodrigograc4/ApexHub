@@ -1,0 +1,62 @@
+.racetimer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.racetimer p {
+    color: #ffffff;
+    display: inline;
+    font-size: 40px;
+    margin-top: 0px;
+  }
+
+.timer2 p {
+color: #ffffff;
+display: inline;
+margin-top: 20px;
+}
+
+.nextRace {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+  
+
+#race {
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+#days {
+    margin-left: 10px; /* Adjust the margin as needed */
+}
+
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+    width: 80%; /* ou a largura desejada */
+    height: 80%;
+    border: 1px solid #000000;
+    border-radius: 2em;
+    background-color: #000000;
+    display: none;
+}
+
+#responsive {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Restante do seu código permanece inalterado */
