@@ -65,3 +65,43 @@ margin-top: 20px;
 }
 
 /* Restante do seu código permanece inalterado */
+
+.flexcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  #formula1Section,
+  #nextRaceSection {
+    flex: 1;
+    max-width: 50%;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+  
+  @media (max-width: 576px) {
+    #formula1Section,
+    #nextRaceSection {
+      max-width: 100%;
+    }
+  }
+   
+
+
+
+  .bottomthings {
+    margin-top: 10rem; /* Add margin to the bottomthings class */
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+  }
+
+  @media screen and (max-width: 600px) {
+    .bottomthings {
+      position: relative;
+      margin-top: 0;
+    }
+  }
