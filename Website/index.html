@@ -39,12 +39,12 @@
         </div>
       </a>
       <a href="index.html">
-        <div class="w3-display-topleft w3-padding-large w3-large" style="margin-left: 160px ;margin-top: 16px;">
+        <div class="w3-display-topleft w3-padding-large w3-large" id="homeSection" style="margin-left: 160px ;margin-top: 16px;">
           Home
         </div>
       </a>
       <a href="aboutus.html">
-        <div class="w3-display-topleft w3-padding-large w3-large" style="margin-left: 250px ;margin-top: 16px;">
+        <div class="w3-display-topleft w3-padding-large w3-large" id="aboutUsSection" style="margin-left: 250px ;margin-top: 16px;">
           About Us
         </div>
       </a>  
@@ -53,7 +53,7 @@
       <hr class="w3-border-red" style="margin:auto;width:65%">
       <p class="w3-large w3-center" style="margin-top: 25px;margin-bottom: 30px;">Watch F1 live for free</p>
       <div class="frame">
-        <button class="custom-btn btn-13" onclick="iframe('https://r.mtdv.me/tjWZvTjKX3')">Sky Sports</button>
+        <button class="custom-btn btn-13" onclick="iframe('https://v2.sportsonline.so/channels/hd/hd1.php')">Sky Sports</button>
         <button class="custom-btn btn-13" onclick="iframe('https://v2.sportsonline.so/channels/pt/sporttv4.php')">Sport TV 4</button>
       </div>
     </div>
@@ -159,6 +159,8 @@
       document.querySelector('.container').style.display = 'block';
       document.getElementById('formula1Section').style.display = 'none';
       document.getElementById('nextRaceSection').style.display = 'none';
+      document.getElementById('homeSection').style.display = 'none';
+      document.getElementById('aboutUsSection').style.display = 'none';
     }
 
     window.onload = function() {
