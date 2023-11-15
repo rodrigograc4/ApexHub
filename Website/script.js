@@ -70,15 +70,18 @@ function clearTimer() {
 }
 
 function getTime(dte,t) {
-    let y = dte.split("-")[0];
-    let m= dte.split("-")[1];
-    let d= dte.split("-")[2];
-    let time1 = t.replace('Z', ' ');
-    let timegmt = Number(time1.split(":")[0]);
-    timegmt += offset;
-    let time = timegmt + ":" + time1.split(":")[1] + ":" + time1.split(":")[2];
-    let date = new Date(y, m - 1, d); // Create a Date object with the year, month, and day components
-    return date.toLocaleString("en-US", {month: "short", day: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"}); // Format the date string in the "MM DD, YYYY HH:MM:SS" format
+   let y = dte.split("-")[0];
+   let m= dte.split("-")[1];
+   let d= dte.split("-")[2];
+   let time1 = t.replace('Z', ' ');
+   let timegmt = Number(time1.split(":")[0]);
+   timegmt += offset;
+   let time = timegmt + ":" + time1.split(":")[1] + ":" + time1.split(":")[2];
+   let hours = time.split(":")[0];
+   let minutes = time.split(":")[1];
+   let seconds = time.split(":")[2];
+   let date = new Date(y, m - 1, d, hours, minutes, seconds); // Set the time of the Date object
+   return date.toLocaleString("en-US", {month: "short", day: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"}); // Format the date string in the "MM DD, YYYY HH:MM:SS" format
  }
 
 function getDay(dte,t) {
