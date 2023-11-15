@@ -92,8 +92,11 @@ function getDay(dte,t) {
     let timegmt = Number(time1.split(":")[0]);
     timegmt += offset;
     let time = timegmt + ":" + time1.split(":")[1];
-    return d + "/ " + m + "/ " + y + " " + time;
-}
+    let hours = time.split(":")[0];
+    let minutes = time.split(":")[1];
+    let date = new Date(y, m - 1, d, hours, minutes); // Set the time of the Date object
+    return date.toLocaleString("en-US", {month: "short", day: "2-digit", year: "numeric"}) + "  at  " + time; // Format the date string in the "MM DD, YYYY HH:MM:SS" format
+  }
 
 var requestOptions = {
     method: 'GET',
@@ -134,15 +137,17 @@ async function getData(file) {
 
     var sprint = data.RaceTable.Races[nextRace].Sprint;
     if (sprint) {
-        document.getElementById("timing1").innerHTML = "1st Practice: " + day1;
-        document.getElementById("timing2").innerHTML = "Qualification: " + day2;
-        document.getElementById("timing3").innerHTML = "2nd Practice: " + day3;
-        document.getElementById("timing4").innerHTML = "Sprint : " + day4;
+        document.getElementById("timing1").innerHTML = "1st Practice: " + day1 + "h";
+        document.getElementById("timing2").innerHTML = "Qualification: " + day2 + "h";
+        document.getElementById("timing3").innerHTML = "2nd Practice: " + day3 + "h";
+        document.getElementById("timing4").innerHTML = "Sprint : " + day4 + "h";
+        document.getElementById("timing5").innerHTML = day + "h";
     } else {
-        document.getElementById("timing1").innerHTML = "1st Practice: " + day1;
-        document.getElementById("timing2").innerHTML = "2nd Practice: " + day2;
-        document.getElementById("timing3").innerHTML = "3rd Practice: " + day3;
-        document.getElementById("timing4").innerHTML = "Qualification: " + day4;
+        document.getElementById("timing1").innerHTML = "1st Practice: " + day1 + "h";
+        document.getElementById("timing2").innerHTML = "2nd Practice: " + day2 + "h";
+        document.getElementById("timing3").innerHTML = "3rd Practice: " + day3 + "h";
+        document.getElementById("timing4").innerHTML = "Qualification: " + day4 + "h";
+        document.getElementById("timing5").innerHTML = day + "h";
     }
 }
 
