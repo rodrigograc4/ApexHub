@@ -69,16 +69,17 @@ function clearTimer() {
     document.getElementById("end").innerHTML = "";
 }
 
-function getTime(dte,t) {
+function getTime(dte, t) {
     let y = dte.split("-")[0];
-    let m= dte.split("-")[1];
-    let d= dte.split("-")[2];
+    let m = dte.split("-")[1];
+    let d = dte.split("-")[2];
     let time1 = t.replace('Z', ' ');
     let timegmt = Number(time1.split(":")[0]);
     timegmt += offset;
     let time = timegmt + ":" + time1.split(":")[1] + ":" + time1.split(":")[2];
-    return m + " " + d + ", " + y + " " + time;
+    return `${y}-${m}-${d}T${time}`;
 }
+
 
 function getDay(dte,t) {
     let y = dte.split("-")[0];
