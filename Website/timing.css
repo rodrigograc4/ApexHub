@@ -64,6 +64,8 @@ margin-top: 20px;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+    align-items: center;  
+    height: 100%;
   }
   
   #formula1Section,
