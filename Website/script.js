@@ -11,11 +11,19 @@ getData(api_url)
 // The data/time we want to countdown to
 function setTimer(time, d, h, m, s, e) {
 
-    var countDownDate = new Date(time).getTime();
+    console.log("Data fornecida:", time);
 
-    // Run myfunc every second
+    // Verifique e ajuste o formato da data
+    var parsedDate = new Date(time);
+    if (isNaN(parsedDate.getTime())) {
+        // Se a data não puder ser analisada corretamente, imprima um log e saia da função
+        console.error("Formato de data inválido:", time);
+        return;
+    }
+
+    var countDownDate = parsedDate.getTime();
+
     var myfunc = setInterval(function () {
-
         var now = new Date().getTime();
         var timeleft = countDownDate - now;
 
