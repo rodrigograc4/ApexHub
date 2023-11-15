@@ -11,7 +11,7 @@ getData(api_url)
 // The data/time we want to countdown to
 function setTimer(time, d, h, m, s, e) {
 
-    console.log("Data fornecida:", time);
+    console.log("Data fornecida:", (dte, t));
 
     // Verifique e ajuste o formato da data
     var parsedDate = new Date(time);
