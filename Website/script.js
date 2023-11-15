@@ -76,9 +76,9 @@ function getTime(dte,t) {
     let time1 = t.replace('Z', ' ');
     let timegmt = Number(time1.split(":")[0]);
     timegmt += offset;
-    let time = timegmt + ":" + time1.split(":")[1] + ":" + time1.split(":")[2];
+    let time = String(timegmt).padStart(2, "0") + ":" + time1.split(":")[1] + ":" + time1.split(":")[2];
     return y + "-" + m + "-" + d + "T" + time + "Z";
-}
+ }
 
 function getDay(dte,t) {
     let y = dte.split("-")[0];
