@@ -77,9 +77,9 @@ function getTime(dte,t) {
     let timegmt = Number(time1.split(":")[0]);
     timegmt += offset;
     let time = timegmt + ":" + time1.split(":")[1] + ":" + time1.split(":")[2];
-    let formattedDate = `${y}/${m}/${d}T${time}Z`; // Reformat the date string
-    return formattedDate;
-}
+    let date = new Date(y, m - 1, d); // Create a Date object with the year, month, and day components
+    return date.toLocaleString("en-US", {month: "short", day: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"}); // Format the date string in the "MM DD, YYYY HH:MM:SS" format
+ }
 
 function getDay(dte,t) {
     let y = dte.split("-")[0];
