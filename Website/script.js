@@ -25,6 +25,11 @@ function setTimer(time, d, h, m, s, e) {
         var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
         var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
+        console.log("Days:", days); // Adicione logs para cada variável
+        console.log("Hours:", hours);
+        console.log("Minutes:", minutes);
+        console.log("Seconds:", seconds);
+
         // Result is output to the specific element
         document.getElementById(d).innerHTML = days.toString().padStart(2, "0") + "d "
         document.getElementById(h).innerHTML = hours.toString().padStart(2, "0") + "h "
