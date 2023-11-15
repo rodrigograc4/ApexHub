@@ -125,6 +125,8 @@ async function getData(file) {
     }
 }
 
-if(document.getElementById("end").innerHTML === "TIME UP!!") {
+var endElement = document.getElementById("end");
+if (endElement && endElement.innerHTML === "TIME UP!!") {
     clearTimer();
 }
+
