@@ -11,7 +11,7 @@ getData(api_url)
 // The data/time we want to countdown to
 function setTimer(time, d, h, m, s, e) {
 
-    console.log("Data fornecida:", (dte, t));
+    console.log("Data fornecida:", time);
 
     // Verifique e ajuste o formato da data
     var parsedDate = new Date(time);
@@ -76,9 +76,9 @@ function getTime(dte,t) {
     let time1 = t.replace('Z', ' ');
     let timegmt = Number(time1.split(":")[0]);
     timegmt += offset;
-    let time = String(timegmt).padStart(2, "0") + ":" + time1.split(":")[1] + ":" + time1.split(":")[2];
-    return y + "-" + m + "-" + d + "T" + time + "Z";
- }
+    let time = timegmt + ":" + time1.split(":")[1] + ":" + time1.split(":")[2];
+    return m + " " + d + ", " + y + " " + time;
+}
 
 function getDay(dte,t) {
     let y = dte.split("-")[0];
