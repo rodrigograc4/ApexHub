@@ -160,6 +160,13 @@
       document.getElementById('formula1Section').style.display = 'none';
       document.getElementById('nextRaceSection').style.display = 'none';
     }
+
+    window.onload = function() {
+      let raceElement = document.getElementById("race");
+      let raceText = raceElement.innerHTML;
+      raceText = raceText.replace(/Grand Prix/g, '<span style="color: #ef1c24;">Grand Prix</span>');
+      raceElement.innerHTML = raceText;
+    }
   </script>
   
 </body>
