@@ -167,11 +167,24 @@
     }
 
     document.addEventListener("DOMContentLoaded", function() {
-      let raceElement = document.getElementById("race");
-      let raceText = raceElement.innerHTML;
-      raceText = raceText.replace(/Grand Prix/g, '<span style="color: #ef1c24;">Grand Prix</span>');
-      raceElement.innerHTML = raceText;
-  });
+      // Função para verificar e substituir o texto
+      function verificarEGerarSubstituicao() {
+          let raceElement = document.getElementById("race");
+
+          // Verifica se o elemento existe e se contém o texto "Grand Prix"
+          if (raceElement && raceElement.innerHTML.includes("Grand Prix")) {
+              let raceText = raceElement.innerHTML;
+              raceText = raceText.replace(/Grand Prix/g, '<span style="color: #ef1c24;">Grand Prix</span>');
+              raceElement.innerHTML = raceText;
+
+              // Se encontrou e substituiu, interrompe o loop
+              clearInterval(verificacaoInterval);
+          }
+      }
+
+      // Define um intervalo de tempo para chamar a função de verificação a cada 1000 milissegundos (1 segundo)
+      let verificacaoInterval = setInterval(verificarEGerarSubstituicao, 1000);
+    });
   </script>
   
 </body>
