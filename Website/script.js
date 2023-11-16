@@ -3,10 +3,10 @@ let data = "";
 var date, date1, date2, date3, date4, obj;
 let offset = new Date().getTimezoneOffset() /-60;
 
-let api_url = "https://ergast.com/api/f1/current/next/races.json";
+let api = "../API/nextrace.json";
 
 
-getData(api_url)
+getData(api)
 
 // The data/time we want to countdown to
 function setTimer(time, d, h, m, s, e) {
