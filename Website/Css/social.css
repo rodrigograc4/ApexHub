@@ -132,7 +132,7 @@
   display: block;
     margin: 0;
     padding: 0;
-  min-width: 400px;
+  min-width: 300px;
 }
 .form-style {
   padding: 13px 20px;
@@ -160,13 +160,13 @@
 }
 .input-icon {
   position: absolute;
-  top: 0;
-  left: 18px;
+  top: 5px;
+  left: 180px;
   height: 48px;
   font-size: 24px;
   line-height: 48px;
   text-align: left;
-  color: #ffeba7;
+  color: #ffffff;
   -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
 }
@@ -258,4 +258,17 @@
 
 h4 {
   font-weight: 600;
+}
+
+
+
+.center-text {
+  text-align: center;
+}
+
+.center-button {
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: block;
 }
