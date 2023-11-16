@@ -132,6 +132,7 @@
   display: block;
     margin: 0;
     padding: 0;
+  min-width: 400px;
 }
 .form-style {
   padding: 13px 20px;
