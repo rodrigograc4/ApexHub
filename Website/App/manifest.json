@@ -8,7 +8,7 @@
   "icons": [
     {
       "src": "../Images/F1onLiveIcon.png",
-      "sizes": "192x192",
+      "sizes": "512x512",
       "type": "image/png",
       "density": 1
     },
