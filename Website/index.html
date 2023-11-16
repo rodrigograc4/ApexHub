@@ -166,12 +166,12 @@
       document.getElementById('nextRaceSection').style.display = 'none';
     }
 
-    window.onload = function() {
+    document.addEventListener("DOMContentLoaded", function() {
       let raceElement = document.getElementById("race");
       let raceText = raceElement.innerHTML;
       raceText = raceText.replace(/Grand Prix/g, '<span style="color: #ef1c24;">Grand Prix</span>');
       raceElement.innerHTML = raceText;
-    }
+  });
   </script>
   
 </body>
