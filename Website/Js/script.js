@@ -3,10 +3,11 @@ let data = "";
 var date, date1, date2, date3, date4, obj;
 let offset = new Date().getTimezoneOffset() /-60;
 
-let api = "../API/nextrace.json";
+let my_api = "https://f1onlive.netlify.app/API/nextrace.json";
+let original_api ="http://ergast.com/api/f1/current/next/races.json"
 
 
-getData(api)
+getData(original_api)
 
 // The data/time we want to countdown to
 function setTimer(time, d, h, m, s, e) {
