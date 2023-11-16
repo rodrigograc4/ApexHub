@@ -4,7 +4,7 @@
     "description": "Watch F1 live for free",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#000000",
+    "background_color": "#ef1c24",
     "theme_color": "#000000",
     "icons": [
       {
