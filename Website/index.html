@@ -35,11 +35,6 @@
   </style>
 </head>
 <body>
-  <div id="splash-screen">
-    <!-- Conteúdo da sua tela de abertura, como um logotipo ou mensagem -->
-    <img src="F1onLive.png" alt="Logo">
-    <p>Carregando...</p>
-  </div>
   <div class="bgimg w3-animate-opacity">
     <main class="w3-text-white flexcontainer">
       <a href="index.html">
@@ -177,15 +172,6 @@
       raceText = raceText.replace(/Grand Prix/g, '<span style="color: #ef1c24;">Grand Prix</span>');
       raceElement.innerHTML = raceText;
     }
-
-    document.addEventListener("DOMContentLoaded", function () {
-      // Simula um tempo de carregamento de 3 segundos (3000 milissegundos)
-      setTimeout(function () {
-        // Adiciona a classe 'hidden' para ocultar a tela de abertura
-        document.getElementById("splash-screen").classList.add("hidden");
-      }, 3000);
-    });
-
   </script>
   
 </body>
