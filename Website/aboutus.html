@@ -65,27 +65,65 @@
       </div>
     </main>
     <div class="bottomthings w3-text-white" style="margin-top: 5rem;">
-      <div class="w3-display-bottomleft w3-padding-large" style="margin-top: auto;margin-bottom: 20px;">
-        Made by Rodrigo Graça
+      <div class="w3-display-bottomleft w3-padding-large" style="margin-top: auto;margin-bottom: 25px;">
+        Made by Fans for Fans
       </div>
-      <div class="w3-display-bottomright w3-padding-large">
+      <div id="contactUs" class="w3-display-bottomright w3-padding-large" style="margin-right: 80px;margin-bottom: 25px;">
+        Contact Us
+      </div>
+      <div class="w3-display-bottomright w3-padding-large w3-text-white">
         <ul class="wrapper">
-            <a href="https://www.instagram.com/rodrigograc4/"><li class="icon instagram">
-              <span class="tooltip">Instagram</span>
-              <span><i class="fab fa-instagram"></i></span>
-            </li></a>
-            <a href="https://twitter.com/rodrigograc4"><li class="icon twitter">
-              <span class="tooltip">Twitter</span>
-              <span><i class="fab fa-twitter"></i></span>
-            </li></a>
-            <a href="https://github.com/rodrigograc4"><li class="icon github">
-              <span class="tooltip">Github</span>
-              <span><i class="fab fa-github"></i></span>
-            </li></a>
+          <a>
+            <li class="icon email">
+              <span class="tooltip">Email</span>
+              <span><i class="fas fa-envelope"></i></span>
+            </li>
+          </a>
+          <div class="">
+            <form id="contactForm" action="mailto:rodrigomgraca@gmail.com" method="GET" class="form">
+              <div>
+                <input type="email" placeholder="email@example.com" name="email" required />
+              </div>
+              <div>
+                <input type="text" placeholder="Subject" name="subject" required />
+              </div>
+              <div>
+                <textarea placeholder="Your message" name="body" required></textarea>
+              </div>
+              <div>
+                <button type="submit">Send a message</button>
+              </div>
+              </form>
+            </div>
           </ul>
       </div>
     </div>
   </div>
 
 </body>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Obtém elementos do DOM
+    var emailButton = document.querySelector(".icon.email");
+    var contactForm = document.getElementById("contactForm");
+    var contactUs = document.getElementById("contactUs");
+
+    // Esconde o formulário inicialmente
+    contactForm.style.display = "none";
+    contactUs.style.display = "block";
+
+    // Adiciona um ouvinte de evento de clique ao botão de email
+    emailButton.addEventListener("click", function () {
+      // Exibe o formulário quando o botão de email é clicado
+      if (contactForm.style.display === "none") {
+        contactForm.style.display = "block";
+        contactUs.style.display = "none";
+      } else {
+        contactForm.style.display = "none";
+        contactUs.style.display = "block";
+      }
+    });
+  });
+</script>
+
 </html>
