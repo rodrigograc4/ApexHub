@@ -79,16 +79,19 @@
               <span><i class="fas fa-envelope"></i></span>
             </li>
           </a>
-          <div class="">
-            <form id="contactForm" action="mailto:rodrigomgraca@gmail.com" method="GET" class="form">
+          <div>
+            <form id="contactForm" action="mailto:rodrigomgraca@gmail.com" method="GET" class="form-group">
+              <h4 class="mb-4 pb-3">Log In</h4>
               <div>
-                <input type="text" placeholder="Subject" name="subject" required />
+                <input class="form-style" type="text" placeholder="Subject" name="subject" required />
+                <i class="input-icon uil uil-at"></i>
               </div>
               <div>
-                <textarea placeholder="Your message" name="body" required></textarea>
+                <textarea class="form-style" placeholder="Your message" name="body" style="min-height: 15rem;" required></textarea>
+                <i class="input-icon uil uil-lock-alt"></i>
               </div>
               <div>
-                <button type="submit">Send a message</button>
+                <button class="btn mt-4" type="submit">Send a message</button>
               </div>
               </form>
             </div>
@@ -121,6 +124,7 @@
       }
     });
   });
+
 </script>
 
 </html>
