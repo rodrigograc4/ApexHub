@@ -43,9 +43,9 @@ function setTimer(time, d, h, m, s, e) {
 
 
         // Result is output to the specific element
-        document.getElementById(d).innerHTML = days.toString().padStart(2, "0") + "d "
-        document.getElementById(h).innerHTML = hours.toString().padStart(2, "0") + "h "
-        document.getElementById(m).innerHTML = minutes.toString().padStart(2, "0") + "m "
+        document.getElementById(d).innerHTML = (days !== 0) ? days.toString().padStart(2, "0") + "d " : ""
+        document.getElementById(h).innerHTML = (hours !== 0) ? hours.toString().padStart(2, "0") + "h " : ""
+        document.getElementById(m).innerHTML = (minutes !== 0) ? minutes.toString().padStart(2, "0") + "m " : ""
         document.getElementById(s).innerHTML = seconds.toString().padStart(2, "0") + "s "
 
         // Display the message when countdown is over
