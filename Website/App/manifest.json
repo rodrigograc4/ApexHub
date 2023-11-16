@@ -1,6 +1,5 @@
 {
-    "name": "Formula 1 on Live",
-    "short_name": "F1 on Live",
+    "name": "F1 on Live",
     "description": "Watch F1 live for free",
     "start_url": "/",
     "display": "standalone",
