@@ -49,3 +49,32 @@
   .btn-13:active {
     top: 2px;
   }
+
+
+  .support-btn {
+    display: inline-block; 
+    width: 130px;
+    height: 40px;
+    border: 2px solid #ffffff;
+    background: transparent;
+    cursor: pointer;
+    border-radius: 8px; /* Adicione esta linha para bordas redondas */
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
+  
+  /* 13 */
+  .btn-S {
+     background: transparent;
+    color: #ffffff;
+    z-index: 1;
+    border-radius: 8px; /* Adicione esta linha para bordas redondas */
+  }
+  .btn-S:hover {
+    background-color: transparent;
+    color: #ffffff;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
+  .btn-S:active {
+    top: 2px;
+  }
+
