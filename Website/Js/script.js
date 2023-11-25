@@ -84,7 +84,7 @@ function getTime(dte,t) {
    let minutes = time.split(":")[1];
    let seconds = time.split(":")[2];
    let date = new Date(y, m - 1, d, hours, minutes, seconds); // Set the time of the Date object
-   date.setDate(date.getDate() + 1);    // ADICIONAR UM DIA PORQUE A API ESTA ERRADA
+   //date.setDate(date.getDate() + 1);    // ADICIONAR UM DIA PORQUE A API ESTA ERRADA
    return date.toLocaleString("en-US", {month: "short", day: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"}); // Format the date string in the "MM DD, YYYY HH:MM:SS" format
  }
 
@@ -99,7 +99,7 @@ function getDay(dte,t) {
     let hours = time.split(":")[0];
     let minutes = time.split(":")[1];
     let date = new Date(y, m - 1, d, hours, minutes); // Set the time of the Date object
-    date.setDate(date.getDate() + 1);   // ADICIONAR UM DIA PORQUE A API ESTA ERRADA
+    //date.setDate(date.getDate() + 1);   // ADICIONAR UM DIA PORQUE A API ESTA ERRADA
     return date.toLocaleString("en-US", {month: "short", day: "2-digit", year: "numeric"}) + "  at  " + time; // Format the date string in the "MM DD, YYYY HH:MM:SS" format
   }
 
