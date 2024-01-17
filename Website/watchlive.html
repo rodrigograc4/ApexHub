@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>F1 on Live | Watch Live</title>
+  <link rel="icon" href="Images/F1onLiveWebIcon.png">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="manifest" href="App/manifest.json" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+  <link rel="stylesheet" href="Css/botoes.css">
+  <link rel="stylesheet" href="Css/social.css">
+  <link rel="stylesheet" href="Css/timing.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+  <script src="Js/script.js"></script>
+  <style>
+  body,h1 {font-family: "Raleway", sans-serif}
+  body, html {height: 100%}
+  body{background-color: black}
+  .bgimg {
+    background-image: url('Images/fundo.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+  }
+  #race{
+    font-size: 40px;
+    font-family: 'Raleway', bold;
+    text-transform: uppercase;
+  }
+  </style>
+</head>
+<body>
+  <div class="bgimg w3-animate-opacity">
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: transparent;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">
+          <img src="Images/F1onLiveWebLogo.png" alt="" width="me-auto" height="60px" style="margin-left: 18px;">
+        </a>
+        <button class="navbar-toggler" style="margin-right: 18px;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav" style="margin-right: 18px;">
+            <a class="nav-link active" aria-current="page" href="index.html"  style="font-size: 18px; margin-left: 18px;">Next Race</a>
+            <a class="nav-link active" aria-current="page" href="watchlive.html"  style="font-size: 18px; margin-left: 18px;">Live</a>
+            <a class="nav-link active" aria-current="page" href="lightsout.html"  style="font-size: 18px; margin-left: 18px;">Lights Out</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- End Navbar-->
+
+    <!-- Watch Live -->
+    <main class="w3-text-white flexcontainer">
+      <div class="centrar">
+        <div class="desfoque">
+            <h1 class="w3-jumbo w3-animate-top w3-center">FORMULA 1 <span style="color: #ef1c24;">LIVE</span></h1>
+            <hr class="w3-border-red" style="margin:auto;width:30rem">
+            <p class="w3-large w3-center" style="margin-top: 25px;margin-bottom: 30px;">Watch F1 live for free</p>
+            <div class="frame">
+                <button class="custom-btn btn-13" onclick="iframe('https://v2.sportsonline.so/channels/hd/hd10.php')">English 1</button>
+                <button class="custom-btn btn-13" onclick="iframe('https://v2.sportsonline.so/channels/hd/hd6.php')">English 2</button>
+                <button class="custom-btn btn-13" onclick="iframe('https://v2.sportsonline.so/channels/pt/sporttv4.php')">Portuguese</button>
+                <button class="custom-btn btn-13" onclick="iframe('https://v2.sportsonline.so/channels/hd/hd7.php')">Italian</button>
+            </div>
+        </div>
+    </main>
+    <!-- End Watch Live -->
+    
+  </div>
+
+  <div class="container" style="display: none;">            
+    <iframe id="responsive" src="" name="frame" allow="fullscreen" scrolling="no"></iframe>
+  </div>
+
+  <script>
+    function iframe(sr) {
+      let iframe = document.getElementById("responsive");
+      iframe.src = sr;
+
+      // Exibir o contêiner quando o botão for clicado
+      document.querySelector('.container').style.display = 'block';
+    }
+  </script>
+  
+</body>
+</html>
