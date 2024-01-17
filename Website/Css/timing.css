@@ -39,7 +39,7 @@
     transform: translate(-50%, -50%);
     overflow: hidden;
     max-height: 80vh;
-    max-width: 80vw;
+    max-width: 95vw;
     aspect-ratio: 16/9;
     border: 1px solid #000000;
     border-radius: 2em;
