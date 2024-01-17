@@ -38,8 +38,9 @@
     left: 50%;
     transform: translate(-50%, -50%);
     overflow: hidden;
-    width: 80%;
-    height: 80%;
+    max-height: 80vh;
+    max-width: 80vw;
+    aspect-ratio: 16/9;
     border: 1px solid #000000;
     border-radius: 2em;
     background-color: #000000;
