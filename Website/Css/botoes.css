@@ -15,8 +15,7 @@
   }
 
   .frame {
-    width: 30rem;
-    display: flex;
+    max-width: 30rem;
     margin: auto;
     text-align: center;
   }
