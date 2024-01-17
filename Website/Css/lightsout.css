@@ -35,7 +35,6 @@
     line-height: 1.2;
   }
 
-  @media only screen and (min-width: 600px) {
     .time {
       font-size: 3.5rem;
     }
@@ -59,34 +58,7 @@
     .light.on {
       background: #ff1801;
     }
-  }
-
-  @media only screen and (max-width: 600px) {
-    .time {
-      font-size: 3.5rem;
-    }
-
-    .light-container {
-      width: 60px;
-      padding: 0 5px;
-      border-radius: 8px;
-      background: black;
-      margin: 0 3px;
-    }
-
-    .light {
-      padding-top: 20px; /* Mantenha esta dimensão para manter o círculo */
-      border-radius: 50%;
-      background: #8080805c;
-      margin-bottom: 5px;
-      margin-top: 5px;
-  }
-
-    .light.on {
-      background: #ff1801;
-    }
-  }
-
+  
   .framelightsout {
     width: 23rem;
     margin: auto;
