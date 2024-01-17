@@ -16,6 +16,7 @@
 
   .frame {
     width: 30rem;
+    display: flex;
     margin: auto;
     text-align: center;
   }
