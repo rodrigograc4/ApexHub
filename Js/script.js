@@ -5,7 +5,7 @@ let offset = new Date().getTimezoneOffset() /-60;
 
 
 let original_api ="https://ergast.com/api/f1/current/next/races.json"
-let jsonFile = "/API/nextrace.json"; // Nome do arquivo JSON
+let jsonFile = "/RedApex-F1/API/nextrace.json"; // Nome do arquivo JSON
 
 // Use fetch API to get JSON data
 fetch(jsonFile)
