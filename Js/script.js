@@ -7,7 +7,12 @@ let offset = new Date().getTimezoneOffset() /-60;
 let original_api ="https://ergast.com/api/f1/current/next/races.json"
 let jsonFile = "https://rodrigograc4.github.io/RedApex-F1/API/nextrace.json"; // Nome do arquivo JSON
 
+console.log("something");
+
+console.log(jsonFile);
+
 getData(jsonFile)
+
 
 
 // The data/time we want to countdown to
