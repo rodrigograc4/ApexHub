@@ -9,15 +9,19 @@ let jsonFile = "https://rodrigograc4.github.io/RedApex-F1/API/nextrace.json"; //
 
 // Use fetch API to get JSON data
 fetch(jsonFile)
-  .then(response => response.json())
-  .then(data => {
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    return response.json();
+  })
+  .then(jsonData => {
     // Call the function to process the data
+    data = jsonData.MRData;
     getData(data);
   })
   .catch(error => console.error("Error fetching JSON:", error));
 
-
-getData(data);
 
 // The data/time we want to countdown to
 function setTimer(time, d, h, m, s, e) {
