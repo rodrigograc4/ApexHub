@@ -7,20 +7,7 @@ let offset = new Date().getTimezoneOffset() /-60;
 let original_api ="https://ergast.com/api/f1/current/next/races.json"
 let jsonFile = "https://rodrigograc4.github.io/RedApex-F1/API/nextrace.json"; // Nome do arquivo JSON
 
-// Use fetch API to get JSON data
-fetch(jsonFile)
-  .then(response => {
-    if (!response.ok) {
-      throw new Error(`HTTP error! Status: ${response.status}`);
-    }
-    return response.json();
-  })
-  .then(jsonData => {
-    // Call the function to process the data
-    data = jsonData.MRData;
-    getData(data);
-  })
-  .catch(error => console.error("Error fetching JSON:", error));
+getData(jsonFile)
 
 
 // The data/time we want to countdown to
