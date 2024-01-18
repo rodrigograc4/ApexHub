@@ -13,7 +13,7 @@ Please be aware that this website does not support or encourage piracy activitie
 ## Deployment:
 
 The website can be found deployed in Guthub Pages through the link below:
-https://f1onlive.netlify.app/
+https://rodrigograc4.github.io/RedApex-F1/
 
 ## Author:
 
