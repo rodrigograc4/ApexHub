@@ -112,8 +112,7 @@ var requestOptions = {
 
 async function getData(file) {
     let result = await fetch(file, requestOptions);
-    let dt = await result.json();
-    data = dt.MRData;
+    let data = await result.json();
     var x = data.NextRace.Races[nextRace].date;
     var y = data.NextRace.Races[nextRace].time;
     document.getElementById("race").innerHTML = data.NextRace.Races[nextRace].raceName;
