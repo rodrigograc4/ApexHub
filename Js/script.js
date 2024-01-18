@@ -114,16 +114,16 @@ async function getData(file) {
     let result = await fetch(file, requestOptions);
     let dt = await result.json();
     data = dt.MRData;
-    var x = data.RaceTable.Races[nextRace].date;
-    var y = data.RaceTable.Races[nextRace].time;
-    document.getElementById("race").innerHTML = data.RaceTable.Races[nextRace].raceName;
+    var x = data.NextRace.Races[nextRace].date;
+    var y = data.NextRace.Races[nextRace].time;
+    document.getElementById("race").innerHTML = data.NextRace.Races[nextRace].raceName;
 
     day = getDay(x,y);
 
     date = getTime(x,y);
     setTimer(date, "days", "hours", "mins", "secs", "end");
 
-    obj = data.RaceTable.Races[nextRace];
+    obj = data.NextRace.Races[nextRace];
     obj = Object.values(obj);
 
     day1 = getDay(obj[7].date,obj[7].time);
@@ -142,7 +142,7 @@ async function getData(file) {
     date4 = getTime(obj[10].date,obj[10].time);
     setTimer(date4, "d4", "h4", "m4", "s4", "e4");
 
-    var sprint = data.RaceTable.Races[nextRace].Sprint;
+    var sprint = data.NextRace.Races[nextRace].Sprint;
     if (sprint) {
         document.getElementById("timing1").innerHTML = "1st Practice: " + day1 + "h";
         document.getElementById("timing2").innerHTML = "Qualification: " + day2 + "h";
