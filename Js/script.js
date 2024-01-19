@@ -14,7 +14,6 @@ getData(my_api)
 // The data/time we want to countdown to
 function setTimer(time, d, h, m, s, e) {
 
-    console.log("Data fornecida:", time);
 
     // Verifique e ajuste o formato da data
     var parsedDate = new Date(time);
@@ -36,14 +35,6 @@ function setTimer(time, d, h, m, s, e) {
         var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
         var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
         var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
-
-        console.log("countDownDate:", countDownDate);
-        console.log("now:", now);
-        console.log("timeleft:", timeleft);
-        console.log("days:", days);
-        console.log("hours:", hours);
-        console.log("minutes:", minutes);
-        console.log("seconds:", seconds);
 
 
         // Result is output to the specific element
