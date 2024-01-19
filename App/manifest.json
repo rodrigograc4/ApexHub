@@ -1,7 +1,7 @@
 {
   "name": "RedApex F1",
   "description": "A website dedicated to Formula 1 enthusiasts.",
-  "start_url": "/",
+  "start_url": "/RedApex-F1",
   "display": "standalone",
   "background_color": "#ef1c24",
   "theme_color": "#000000",
