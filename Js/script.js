@@ -106,7 +106,7 @@ async function getData(file) {
     let data = await result.json();
     var x = data.NextRace.Races[nextRace].date;
     var y = data.NextRace.Races[nextRace].time;
-    document.getElementById("race").innerHTML = data.NextRace.Races[nextRace].raceName;
+    document.getElementById("race").innerHTML = data.NextRace[nextRace].raceName;
 
     day = getDay(x,y);
 
@@ -132,7 +132,7 @@ async function getData(file) {
     date4 = getTime(obj[10].date,obj[10].time);
     setTimer(date4, "d4", "h4", "m4", "s4", "e4");
 
-    var sprint = data.NextRace.Races[nextRace].Sprint;
+    var sprint = data.NextRace[nextRace].Sprint;
     if (sprint) {
         document.getElementById("timing1").innerHTML = "1st Practice: " + day1 + "h";
         document.getElementById("timing2").innerHTML = "Qualification: " + day2 + "h";
