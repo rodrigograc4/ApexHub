@@ -1,4 +1,4 @@
-# RedApex F1
+# ApexHub F1
 
 
 ## About:
@@ -13,7 +13,7 @@ Please be aware that this website does not support or encourage piracy activitie
 ## Deployment:
 
 The website can be found deployed in Guthub Pages through the link below:
-https://rodrigograc4.github.io/RedApex-F1/
+https://rodrigograc4.github.io/ApexHub-F1/
 
 ## Author:
 
