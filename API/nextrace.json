@@ -2,28 +2,30 @@
   "NextRace": {
     "season": "2024",
     "round": "1",
-    "raceName": "Bahrain Grand Prix",
-    "date": "2024-03-02",
-    "time": "15:00:00Z",
-    "FirstPractice": {
-      "date": "2024-02-29",
-      "time": "11:30:00Z"
-    },
-    "SecondPractice": {
-      "date": "2024-02-29",
-      "time": "15:00:00Z"
-    },
-    "ThirdPractice": {
-      "date": "2024-03-01",
-      "time": "12:30:00Z"
-    },
-    "Qualifying": {
-      "date": "2024-03-01",
-      "time": "16:00:00Z"
-    },
-    "Sprint": {
-      "date": "2024-03-01",
-      "time": "16:00:00Z"
-    }
+    "Races": [
+      {
+        "season": "2024",
+        "round": "1",
+        "raceName": "Bahrain Grand Prix",
+        "date": "2024-03-02",
+        "time": "06:00:00Z",
+        "FirstPractice": {
+          "date": "2024-02-29",
+          "time": "04:30:00Z"
+        },
+        "SecondPractice": {
+          "date": "2024-02-29",
+          "time": "08:00:00Z"
+        },
+        "ThirdPractice": {
+          "date": "2024-03-01",
+          "time": "04:30:00Z"
+        },
+        "Qualifying": {
+          "date": "2024-03-01",
+          "time": "08:00:00Z"
+        }
+      }
+    ]
   }
 }
