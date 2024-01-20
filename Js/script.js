@@ -104,8 +104,8 @@ var requestOptions = {
 async function getData(file) {
     let result = await fetch(file, requestOptions);
     let data = await result.json();
-    var x = data.NextRace.Races[nextRace].date;
-    var y = data.NextRace.Races[nextRace].time;
+    var x = data.NextRace[nextRace].date;
+    var y = data.NextRace[nextRace].time;
     document.getElementById("race").innerHTML = data.NextRace[nextRace].raceName;
 
     day = getDay(x,y);
@@ -113,7 +113,7 @@ async function getData(file) {
     date = getTime(x,y);
     setTimer(date, "days", "hours", "mins", "secs", "end");
 
-    obj = data.NextRace.Races[nextRace];
+    obj = data.NextRace[nextRace];
     obj = Object.values(obj);
 
     day1 = getDay(obj[7].date,obj[7].time);
