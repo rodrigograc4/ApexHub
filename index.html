@@ -51,112 +51,35 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav" style="margin-right: 18px;">
             <a class="nav-link active" aria-current="page" href="/ApexHub-F1"  style="font-size: 18px; margin-left: 18px;">Home</a>
+            <a class="nav-link" aria-current="page" href="/ApexHub-F1/nextrace"  style="font-size: 18px; margin-left: 18px;">Next Race</a>
             <a class="nav-link" aria-current="page" href="/ApexHub-F1/watchlive"  style="font-size: 18px; margin-left: 18px;">Live</a>
             <a class="nav-link" aria-current="page" href="/ApexHub-F1/lightsout"  style="font-size: 18px; margin-left: 18px;">Mini-Game</a>
+            <a class="nav-link" aria-current="page" href="/ApexHub-F1/aboutus"  style="font-size: 18px; margin-left: 18px;">About Us</a>
           </div>
         </div>
       </div>
     </nav>
     <!-- End Navbar-->
 
-    <!-- Next Race -->
+    <!-- Home -->
     <main class="w3-text-white flexcontainer">
-      <div class="centrar">
+      <div class="centrar" id="formula1Section">
         <div class="desfoque">
-          <h1 class="w3-jumbo w3-animate-top w3-center">NEXT<span style="color: #ef1c24;"> RACE</span></h1>
-          <hr class="w3-border-red" style="margin:auto;width:65%">
-          <div style="display: flex; justify-content: center; align-items: center;">
-            <div class="w3-large w3-center" style="margin-top: 25px;">
-              <table>
-                <tr>
-                    <td id="timing1"></td>  
-                    <td>
-                        <div class="timer2">
-                            <p style="margin-left: 4px;margin-right: 4px;">-</p>
-                            <p id="d1"></p>
-                            <p id="h1"></p>
-                            <p id="m1"></p>
-                            <p id="s1"></p>
-                            <p id="e1"></p>
-                        </div>
-                    </td>
-                </tr>
-                <tr>
-                    <td id="timing2"></td>
-                    <td>
-                        <div class="timer2">
-                          <p style="margin-left: 4px;margin-right: 4px;">-</p>
-                            <p id="d2"></p>
-                            <p id="h2"></p>
-                            <p id="m2"></p>
-                            <p id="s2"></p>
-                            <p id="e2"></p>
-                        </div>
-                </tr>
-                <tr>
-                    <td id="timing3"></td>
-                    <td>
-                        <div class="timer2">
-                          <p style="margin-left: 4px;margin-right: 4px;">-</p>
-                            <p id="d3"></p>
-                            <p id="h3"></p>
-                            <p id="m3"></p>
-                            <p id="s3"></p>
-                            <p id="e3"></p> 
-                        </div>
-                </tr>
-                <tr>
-                    <td id="timing4"></td>
-                    <td>
-                        <div class="timer2">
-                          <p style="margin-left: 4px;margin-right: 4px;">-</p>
-                            <p id="d4"></p>
-                            <p id="h4"></p>
-                            <p id="m4"></p>
-                            <p id="s4"></p>
-                            <p id="e4"></p>
-                        </div>
-                </tr>
-            </table>
-          </div>
+            <h1 class="w3-jumbo w3-animate-top w3-center">APEX <span style="color: #ef1c24;">HUB F1</span></h1>
+            <hr class="w3-border-red" style="margin:auto;width:65%">
+            <p class="w3-large w3-center" style="margin-top: 25px;margin-bottom: 30px;">A website dedicated to F1 enthusiasts.</p>
+            <p class="w3-large w3-center" style="margin-top: 25px;margin-bottom: 30px;">Choose where you want to go in the buttons below:</p>
+            <div class="frame">
+                <button class="custom-btn btn-13" href="/ApexHub-F1/nextrace">Next Race</button>
+                <button class="custom-btn btn-13" href="/ApexHub-F1/watchlive">Live</button>
+                <button class="custom-btn btn-13" href="/ApexHub-F1/lightsout">Mini-Game</button>
+                <button class="custom-btn btn-13" href="/ApexHub-F1/aboutus"">About Us</button>
+            </div>
         </div>
-        <br />
-        <div class="racetimer">
-          <h1 id="race"></h1>
-          <h1 id="timing5" style="margin-right: 4px;font-size: 25px;"></h1>
-          <p id="days" style="margin-right: 4px;"></p>
-          <p id="hours"style="margin-right: 4px;"></p>
-          <p id="mins" style="margin-right: 4px;"></p>
-          <p id="secs" style="margin-right: 4px;"></p>
-          <p id="end"></p>
-        </div>
-      </div>
     </main>
-    <!-- End Next Race -->
+    <!-- End Home -->
     
   </div>
-
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      // Função para verificar e substituir o texto
-      function verificarEGerarSubstituicao() {
-          let raceElement = document.getElementById("race");
-
-          // Verifica se o elemento existe e se contém o texto "Grand Prix"
-          if (raceElement && raceElement.innerHTML.includes("Grand Prix")) {
-              let raceText = raceElement.innerHTML;
-              raceText = raceText.replace(/Grand Prix/g, '<span style="color: #ef1c24;">Grand Prix</span>');
-              raceElement.innerHTML = raceText;
-
-              // Se encontrou e substituiu, interrompe o loop
-              clearInterval(verificacaoInterval);
-          }
-      }
-
-      // Define um intervalo de tempo para chamar a função de verificação a cada 10 milissegundos (0,01 segundo)
-      let verificacaoInterval = setInterval(verificarEGerarSubstituicao, 10);
-    });
-  </script>
   
 </body>
 </html>
