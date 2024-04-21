@@ -13,8 +13,7 @@ Please be aware that this website does not support or encourage piracy activitie
 ## Deployment:
 
 The website can be found deployed in Github Pages through the link below:
-
-https://apexhub-f1.com/
+https://rodrigograc4.github.io/ApexHub-F1/
 
 ## Author:
 
