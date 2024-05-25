@@ -42,7 +42,7 @@ function iframe(sr) {
 async function getLinks() {
     try {
         // Carrega o conteúdo do arquivo
-        const response = await fetch('https://rodrigograc4.github.io/ApexHub-F1/extract.txt');
+        const response = await fetch('https://rodrigograc4.github.io/ApexHub-F1/conteudo.txt');
         const content = await response.text();
         console.log('Conteúdo do arquivo:', content);
         // Divide o conteúdo por linhas
