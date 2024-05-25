@@ -3,7 +3,7 @@ function openLink(key) {
     if (links && links.length > 0) {
         iframe(links[0]);
     } else {
-        alert('No link found in localStorage for key: ' + key);
+        alert('No Stream available in ' + key);
     }
 }
 
@@ -64,11 +64,6 @@ async function getLinks() {
                 }
             }
         });
-
-        if (f1GrandPrixLinks.length === 0) {
-            alert('No Streams available at the moment.');
-            return;
-        }
 
         // Filtra os links que terminam com os sufixos específicos
         f1GrandPrixLinks.forEach(link => {
