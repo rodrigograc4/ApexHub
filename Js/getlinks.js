@@ -42,7 +42,7 @@ function iframe(sr) {
 async function getLinks() {
     try {
         // Carrega o conteúdo do arquivo
-        let content = "../.github/workflows/conteudo.txt";
+        let content = "conteudo.txt";
         console.log('Carregando o arquivo:', content);
         // Divide o conteúdo por linhas
         const lines = content.split('\n');
