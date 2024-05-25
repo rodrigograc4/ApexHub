@@ -2,7 +2,8 @@ name: Atualizar Conteúdo
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # Define a frequência de execução a cada 20 minutos
+    - cron: '*/20 * * * *'
 
 jobs:
   extrair-conteudo:
