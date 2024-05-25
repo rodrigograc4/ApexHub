@@ -1,4 +1,5 @@
 function openLink(key) {
+    getLinks();
     const links = JSON.parse(localStorage.getItem(key));
     if (links && links.length > 0) {
         iframe(links[0]);
@@ -85,5 +86,3 @@ async function getLinks() {
         console.error('Erro ao carregar o arquivo:', error);
     }
 }
-
-getLinks();
