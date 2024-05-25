@@ -65,6 +65,11 @@ async function getLinks() {
             }
         });
 
+        if (f1GrandPrixLinks.length === 0) {
+            console.alert('No Streams available at the moment.');
+            return;
+        }
+
         // Filtra os links que terminam com os sufixos específicos
         f1GrandPrixLinks.forEach(link => {
             if (link.endsWith('hd1.php')) {
