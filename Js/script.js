@@ -7,9 +7,7 @@ let offset = new Date().getTimezoneOffset() /-60;
 let original_api ="https://ergast.com/api/f1/current/next/races.json"
 let my_api = "https://rodrigograc4.github.io/ApexHub-F1/API/nextrace.json"; // Nome do arquivo JSON
 
-getData(my_api)
-
-
+getData(original_api)
 
 // The data/time we want to countdown to
 function setTimer(time, d, h, m, s, e) {
@@ -103,17 +101,18 @@ var requestOptions = {
 
 async function getData(file) {
     let result = await fetch(file, requestOptions);
-    let data = await result.json();
-    var x = data.NextRace.Races[nextRace].date;
-    var y = data.NextRace.Races[nextRace].time;
-    document.getElementById("race").innerHTML = data.NextRace.Races[nextRace].raceName;
+    let dt = await result.json();
+    data = dt.MRData;
+    var x = data.RaceTable.Races[nextRace].date;
+    var y = data.RaceTable.Races[nextRace].time;
+    document.getElementById("race").innerHTML = data.RaceTable.Races[nextRace].raceName;
 
     day = getDay(x,y);
 
     date = getTime(x,y);
     setTimer(date, "days", "hours", "mins", "secs", "end");
 
-    obj = data.NextRace.Races[nextRace];
+    obj = data.RaceTable.Races[nextRace];
     obj = Object.values(obj);
 
     day1 = getDay(obj[7].date,obj[7].time);
@@ -132,7 +131,7 @@ async function getData(file) {
     date4 = getTime(obj[10].date,obj[10].time);
     setTimer(date4, "d4", "h4", "m4", "s4", "e4");
 
-    var sprint = data.NextRace.Races[nextRace].Sprint;
+    var sprint = data.RaceTable.Races[nextRace].Sprint;
     if (sprint) {
         document.getElementById("timing1").innerHTML = "1st Practice: " + day1 + "h";
         document.getElementById("timing2").innerHTML = "Qualification: " + day2 + "h";
