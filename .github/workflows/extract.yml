@@ -23,7 +23,7 @@ jobs:
 
       - name: Extrair Conteúdo
         run: |
-          node extract.js
+          node .github/workflows/extract.js
           git config --global user.email "rodrigomgraca@ua.pt"
           git config --global user.name "rodrigograc4"
           git add conteudo.txt
