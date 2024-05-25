@@ -96,8 +96,8 @@
     <!-- End Loading Screen -->
 
     <!-- Lights Out -->
-    <main class="w3-text-white flexcontainer hidden" id="app" onclick="onClick()">
-      <div class="centrar">
+    <main class="w3-text-white flexcontainer" id="app" onclick="onClick()">
+      <div class="centrar hidden" id="lightsout">
         <div class="desfoque">
           <h1 class="w3-jumbo w3-animate-top w3-center">LIGHTS<span style="color: #ef1c24;"> OUT</span></h1>
           <hr class="w3-border-red" style="margin:auto;width:65%">
@@ -154,11 +154,11 @@
 
       function hideLoadingScreen() {
         document.getElementById("loading").style.display = 'none';
-        document.getElementById("app").classList.remove('hidden');
+        document.getElementById("lightsout").classList.remove('hidden');
       }
 
-      // Mostra a tela de loading por 2 segundo
-      setTimeout(hideLoadingScreen, 2000);
+      // Mostra a tela de loading por 1 segundo
+      setTimeout(hideLoadingScreen, 1000);
     });
   </script>
 
