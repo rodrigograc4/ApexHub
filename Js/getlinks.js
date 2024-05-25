@@ -81,6 +81,13 @@ async function getLinks() {
         localStorage.setItem('English2', JSON.stringify(english2Links));
         localStorage.setItem('Portuguese', JSON.stringify(portugueseLinks));
         localStorage.setItem('Brazilian', JSON.stringify(brazilianLinks));
+
+        // Exibe os links no console
+        console.log('English:', englishLinks);
+        console.log('English2:', english2Links);
+        console.log('Portuguese:', portugueseLinks);
+        console.log('Brazilian:', brazilianLinks);
+        
         
     } catch (error) {
         console.error('Erro ao carregar o arquivo:', error);
