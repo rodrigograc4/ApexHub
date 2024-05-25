@@ -66,7 +66,7 @@ async function getLinks() {
         });
 
         if (f1GrandPrixLinks.length === 0) {
-            console.alert('No Streams available at the moment.');
+            alert('No Streams available at the moment.');
             return;
         }
 
