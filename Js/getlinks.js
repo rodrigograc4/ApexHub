@@ -93,6 +93,6 @@ async function getLinks() {
         
         
     } catch (error) {
-        console.error('Erro ao carregar o arquivo:', error);
+        console.log('Erro ao carregar o arquivo:', error);
     }
 }
