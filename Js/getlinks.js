@@ -43,6 +43,7 @@ async function getLinks() {
     try {
         // Carrega o conteúdo do arquivo
         let content = "../.github/workflows/conteudo.txt";
+        console.log('Carregando o arquivo:', content);
         // Divide o conteúdo por linhas
         const lines = content.split('\n');
 
@@ -59,6 +60,7 @@ async function getLinks() {
                 const url = line.match(/https:\/\/\S+/g);
                 if (url) {
                     f1GrandPrixLinks.push(url[0]);
+                    console.log('Link encontrado:', url[0]);
                 }
             }
         });

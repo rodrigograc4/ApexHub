@@ -14,9 +14,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Configurar Node.js
-        uses: actions/setup-node@v2
+        uses: actions/checkout@v4
         with:
-          node-version: '22.10.0'
+          node-version: 18
 
       - name: Instalar Dependências
         run: npm install puppeteer
