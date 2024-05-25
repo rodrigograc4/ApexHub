@@ -43,7 +43,6 @@ async function getLinks() {
         // Carrega o conteúdo do arquivo
         const response = await fetch('https://rodrigograc4.github.io/ApexHub-F1/.github/workflows/conteudo.html');
         const content = await response.text();
-        console.log('Conteúdo do arquivo:', content);
         // Divide o conteúdo por linhas
         const lines = content.split('\n');
 
@@ -80,17 +79,10 @@ async function getLinks() {
 
         // Armazena os links no localStorage
         localStorage.setItem('English', JSON.stringify(englishLinks));
-        localStorage.setItem('English2', JSON.stringify(english2Links));
+        localStorage.setItem('Italian', JSON.stringify(english2Links));
         localStorage.setItem('Portuguese', JSON.stringify(portugueseLinks));
         localStorage.setItem('Brazilian', JSON.stringify(brazilianLinks));
 
-        // Exibe os links no console
-        console.log('English:', englishLinks);
-        console.log('English2:', english2Links);
-        console.log('Portuguese:', portugueseLinks);
-        console.log('Brazilian:', brazilianLinks);
-        
-        
     } catch (error) {
         console.log('Erro ao carregar o arquivo:', error);
     }
