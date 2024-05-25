@@ -13,6 +13,11 @@ jobs:
       - name: Checkout do Código
         uses: actions/checkout@v2
 
+      - name: Configurar Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
       - name: Instalar Dependências
         run: npm install puppeteer
 
@@ -21,6 +26,6 @@ jobs:
           node extract.js
           git config --global user.email "rodrigomgraca@ua.pt"
           git config --global user.name "rodrigograc4"
-          git add conteudo.html
+          git add conteudo.txt
           git commit -m "Atualizar conteúdo extraído"
           git push

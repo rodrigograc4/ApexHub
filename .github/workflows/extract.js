@@ -10,7 +10,7 @@ const fs = require('fs');
   const htmlContent = await page.evaluate(() => document.documentElement.outerHTML);
 
   // Escrever o HTML extraído em um arquivo
-  fs.writeFileSync('conteudo.html', htmlContent);
+  fs.writeFileSync('conteudo.txt', htmlContent);
 
   console.log('HTML extraído e salvo em conteudo.html');
 
