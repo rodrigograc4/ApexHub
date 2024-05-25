@@ -33,6 +33,33 @@
     font-family: 'Raleway', bold;
     text-transform: uppercase;
   }
+  /* Loading screen styles */
+  .loading-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+
+  .loading-wheel {
+    width: 100px;
+    height: 100px;
+    animation: spin 1s linear infinite;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  .hidden {
+    display: none;
+  }
   </style>
 </head>
 <body>
@@ -60,8 +87,14 @@
     </nav>
     <!-- End Navbar-->
 
+    <!-- Loading Screen -->
+    <div id="loading" class="loading-screen">
+      <img src="Images/F1Wheel.png" alt="Loading" class="loading-wheel">
+    </div>
+    <!-- End Loading Screen -->
+
     <!-- Watch Live -->
-    <main class="w3-text-white flexcontainer">
+    <main class="w3-text-white flexcontainer hidden" id="live">
       <div class="centrar" id="formula1Section">
         <div class="desfoque">
             <h1 class="w3-jumbo w3-animate-top w3-center">WATCH <span style="color: #ef1c24;">LIVE</span></h1>
@@ -92,6 +125,17 @@
       document.querySelector('.container').style.display = 'block';
       document.getElementById('formula1Section').style.display = 'none';
     }
+
+    document.addEventListener("DOMContentLoaded", function() {
+
+      function hideLoadingScreen() {
+        document.getElementById("loading").style.display = 'none';
+        document.getElementById("live").classList.remove('hidden');
+      }
+
+      // Mostra a tela de loading por 2 segundo
+      setTimeout(hideLoadingScreen, 2000);
+    });
   </script>
   
 </body>
