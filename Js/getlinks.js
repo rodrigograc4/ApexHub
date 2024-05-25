@@ -42,7 +42,7 @@ function iframe(sr) {
 async function getLinks() {
     try {
         // Carrega o conteúdo do arquivo
-        let content = await fetch('https://github.com/rodrigograc4/ApexHub-F1/blob/main/.github/workflows/conteudo.txt').then(response => response.text());
+        let content = "../.github/workflows/conteudo.txt";
         // Divide o conteúdo por linhas
         const lines = content.split('\n');
 

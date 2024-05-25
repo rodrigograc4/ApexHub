@@ -7,12 +7,12 @@ const fs = require('fs');
   await page.goto('https://sportsonline.gl/prog.txt');
 
   // Extrair todo o HTML da página
-  const htmlContent = await page.evaluate(() => document.documentElement.outerHTML);
+  const htmlContent = await page.content();
 
   // Escrever o HTML extraído em um arquivo
   fs.writeFileSync('conteudo.txt', htmlContent);
 
-  console.log('HTML extraído e salvo em conteudo.html');
+  console.log('HTML extraído e salvo em conteudo.txt');
 
   await browser.close();
 })();
