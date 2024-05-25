@@ -41,10 +41,9 @@ function iframe(sr) {
 
 async function getLinks() {
     try {
-        // Carrega o conteúdo do arquivo
-        const response = await fetch('../.github/workflows/conteudo.txt');
+        // Carrega o conteúdo do arquivo conteudo.txt
+        const response = await fetch('file://../.github/workflows/conteudo.txt');
         const content = await response.text();
-        console.log('Conteúdo do arquivo:', content);
         // Divide o conteúdo por linhas
         const lines = content.split('\n');
 
