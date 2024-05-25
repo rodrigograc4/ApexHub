@@ -60,6 +60,16 @@
   .hidden {
     display: none;
   }
+  .fullscreen-btn {
+      position: absolute;
+      top: 38px;
+      right: 43px;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 25px; /* Adjust font size as needed */
+      z-index: 1001; /* Ensure button appears on top of iframe */
+    }
   </style>
 </head>
 <body>
@@ -113,7 +123,8 @@
   </div>
 
   <div class="container">            
-    <iframe id="responsive" allow="fullscreen" scrolling="no"></iframe>
+    <button class="fullscreen-btn" onclick="toggleFullscreen()"><i class="fas fa-expand"></i></button>
+    <iframe id="responsive" allowfullscreen="true" scrolling="no"></iframe>
   </div>
 
   <script>
@@ -136,6 +147,17 @@
       // Mostra a tela de loading por 1 segundo
       setTimeout(hideLoadingScreen, 1000);
     });
+
+    function toggleFullscreen() {
+      let iframe = document.getElementById("responsive");
+      if (!document.fullscreenElement) {
+        iframe.requestFullscreen().catch(err => {
+          console.error(`Error attempting to enable full-screen mode: ${err.message}`);
+        });
+      } else {
+        document.exitFullscreen();
+      }
+    }
   </script>
   
 </body>
