@@ -49,12 +49,37 @@ async function getLinks() {
         // Inicializa arrays para armazenar os links filtrados
         let f1GrandPrixLinks = [];
         let englishLinks = [];
-        let english2Links = [];
+        let italianLinks = [];
         let portugueseLinks = [];
         let brazilianLinks = [];
 
         lines.forEach(line => {
-            if (line.includes('F1') && line.includes('Grand Prix')) {
+            //Practice 2
+            if (line.includes('F1') && line.includes('Practice 2')) {
+                const url = line.match(/https:\/\/\S+/g);
+                if (url) {
+                    f1GrandPrixLinks.push(url[0]);
+                    console.log('Link encontrado:', url[0]);
+                }
+            }
+            //Practice 3
+            else if (line.includes('F1') && line.includes('Practice 3')) {
+                const url = line.match(/https:\/\/\S+/g);
+                if (url) {
+                    f1GrandPrixLinks.push(url[0]);
+                    console.log('Link encontrado:', url[0]);
+                }
+            }
+            //Qualifying
+            else if (line.includes('F1') && line.includes('Qualifying')) {
+                const url = line.match(/https:\/\/\S+/g);
+                if (url) {
+                    f1GrandPrixLinks.push(url[0]);
+                    console.log('Link encontrado:', url[0]);
+                }
+            }
+            //Grand Prix
+            else if (line.includes('F1') && line.includes('Grand Prix')) {
                 const url = line.match(/https:\/\/\S+/g);
                 if (url) {
                     f1GrandPrixLinks.push(url[0]);
@@ -67,8 +92,10 @@ async function getLinks() {
         f1GrandPrixLinks.forEach(link => {
             if (link.endsWith('hd1.php')) {
                 englishLinks.push(link);
+            } else if (englishLinks.length === 0 && link.endsWith('hd2.php')) {
+                englishLinks.push(link);
             } else if (link.endsWith('hd8.php')) {
-                english2Links.push(link);
+                italianLinks.push(link);
             } else if (link.endsWith('sporttv4.php')) {
                 portugueseLinks.push(link);
             } else if (link.endsWith('br4.php')) {
@@ -78,7 +105,7 @@ async function getLinks() {
 
         // Armazena os links no localStorage
         localStorage.setItem('English', JSON.stringify(englishLinks));
-        localStorage.setItem('Italian', JSON.stringify(english2Links));
+        localStorage.setItem('Italian', JSON.stringify(italianLinks));
         localStorage.setItem('Portuguese', JSON.stringify(portugueseLinks));
         localStorage.setItem('Brazilian', JSON.stringify(brazilianLinks));
 
