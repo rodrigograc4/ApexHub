@@ -12,7 +12,7 @@ const fs = require('fs');
   // Escrever o HTML extraído em um arquivo
   fs.writeFileSync('conteudo.html', htmlContent);
 
-  console.log('HTML extraído e salvo em conteudo.txt');
+  console.log('HTML extraído e salvo em conteudo.html');
 
   await browser.close();
 })();
