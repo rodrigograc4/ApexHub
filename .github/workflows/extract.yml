@@ -27,5 +27,5 @@ jobs:
           git config --global user.email "rodrigomgraca@ua.pt"
           git config --global user.name "rodrigograc4"
           git add conteudo.html
-          git commit -m "Atualizar conteúdo extraído"
+          git commit -m "Atualizar conteúdo.html"
           git push
