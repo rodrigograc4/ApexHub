@@ -2,8 +2,8 @@ name: Atualizar Conteúdo
 
 on:
   schedule:
-    # Define a frequência de execução a cada 2 minutos
-    - cron: '*/1 * * * *'
+    # Define a frequência de execução uma vez por dia, todos os dias, às 01:17 da manhã
+    - cron: '17 1 * * *'
 
 jobs:
   extrair-conteudo:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout do Código
         uses: actions/checkout@v2
 
-      - name: Configurar Node.js
+      - name: Checkout Node.js
         uses: actions/checkout@v4
         with:
           node-version: 18
