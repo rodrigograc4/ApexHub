@@ -3,7 +3,7 @@ name: Atualizar Conteúdo
 on:
   schedule:
     # Define a frequência de execução uma vez por dia, todos os dias, às 01:17 da manhã
-    - cron: '*/2 * * * *'
+    - cron: '43 1,13 * * *'
 
 jobs:
   extrair-conteudo:
