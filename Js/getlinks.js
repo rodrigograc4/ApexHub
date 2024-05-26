@@ -53,7 +53,6 @@ async function getLinks() {
         let portugueseLinks = [];
         let brazilianLinks = [];
 
-        // Percorre as linhas e extrai os links que contenham 'F1' e 'Grand Prix'
         lines.forEach(line => {
             if (line.includes('F1') && line.includes('Grand Prix')) {
                 const url = line.match(/https:\/\/\S+/g);
