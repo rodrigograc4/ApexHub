@@ -8,9 +8,9 @@ const fs = require('fs');
 
   const htmlContent = await page.content();
 
-  fs.writeFileSync('API/conteudo.html', htmlContent);
+  fs.writeFileSync('API/streaming.txt', htmlContent);
 
-  console.log('HTML extraído e salvo em conteudo.html');
+  console.log('HTML extraído e salvo em streaming.txt');
 
   await browser.close();
 })();
