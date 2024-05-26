@@ -128,7 +128,7 @@ async function getData(file) {
     var sprint = data.RaceTable.Races[nextRace].Sprint;
     if (sprint) {
         document.getElementById("timing1").innerHTML = "1st Practice: " + day1 + "h";
-        document.getElementById("timing2").innerHTML = "Qualification: " + day2 + "h";
+        document.getElementById("timing2").innerHTML = "Qualifying: " + day2 + "h";
         document.getElementById("timing3").innerHTML = "2nd Practice: " + day3 + "h";
         document.getElementById("timing4").innerHTML = "Sprint : " + day4 + "h";
         document.getElementById("timing5").innerHTML = day + "h";
@@ -136,7 +136,7 @@ async function getData(file) {
         document.getElementById("timing1").innerHTML = "1st Practice: " + day1 + "h";
         document.getElementById("timing2").innerHTML = "2nd Practice: " + day2 + "h";
         document.getElementById("timing3").innerHTML = "3rd Practice: " + day3 + "h";
-        document.getElementById("timing4").innerHTML = "Qualification: " + day4 + "h";
+        document.getElementById("timing4").innerHTML = "Qualifying: " + day4 + "h";
         document.getElementById("timing5").innerHTML = day + "h";
     }
 }
