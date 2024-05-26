@@ -7,12 +7,12 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "../Images/ApexHubF1Icon.png",
+      "src": "../Images/ApexIcon_v2-01.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "../Images/ApexHubF1Icon.png",
+      "src": "../Images/ApexIcon_v2-01.png",
       "sizes": "192x192",
       "type": "image/png"
     }
