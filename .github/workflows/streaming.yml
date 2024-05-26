@@ -1,9 +1,8 @@
-name: Atualizar Conteúdo
+name: Atualizar Streaming
 
 on:
   schedule:
-    # Define a frequência de execução uma vez por dia, todos os dias, às 01:17 da manhã
-    - cron: '43 1,13 * * *'
+    - cron: '*/2 * * * *'
 
 jobs:
   extrair-conteudo:
