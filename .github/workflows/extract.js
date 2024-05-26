@@ -6,13 +6,11 @@ const fs = require('fs');
   const page = await browser.newPage();
   await page.goto('https://sportsonline.gl/prog.txt');
 
-  // Extrair todo o HTML da página
-  const htmlContent = await page.evaluate(() => document.documentElement.outerHTML);
+  const htmlContent = await page.content();
 
-  // Escrever o HTML extraído em um arquivo
-  fs.writeFileSync('conteudo.html', htmlContent);
+  fs.writeFileSync('API/streaming.txt', htmlContent);
 
-  console.log('HTML extraído e salvo em conteudo.html');
+  console.log('HTML extraído e salvo em streaming.txt');
 
   await browser.close();
 })();

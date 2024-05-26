@@ -1,9 +1,9 @@
-name: Atualizar Conteúdo
+name: Atualizar Streaming
 
 on:
+  workflow_dispatch: 
   schedule:
-    # Define a frequência de execução a cada 2 minutos
-    - cron: '*/2 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   extrair-conteudo:
@@ -13,14 +13,19 @@ jobs:
       - name: Checkout do Código
         uses: actions/checkout@v2
 
+      - name: Checkout Node.js
+        uses: actions/checkout@v4
+        with:
+          node-version: 18
+
       - name: Instalar Dependências
         run: npm install puppeteer
 
       - name: Extrair Conteúdo
         run: |
-          node extract.js
+          node .github/workflows/extract.js
           git config --global user.email "rodrigomgraca@ua.pt"
           git config --global user.name "rodrigograc4"
-          git add conteudo.html
-          git commit -m "Atualizar conteúdo extraído"
+          git add API/streaming.txt
+          git commit -m "Atualizar streaming.txt"
           git push
