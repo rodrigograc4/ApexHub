@@ -10,7 +10,7 @@ const fs = require('fs');
   const htmlContent = await page.content();
 
   // Escrever o HTML extraído em um arquivo
-  fs.writeFileSync('.github/workflows/conteudo.html', htmlContent);
+  fs.writeFileSync('conteudo.html', htmlContent);
 
   console.log('HTML extraído e salvo em conteudo.txt');
 

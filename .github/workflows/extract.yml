@@ -26,6 +26,6 @@ jobs:
           node .github/workflows/extract.js
           git config --global user.email "rodrigomgraca@ua.pt"
           git config --global user.name "rodrigograc4"
-          git add .
+          git add conteudo.html
           git commit -m "Atualizar conteúdo extraído"
           git push
