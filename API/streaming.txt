@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 01-06-24 |
+                | LAST UPDATE: 02-06-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -32,91 +32,19 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si	
 
-FRIDAY
-HD8 SPANISH
-HD9 SPANISH
-HD10 SPANISH
-HD11 ENGLISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-
-22:00   Cúcuta Deportivo x Llaneros | https://v2.sportsonline.si/channels/hd/hd9.php
-23:00   Ceará x Coritiba | https://v2.sportsonline.si/channels/bra/br1.php
-23:00   Ceará x Coritiba | https://v2.sportsonline.si/channels/bra/br2.php
-01:00   Mexico x Bolivia | https://v2.sportsonline.si/channels/hd/hd11.php
-01:00   Unión Magdalena x Deportes Quindío | https://v2.sportsonline.si/channels/hd/hd9.php
-01:30   Cobreloa x O'Higgins | https://v2.sportsonline.si/channels/hd/hd8.php
-01:30   Goiás x Sport Recife | https://v2.sportsonline.si/channels/bra/br1.php
-01:30   Goiás x Sport Recife | https://v2.sportsonline.si/channels/bra/br2.php
-03:00   Costa Rica x Uruguay | https://v2.sportsonline.si/channels/hd/hd10.php
 
 SATURDAY
 HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
 HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN &amp; ENGLISH
+HD8 ENGLISH
 HD9 SPANISH
-HD10 GREEK &amp; ENGLISH
-HD11 ENGLISH &amp; DUTCH
+HD10 ENGLISH
 
 BR1 BRAZILIAN
-BR2 BRAZILIAN
 BR3 BRAZILIAN
 BR4 BRAZILIAN
-BR5 BRAZILIAN
 BR6 BRAZILIAN
-BR7 BRAZILIAN
 
-07:30   Moto2/3: Italy Practice 2 | https://v2.sportsonline.si/channels/hd/hd11.php
-07:30   Moto2/3: Italy Practice 2 | https://v2.sportsonline.si/channels/pt/sporttv4.php 
-07:30   Moto2/3: Italy Practice 2 | https://v2.sportsonline.si/channels/bra/br6.php
-09:30   Roland-Garros - D7 | https://v2.sportsonline.si/channels/hd/hd2.php
-09:45   MotoGP: Italy Qualifying | https://v2.sportsonline.si/channels/hd/hd11.php
-09:45   MotoGP: Italy Qualifying | https://v2.sportsonline.si/channels/pt/sporttv4.php  
-09:45   MotoGP: Italy Qualifying | https://v2.sportsonline.si/channels/bra/br6.php
-11:00   MotoE: GP of Italy - Race 1 | https://v2.sportsonline.si/channels/hd/hd11.php
-11:00   MotoE: GP of Italy - Race 1 | https://v2.sportsonline.si/channels/pt/sporttv4.php 
-11:00   MotoE: GP of Italy - Race 1 | https://v2.sportsonline.si/channels/bra/br6.php
-11:00   Roland-Garros - D7 | https://v2.sportsonline.si/channels/hd/hd2.php
-11:45   Moto2/3: Italy Qualifying | https://v2.sportsonline.si/channels/hd/hd11.php 
-11:45   Moto2/3: Italy Qualifying | https://v2.sportsonline.si/channels/pt/sporttv4.php  
-11:45   Moto2/3: Italy Qualifying | https://v2.sportsonline.si/channels/bra/br6.php
-12:00   DP World Tour: European Open - D3 | https://v2.sportsonline.si/channels/pt/sporttv3.php
-13:30   MotoGP: Italy Sprint Race | https://v2.sportsonline.si/channels/hd/hd11.php
-13:30   MotoGP: Italy Sprint Race | https://v2.sportsonline.si/channels/pt/sporttv4.php  
-13:30   MotoGP: Italy Sprint Race | https://v2.sportsonline.si/channels/bra/br6.php 
-14:00   Mamelodi Sundowns x Orlando Pirates | https://v2.sportsonline.si/channels/hd/hd5.php 
-15:00   Basketball: Flamengo x Franca | https://v2.sportsonline.si/channels/bra/br6.php
-16:00   Roland-Garros - D7 | https://v2.sportsonline.si/channels/hd/hd2.php
-17:00   WNBA: Indiana Fever @ Chicago Sky | https://v2.sportsonline.si/channels/bra/br6.php
-19:00   Canada W x Mexico W | https://v2.sportsonline.si/channels/hd/hd5.php
-19:00   Volleyball: Belgium x Portugal | https://v2.sportsonline.si/channels/pt/sporttv1.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd1.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd2.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd3.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd4.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd6.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd7.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd8.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd10.ph
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/hd/hd11.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/pt/eleven1.php 
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/bra/br2.php
-20:00   Borussia Dortmund x Real Madrid | https://v2.sportsonline.si/channels/bra/br3.php
-20:00   Grêmio x RB Bragantino | https://v2.sportsonline.si/channels/bra/br4.php
-20:00   Vitória x Atlético Goianiense | https://v2.sportsonline.si/channels/bra/br5.php
-20:00   Sail GP: Rockwool Canada Sail GP | https://v2.sportsonline.si/channels/pt/sporttv3.php
-21:00   Forge x York United | https://v2.sportsonline.si/channels/hd/hd5.php
-21:00   Brazil W x Jamaica W | https://v2.sportsonline.si/channels/bra/br1.php
-22:00   Racing Club x Deportivo Riestra | https://v2.sportsonline.si/channels/hd/hd9.php
-22:00   USA W x South Korea W | https://v2.sportsonline.si/channels/bra/br6.php
-22:30   Cuiabá x Internacional | https://v2.sportsonline.si/channels/bra/br5.php
-22:30   Fluminense x Juventude | https://v2.sportsonline.si/channels/bra/br7.php
 00:00   Pacific x Cavalry | https://v2.sportsonline.si/channels/hd/hd5.php
 00:15   Belgrano x Argentinos Juniors | https://v2.sportsonline.si/channels/hd/hd9.php
 00:30   Inter Miami x St. Louis City | https://v2.sportsonline.si/channels/hd/hd10.php
