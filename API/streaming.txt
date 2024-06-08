@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 07-06-24 |
+                | LAST UPDATE: 08-06-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -33,17 +33,119 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si	
 
 FRIDAY
+HD6 SPANISH
+
+BR1 BRAZILIAN
+BR3 BRAZILIAN
+BR6 BRAZILIAN
+
+01:00   Novorizontino x Santos | https://v2.sportsonline.si/channels/bra/br3.php
+01:00   Flamengo W x Grêmio W | https://v2.sportsonline.si/channels/bra/br1.php
+01:00   One Championship: One Fight Night | https://v2.sportsonline.si/channels/pt/sporttv3.php
+01:30   Peru x Paraguay | https://v2.sportsonline.si/channels/hd/hd6.php (*If Show on TV)
+02:00   Boxing: Oscar Collazo x Gerardo Zapata | https://v2.sportsonline.si/channels/bra/br6.php
+
+SATURDAY
 HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
-HD4 TURKISH
+HD3 GERMAN &amp; DUTCH
+HD4 BELGIAN
 HD5 ENGLISH
 HD6 SPANISH
 HD7 ITALIAN
-HD8 ALBANIAN &amp; ARABIC
-HD9 GREEK &amp; SPANISH
-HD10 POLISH
-HD11 ROMANIAN
+HD8 DANISH &amp; SPANISH
+HD9 ENGLISH &amp; SPANISH
+HD10 HUNGARIAN &amp; SPANISH
+HD11 GREEK &amp; ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+BR7 BRAZILIAN
+
+12:30   DP World Tour: Scandinavian Mixed - D3 | https://v2.sportsonline.si/channels/pt/sporttv3.php 
+13:00   Japan U21 x Indonesia U20 | https://v2.sportsonline.si/channels/pt/sporttv2.php
+14:00   Slovenia x Bulgaria | https://v2.sportsonline.si/channels/hd/hd5.php
+14:00   Slovenia x Bulgaria | https://v2.sportsonline.si/channels/bra/br1.php
+14:00   Cameroon x Cape Verde Islands | https://v2.sportsonline.si/channels/pt/sporttv1.php
+14:00   Handball: SG Magdeburg x AAlborg | https://v2.sportsonline.si/channels/pt/sporttv5.php
+17:00   Switzerland x Austria | https://v2.sportsonline.si/channels/hd/hd3.php
+17:00   Sweden x Serbia | https://v2.sportsonline.si/channels/hd/hd9.php
+17:00   Sweden x Serbia | https://v2.sportsonline.si/channels/pt/sporttv2.php
+17:00   Sweden x Serbia | https://v2.sportsonline.si/channels/bra/br2.php
+17:00   Hungary x Israel | https://v2.sportsonline.si/channels/hd/hd10.php
+17:00   Moldova x Cyprus | https://v2.sportsonline.si/channels/hd/hd11.php
+17:00   Handball: Barcelona x THW Kiel | https://v2.sportsonline.si/channels/pt/sporttv5.php
+17:15   F1: Canadian GP Practice 3 | https://v2.sportsonline.si/channels/hd/hd2.php
+17:15   F1: Canadian GP Practice 3 | https://v2.sportsonline.si/channels/hd/hd7.php
+17:15   F1: Canadian GP Practice 3 | https://v2.sportsonline.si/channels/bra/br4.php
+17:30   Real Oviedo x Eibar | https://v2.sportsonline.si/channels/hd/hd6.php
+17:30   Real Oviedo x Eibar | https://v2.sportsonline.si/channels/pt/eleven1.php
+17:45   Portugal x Croatia | https://v2.sportsonline.si/channels/hd/hd5.php
+17:45   Portugal x Croatia | https://v2.sportsonline.si/channels/pt/sporttv1.php 
+17:45   Portugal x Croatia | https://v2.sportsonline.si/channels/bra/br1.php
+18:30   Denmark x Norway | https://v2.sportsonline.si/channels/hd/hd8.php
+18:30   Denmark x Norway | https://v2.sportsonline.si/channels/pt/sporttv3.php 
+18:30   Denmark x Norway | https://v2.sportsonline.si/channels/bra/br5.php
+19:00   Belgium x Luxembourg | https://v2.sportsonline.si/channels/hd/hd4.php
+19:00   Belgium x Luxembourg | https://v2.sportsonline.si/channels/pt/sporttv2.php
+19:00   Belgium x Luxembourg | https://v2.sportsonline.si/channels/bra/br7.php
+19:00   HFX Wanderers x Pacific | https://v2.sportsonline.si/channels/hd/hd11.php
+19:30   Basketball: Real Madrid x Murcia | https://v2.sportsonline.si/channels/pt/sporttv1.php
+20:00   F1: Canadian GP Qualifying | https://v2.sportsonline.si/channels/hd/hd2.php
+20:00   F1: Canadian GP Qualifying | https://v2.sportsonline.si/channels/hd/hd7.php
+20:00   F1: Canadian GP Qualifying | https://v2.sportsonline.si/channels/bra/br4.php
+20:10   Indy Car: Road America - Qualifying | https://v2.sportsonline.si/channels/pt/sporttv5.php
+20:30   Spain x Northern Ireland | https://v2.sportsonline.si/channels/hd/hd5.ph
+20:30   Spain x Northern Ireland | https://v2.sportsonline.si/channels/hd/hd6.php
+20:30   Spain x Northern Ireland | https://v2.sportsonline.si/channels/pt/sporttv1.php
+20:30   Spain x Northern Ireland | https://v2.sportsonline.si/channels/bra/br2.php
+20:45   NBB: Franca x Flamengo | https://v2.sportsonline.si/channels/bra/br1.php
+21:00   Amazonas x Brusque | https://v2.sportsonline.si/channels/bra/br3.php
+21:00   Guarani x Operário PR | https://v2.sportsonline.si/channels/bra/br6.php
+21:20   Platense x Huracán | https://v2.sportsonline.si/channels/hd/hd10.php
+22:30   USA x Colombia | https://v2.sportsonline.si/channels/hd/hd1.php
+22:30   USA x Colombia | https://v2.sportsonline.si/channels/hd/hd9.php
+22:30   USA x Colombia | https://v2.sportsonline.si/channels/pt/sporttv3.php
+22:30   USA x Colombia | https://v2.sportsonline.si/channels/bra/br2.php
+23:00   Cavalry x Forge | https://v2.sportsonline.si/channels/hd/hd11.php
+23:00   Gremio x Estudiantes | https://v2.sportsonline.si/channels/bra/br5.php
+23:00   Gremio x Estudiantes | https://v2.sportsonline.si/channels/bra/br6.php
+23:00   Gremio x Estudiantes | https://v2.sportsonline.si/channels/pt/sporttv2.php
+23:00   UFC Fight Night: Prelims | https://v2.sportsonline.si/channels/hd/hd5.php
+23:00   UFC Fight Night: Prelims | https://v2.sportsonline.si/channels/bra/br7.php
+00:00   San Lorenzo x Chacarita Juniors | https://v2.sportsonline.si/channels/hd/hd10.php
+01:00   Belize x Nicaragua | https://v2.sportsonline.si/channels/hd/hd11.php
+01:00   Aruba x Curaçao | https://v2.sportsonline.si/channels/hd/hd3.php
+01:00   UFC Fight Night: Jared Cannonier v Nassourdine Imavov | https://v2.sportsonline.si/channels/hd/hd5.php
+01:00   UFC Fight Night: Jared Cannonier v Nassourdine Imavov | https://v2.sportsonline.si/channels/pt/sporttv1.php
+01:00   UFC Fight Night: Jared Cannonier v Nassourdine Imavov | https://v2.sportsonline.si/channels/bra/br7.php
+01:00   NHL Stanley Cup: Florida Panthers @ Edmonton Oilers | https://v2.sportsonline.si/channels/pt/sporttv3.php
+01:00   NASCAR Xfinity Series: Zip Buy Now, Pay Later 250 - Sonoma | https://v2.sportsonline.si/channels/pt/sporttv4.php
+01:30   Mexico x Brazil | https://v2.sportsonline.si/channels/hd/hd6.php
+01:30   Mexico x Brazil | https://v2.sportsonline.si/channels/hd/hd8.php
+01:30   Mexico x Brazil | https://v2.sportsonline.si/channels/bra/br1.php
+01:30   Mexico x Brazil | https://v2.sportsonline.si/channels/bra/br3.php
+01:30   Mexico x Brazil | https://v2.sportsonline.si/channels/bra/br6.php
+01:30   Internacional x Delfín | https://v2.sportsonline.si/channels/bra/br2.php
+01:30   Internacional x Delfín | https://v2.sportsonline.si/channels/pt/sporttv2.php
+02:00   Fight Night International: Zayas v Teixeira | https://v2.sportsonline.si/channels/hd/hd2.php
+
+SUNDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 FRENCH
+HD5 ENGLISH
+HD6 SPANISH 
+HD7 ITALIAN 
+HD8 ITALIAN
+HD9 ITALIAN
+HD10 ARABIC
+HD11 ENGLISH
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
@@ -52,44 +154,44 @@ BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-12:00   Cambodia x Mongolia | https://v2.sportsonline.si/channels/hd/hd5.php
-12:00   DP World Tour: Scandinavian Mixed - D2 | https://v2.sportsonline.si/channels/pt/sporttv3.php 
-13:00   Mexico U23 x Saudi Arabia U23 | https://v2.sportsonline.si/channels/pt/sporttv2.php
-14:00   Mozambique x Somalia | https://v2.sportsonline.si/channels/pt/sporttv1.php
-16:30   Czech Republic x Malta | https://v2.sportsonline.si/channels/hd/hd4.php
-16:30   Czech Republic x Malta | https://v2.sportsonline.si/channels/pt/sporttv1.php
-16:30   France U20 x Korea Republic U21 | https://v2.sportsonline.si/channels/pt/sporttv2.php
-17:00   Armenia x Kazakhstan | https://v2.sportsonline.si/channels/hd/hd1.php
-17:00   Armenia x Kazakhstan | https://v2.sportsonline.si/channels/hd/hd5.php
-17:00   Angola x Eswatini | https://v2.sportsonline.si/channels/pt/sporttv5.php
-18:00   F1: Canadian GP Practice 1 | https://v2.sportsonline.si/channels/hd/hd2.php
-18:00   F1: Canadian GP Practice 1 | https://v2.sportsonline.si/channels/hd/hd7.php
-18:00   F1: Canadian GP Practice 1 | https://v2.sportsonline.si/channels/pt/sporttv4.php
-18:00   F1: Canadian GP Practice 1 | https://v2.sportsonline.si/channels/bra/br4.php
-18:00   Albania x Azerbaijan | https://v2.sportsonline.si/channels/hd/hd8.php
-19:00   Romania x Liechtenstein | https://v2.sportsonline.si/channels/hd/hd11.php
-19:45   Scotland x Finland | https://v2.sportsonline.si/channels/hd/hd1.php
-19:45   England x Iceland | https://v2.sportsonline.si/channels/hd/hd5.php
-19:45   England x Iceland | https://v2.sportsonline.si/channels/pt/sporttv2.php
-19:45   England x Iceland | https://v2.sportsonline.si/channels/bra/br5.php
-19:45   Germany x Greece | https://v2.sportsonline.si/channels/hd/hd3.php
-19:45   Germany x Greece | https://v2.sportsonline.si/channels/hd/hd9.php
-19:45   Germany x Greece | https://v2.sportsonline.si/channels/hd/hd4.php
-19:45   Germany x Greece | https://v2.sportsonline.si/channels/pt/sporttv1.php
-19:45   Germany x Greece | https://v2.sportsonline.si/channels/bra/br2.php
-19:45   Poland x Ukraine | https://v2.sportsonline.si/channels/hd/hd10.php
-19:45   Poland x Ukraine | https://v2.sportsonline.si/channels/pt/sporttv3.php
-19:45   Poland x Ukraine | https://v2.sportsonline.si/channels/bra/br6.php
-20:00   Nigeria x South Africa | https://v2.sportsonline.si/channels/pt/sporttv5.php
-20:00   Morocco x Zambia | https://v2.sportsonline.si/channels/hd/hd8.php
-21:45   F1: Canadian GP Practice 2 | https://v2.sportsonline.si/channels/hd/hd2.php
-21:45   F1: Canadian GP Practice 2 | https://v2.sportsonline.si/channels/hd/hd7.php
-21:45   F1: Canadian GP Practice 2 | https://v2.sportsonline.si/channels/pt/sporttv4.php
-21:45   F1: Canadian GP Practice 2 | https://v2.sportsonline.si/channels/bra/br4.php
-23:00   Coritiba x Ituano | https://v2.sportsonline.si/channels/bra/br1.php
-00:00   San Lorenzo x Chacarita Juniors | https://v2.sportsonline.si/channels/hd/hd9.php
-01:00   Novorizontino x Santos | https://v2.sportsonline.si/channels/bra/br3.php
-01:00   Flamengo W x Grêmio W | https://v2.sportsonline.si/channels/bra/br1.php
-01:00   One Championship: One Fight Night | https://v2.sportsonline.si/channels/pt/sporttv3.php
-01:30   Peru x Paraguay | https://v2.sportsonline.si/channels/hd/hd6.php (*If Show on TV)
-02:00   Boxing: Oscar Collazo x Gerardo Zapata | https://v2.sportsonline.si/channels/bra/br6.php</pre></body></html>
+06:00   Kings World Cup - Final | https://v2.sportsonline.si/channels/pt/eleven1.php
+12:30   DP World Tour: Scandinavian Mixed - D4 | https://v2.sportsonline.si/channels/pt/sporttv3.php 
+13:00   Côte D'ivoire U20 x Mexico U23 | https://v2.sportsonline.si/channels/pt/sporttv1.php
+14:00   Sao Tome e Principe x Liberia | https://v2.sportsonline.si/channels/pt/sporttv2.php 
+16:00   Hockey: Sporting x Porto | https://v2.sportsonline.si/channels/pt/eleven1.php
+16:30   Carrarese x Vicenza | https://v2.sportsonline.si/channels/hd/hd9.php
+16:30   France U20 x Saudi Arabia U23 | https://v2.sportsonline.si/channels/pt/sporttv1.php
+17:00   Namibia x Tunisia | https://v2.sportsonline.si/channels/pt/sporttv2.php 
+17:00   Handball: Champeons League - Final | https://v2.sportsonline.si/channels/pt/sporttv5.php 
+18:00   Hockey: Oliveirense x Benfica | https://v2.sportsonline.si/channels/pt/eleven1.php
+18:30   Valour x Atlético Ottawa | https://v2.sportsonline.si/channels/hd/hd11.php
+19:00   F1: Canadian Grand Prix | https://v2.sportsonline.si/channels/hd/hd2.php
+19:00   F1: Canadian Grand Prix | https://v2.sportsonline.si/channels/hd/hd3.php
+19:00   F1: Canadian Grand Prix | https://v2.sportsonline.si/channels/hd/hd7.php
+19:00   F1: Canadian Grand Prix | https://v2.sportsonline.si/channels/pt/sporttv4.php
+19:00   F1: Canadian Grand Prix | https://v2.sportsonline.si/channels/bra/br4.php
+19:30   England XI x Soccer Aid World XI | https://v2.sportsonline.si/channels/hd/hd1.php
+19:45   Slovakia x Wales | https://v2.sportsonline.si/channels/hd/hd5.php
+19:45   Italy x Bosnia and Herzegovina | https://v2.sportsonline.si/channels/hd/hd8.php
+19:45   Italy x Bosnia and Herzegovina | https://v2.sportsonline.si/channels/pt/sporttv1.php
+19:45   Italy x Bosnia and Herzegovina | https://v2.sportsonline.si/channels/bra/br5.php
+19:45   Montenegro x Georgia | https://v2.sportsonline.si/channels/hd/hd10.php
+19:45   Montenegro x Georgia | https://v2.sportsonline.si/channels/pt/sporttv3.php 
+20:00   Sporting Gijón x Espanyol | https://v2.sportsonline.si/channels/hd/hd6.php
+20:00   Sporting Gijón x Espanyol | https://v2.sportsonline.si/channels/pt/eleven1.php
+20:00   Criciúma x Cuiabá | https://v2.sportsonline.si/channels/bra/br6.php
+20:00   Avaí x Chapecoense | https://v2.sportsonline.si/channels/bra/br3.php
+20:15   France x Canada | https://v2.sportsonline.si/channels/hd/hd11.php
+20:15   France x Canada | https://v2.sportsonline.si/channels/hd/hd4.php
+20:15   France x Canada | https://v2.sportsonline.si/channels/pt/sporttv2.php 
+20:15   France x Canada | https://v2.sportsonline.si/channels/bra/br1.php
+20:30   CRB x Fortaleza | https://v2.sportsonline.si/channels/bra/br2.php
+20:30   NASCAR Cup Series: Toyota / Save Mart 350 - Sonoma | https://v2.sportsonline.si/channels/pt/sporttv5.php 
+22:30   América Mineiro x Ponte Preta | https://v2.sportsonline.si/channels/bra/br3.php
+00:00   Argentina x Ecuador | https://v2.sportsonline.si/channels/hd/hd6.php
+00:00   Argentina x Ecuador | https://v2.sportsonline.si/channels/bra/br1.php
+01:00   NBA: Dallas Mavericks @ Boston Celtics | https://v2.sportsonline.si/channels/hd/hd1.php
+01:00   NBA: Dallas Mavericks @ Boston Celtics | https://v2.sportsonline.si/channels/hd/hd5.php
+01:00   NBA: Dallas Mavericks @ Boston Celtics | https://v2.sportsonline.si/channels/pt/sporttv1.php 
+01:00   NBA: Dallas Mavericks @ Boston Celtics | https://v2.sportsonline.si/channels/bra/br5.php
+01:00   NBA: Dallas Mavericks @ Boston Celtics | https://v2.sportsonline.si/channels/bra/br4.php</pre></body></html>
