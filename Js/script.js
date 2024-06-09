@@ -166,9 +166,9 @@ if (endElement && endElement.innerHTML === "TIME UP!!") {
 // NOTIFICATION
 
 
-// Importa os scripts do Firebase
-importScripts('https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js');
-importScripts('https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js');
+// Importando Firebase
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js";
 
 // Configuração do Firebase
 const firebaseConfig = {
@@ -181,51 +181,36 @@ const firebaseConfig = {
     measurementId: "G-0KWSCPC724"
 };
 
-// VAPID Key
-const vapidKey = "BPvCrGZMQ0lw0DjkCAIvYpmmo9Mwwv69hizLIoh6aliJ5VkICoF8HDdo_I9sTtNwXiyxS0x9hbfdJAQs52utEDU"; // Sua chave VAPID
-
-// Inicializa o Firebase
-firebase.initializeApp(firebaseConfig);
-
+// Inicializando o Firebase
+const app = initializeApp(firebaseConfig);
 const messaging = getMessaging(app);
 
-// Request permission to send notifications
+// Solicitando permissão
 async function requestPermission() {
-console.log('Requesting permission...');
-const permission = await Notification.requestPermission();
-if (permission === 'granted') {
-    console.log('Notification permission granted.');
-
-
-    // Get the token
-    const currentToken = await messaging.getToken({
-    vapidKey: "BPvCrGZMQ0lw0DjkCAIvYpmmo9Mwwv69hizLIoh6aliJ5VkICoF8HDdo_I9sTtNwXiyxS0x9hbfdJAQs52utEDU"
-    });
-
-    if (currentToken) {
-    console.log('Current token:', currentToken);
-    // Optionally, send the token to your server
-    } else {
-    console.log('No registration token available. Request permission to generate one.');
-    }
-} else {
-    console.log('Unable to get permission to notify.');
+  const permission = await Notification.requestPermission();
+  if (permission === 'granted') {
+    console.log('Permissão de notificação concedida.');
+    // Corrigindo a chamada ao getToken
+    const token = await getToken(messaging, { vapidKey: "BPvCrGZMQ0lw0DjkCAIvYpmmo9Mwwv69hizLIoh6aliJ5VkICoF8HDdo_I9sTtNwXiyxS0x9hbfdJAQs52utEDU" });
+    console.log('Token:', token);
+  } else {
+    console.log('Não foi possível obter permissão para enviar notificações.');
+  }
 }
-}
-  
-// Initialize Firebase Messaging and request permission
+
 requestPermission();
 
-// Handle incoming messages when the app is in the foreground
+// Lidando com mensagens recebidas quando o aplicativo está em primeiro plano
 onMessage(messaging, (payload) => {
-  console.log('Message received. ', payload);
-  // Customize notification here
+  console.log('Mensagem recebida.', payload);
+  // Personalizando a notificação aqui
   const notificationTitle = payload.notification.title;
   const notificationOptions = {
     body: payload.notification.body,
     icon: 'Images/ApexIcon_v2-01.png'
   };
 
-  // Show the notification
+  // Exibindo a notificação
   new Notification(notificationTitle, notificationOptions);
 });
+
