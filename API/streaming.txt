@@ -32,19 +32,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si	
 
-FRIDAY
-HD6 SPANISH
-
-BR1 BRAZILIAN
-BR3 BRAZILIAN
-BR6 BRAZILIAN
-
-01:00   Novorizontino x Santos | https://v2.sportsonline.si/channels/bra/br3.php
-01:00   Flamengo W x Grêmio W | https://v2.sportsonline.si/channels/bra/br1.php
-01:00   One Championship: One Fight Night | https://v2.sportsonline.si/channels/pt/sporttv3.php
-01:30   Peru x Paraguay | https://v2.sportsonline.si/channels/hd/hd6.php (*If Show on TV)
-02:00   Boxing: Oscar Collazo x Gerardo Zapata | https://v2.sportsonline.si/channels/bra/br6.php
-
 SATURDAY
 HD1 ENGLISH
 HD2 ENGLISH
@@ -66,12 +53,6 @@ BR5 BRAZILIAN
 BR6 BRAZILIAN
 BR7 BRAZILIAN
 
-12:30   DP World Tour: Scandinavian Mixed - D3 | https://v2.sportsonline.si/channels/pt/sporttv3.php 
-13:00   Japan U21 x Indonesia U20 | https://v2.sportsonline.si/channels/pt/sporttv2.php
-14:00   Slovenia x Bulgaria | https://v2.sportsonline.si/channels/hd/hd5.php
-14:00   Slovenia x Bulgaria | https://v2.sportsonline.si/channels/bra/br1.php
-14:00   Cameroon x Cape Verde Islands | https://v2.sportsonline.si/channels/pt/sporttv1.php
-14:00   Handball: SG Magdeburg x AAlborg | https://v2.sportsonline.si/channels/pt/sporttv5.php
 17:00   Switzerland x Austria | https://v2.sportsonline.si/channels/hd/hd3.php
 17:00   Sweden x Serbia | https://v2.sportsonline.si/channels/hd/hd9.php
 17:00   Sweden x Serbia | https://v2.sportsonline.si/channels/pt/sporttv2.php
