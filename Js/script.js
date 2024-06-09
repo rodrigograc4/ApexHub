@@ -37,6 +37,17 @@ function setTimer(time, d, h, m, s, e) {
         document.getElementById(m).innerHTML = (days !== 0 || hours !== 0 || minutes !== 0) ? minutes.toString().padStart(2, "0") + "m " : "";
         document.getElementById(s).innerHTML = seconds.toString().padStart(2, "0") + "s ";
 
+        // Send push notification when days are 3, 2, or 1
+        if (days === 3 & hours === 0 && minutes === 0 && seconds === 0) {
+            sendNotification("Its race weekend", "The countdown to the race has started!");
+        } else if (days === 2 && hours === 0 && minutes === 0 && seconds === 0) {
+            sendNotification("Less than 2 days left", "Don't forget it!");
+        } else if (days === 1 && hours === 0 && minutes === 0 && seconds === 0) {
+            sendNotification("24 hours until the race", "Are you ready?");
+        } else if (days === 0 && hours === 1 && minutes === 0 && seconds === 0) {
+            sendNotification("Race almost starting", "Lights out in 1 hour!");
+        }
+
         // Display the message when countdown is over
         if (timeleft < 0) {
             clearInterval(myfunc);
@@ -46,7 +57,7 @@ function setTimer(time, d, h, m, s, e) {
             document.getElementById(s).innerHTML = "";
             document.getElementById(e).innerHTML = "TIME UP!!";
         }
-    });
+    }, 1000);
 }
 
 function clearTimer() {
@@ -145,3 +156,38 @@ var endElement = document.getElementById("end");
 if (endElement && endElement.innerHTML === "TIME UP!!") {
     clearTimer();
 }
+
+
+document.addEventListener("DOMContentLoaded", function() {
+    // Solicita permissão de notificação do usuário
+    function requestPermission() {
+        console.log('Requesting permission...');
+        Notification.requestPermission().then((permission) => {
+            if (permission === 'granted') {
+                console.log('Notification permission granted.');
+                // Inicialize o Firebase Messaging
+                const messaging = getMessaging(app);
+                
+                // Obtenha o token de registro
+                getToken(messaging, { vapidKey: 'BPvCrGZMQ0lw0DjkCAIvYpmmo9Mwwv69hizLIoh6aliJ5VkICoF8HDdo_I9sTtNwXiyxS0x9hbfdJAQs52utEDU' }).then((currentToken) => {
+                    if (currentToken) {
+                        // Enviar o token para o seu servidor e atualizar a interface do usuário, se necessário
+                        console.log('Token:', currentToken);
+                        // Aqui você pode enviar o token para o seu servidor e fazer qualquer outra coisa necessária
+                    } else {
+                        // Caso não haja um token disponível, solicitar permissão novamente
+                        console.log('No registration token available. Request permission to generate one.');
+                    }
+                }).catch((err) => {
+                    console.log('An error occurred while retrieving token. ', err);
+                });
+            } else {
+                // Se a permissão for recusada, lide com isso aqui
+                console.log('Notification permission denied.');
+            }
+        });
+    }
+
+    // Chama a função para solicitar permissão de notificação
+    requestPermission();
+});
