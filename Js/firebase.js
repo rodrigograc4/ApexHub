@@ -1,7 +1,7 @@
 // NOTIFICATION
 
 // Importando Firebase
-import { doc } from "firebase/firestore";
+import { getFirestore, collection, addDoc, getDocs } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
 import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js";
 
@@ -28,11 +28,29 @@ async function requestPermission() {
     // Corrigindo a chamada ao getToken
     const token = await getToken(messaging, { vapidKey: "BPvCrGZMQ0lw0DjkCAIvYpmmo9Mwwv69hizLIoh6aliJ5VkICoF8HDdo_I9sTtNwXiyxS0x9hbfdJAQs52utEDU" });
     console.log('Token:', token);
+
+    // Enviar token para o servidor
+    await sendTokenToServer(token);
   } else {
     console.log('Não foi possível obter permissão para enviar notificações.');
   }
 }
 
+const firestore = getFirestore(app);
+
+// Função para salvar o token no Firestore
+async function sendTokenToServer(token) {
+  try {
+    const docRef = await addDoc(collection(firestore, "tokens"), {
+      token: token,
+    });
+    console.log("Token salvo com ID: ", docRef.id);
+  } catch (e) {
+    console.error("Erro ao salvar o token: ", e);
+  }
+}
+
+  
 requestPermission();
 
 // Lidando com mensagens recebidas quando o aplicativo está em primeiro plano
@@ -49,15 +67,36 @@ onMessage(messaging, (payload) => {
   new Notification(notificationTitle, notificationOptions);
 });
 
-
-
-document.getElementById('notificar').addEventListener('click', () => {
-    const notificationTitle = 'Notificação de Teste';
-    const notificationOptions = {
-        body: 'Esta é uma notificação de teste.',
-        icon: 'Images/ApexIcon_v2-01.png'
-    };
-    
-    new Notification(notificationTitle, notificationOptions);
+// Função para recuperar tokens do Firestore
+async function getTokensFromServer() {
+    const querySnapshot = await getDocs(collection(firestore, "tokens"));
+    const tokens = [];
+    querySnapshot.forEach((doc) => {
+      tokens.push(doc.data().token);
     });
+    return tokens;
+  }
+  
+  // Função para enviar notificações
+  async function sendNotificationToAll(title, body) {
+    const tokens = await getTokensFromServer();
     
+    tokens.forEach(token => {
+      const notificationOptions = {
+        body: body,
+        icon: 'Images/ApexIcon_v2-01.png',
+        tag: token  // Usando o token como tag para evitar duplicatas
+      };
+      
+      new Notification(title, notificationOptions);
+    });
+  }
+  
+
+  document.getElementById('notificar').addEventListener('click', () => {
+    const notificationTitle = 'Notificação de Teste';
+    const notificationBody = 'Esta é uma notificação de teste.';
+  
+    sendNotificationToAll(notificationTitle, notificationBody);
+  });
+  
