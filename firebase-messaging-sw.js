@@ -22,5 +22,5 @@ messaging.onBackgroundMessage((payload) => {
       icon: 'Images/ApexIcon_v2-01.png'
   };
 
-  self.registration.showNotification(notificationTitle, notificationOptions);
+  // self.registration.showNotification(notificationTitle, notificationOptions);
 });
