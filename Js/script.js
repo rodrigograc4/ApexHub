@@ -37,16 +37,6 @@ function setTimer(time, d, h, m, s, e) {
         document.getElementById(m).innerHTML = (days !== 0 || hours !== 0 || minutes !== 0) ? minutes.toString().padStart(2, "0") + "m " : "";
         document.getElementById(s).innerHTML = seconds.toString().padStart(2, "0") + "s ";
 
-        // Send push notification when days are 3, 2, or 1
-        if (days === 3 & hours === 0 && minutes === 0 && seconds === 0) {
-            sendNotification("Its race weekend", "The countdown to the race has started!");
-        } else if (days === 2 && hours === 0 && minutes === 0 && seconds === 0) {
-            sendNotification("Less than 2 days left", "Don't forget it!");
-        } else if (days === 1 && hours === 0 && minutes === 0 && seconds === 0) {
-            sendNotification("24 hours until the race", "Are you ready?");
-        } else if (days === 0 && hours === 1 && minutes === 0 && seconds === 0) {
-            sendNotification("Race almost starting", "Lights out in 1 hour!");
-        }
 
         // Display the message when countdown is over
         if (timeleft < 0) {
