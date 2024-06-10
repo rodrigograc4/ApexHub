@@ -157,7 +157,7 @@ if (endElement && endElement.innerHTML === "TIME UP!!") {
     clearTimer();
 }
 
-
+console.log('Acabando script.js');
 
 
 
