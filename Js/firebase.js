@@ -23,7 +23,8 @@ const messaging = getMessaging(app);
 // Solicitando permissão
 async function requestPermission() {
   const permission = await Notification.requestPermission();
-  if (permission === 'granted') {
+  //if (permission === 'granted') {
+  if (true) {
     console.log('Permissão de notificação concedida.');
     // Corrigindo a chamada ao getToken
     const token = await getToken(messaging, { vapidKey: "BPvCrGZMQ0lw0DjkCAIvYpmmo9Mwwv69hizLIoh6aliJ5VkICoF8HDdo_I9sTtNwXiyxS0x9hbfdJAQs52utEDU" });
@@ -98,7 +99,7 @@ async function getTokensFromServer() {
 
   document.getElementById('notificar').addEventListener('click', () => {
     console.log('Notificando todos os usuários...');
-    
+
     const notificationTitle = 'Notificação de Teste';
     const notificationBody = 'Esta é uma notificação de teste.';
   
