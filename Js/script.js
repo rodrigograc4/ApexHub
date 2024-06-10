@@ -157,7 +157,7 @@ if (endElement && endElement.innerHTML === "TIME UP!!") {
     clearTimer();
 }
 
-console.log('Acabando script.js');
+
 
 
 
@@ -165,68 +165,51 @@ console.log('Acabando script.js');
 
 // NOTIFICATION
 
-// // Importando Firebase
-// import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
-// import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js";
+// Importando Firebase
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js";
 
-// // Configuração do Firebase
-// const firebaseConfig = {
-//     apiKey: "AIzaSyDJqIRd11jCSzx64_8dpWPVpIdNFzl07RE",
-//     authDomain: "apexhub-f1.firebaseapp.com",
-//     projectId: "apexhub-f1",
-//     storageBucket: "apexhub-f1.appspot.com",
-//     messagingSenderId: "931355642260",
-//     appId: "1:931355642260:web:a439e04c49bf8d5d1fa781",
-//     measurementId: "G-0KWSCPC724"
-// };
+// Configuração do Firebase
+const firebaseConfig = {
+    apiKey: "AIzaSyDJqIRd11jCSzx64_8dpWPVpIdNFzl07RE",
+    authDomain: "apexhub-f1.firebaseapp.com",
+    projectId: "apexhub-f1",
+    storageBucket: "apexhub-f1.appspot.com",
+    messagingSenderId: "931355642260",
+    appId: "1:931355642260:web:a439e04c49bf8d5d1fa781",
+    measurementId: "G-0KWSCPC724"
+};
 
-// // Inicializando o Firebase
-// const app = initializeApp(firebaseConfig);
-// const messaging = getMessaging(app);
+// Inicializando o Firebase
+const app = initializeApp(firebaseConfig);
+const messaging = getMessaging(app);
 
-// console.log('Inicializando script.js');
+// Solicitando permissão
+async function requestPermission() {
+  const permission = await Notification.requestPermission();
+  if (permission === 'granted') {
+    console.log('Permissão de notificação concedida.');
+    // Corrigindo a chamada ao getToken
+    const token = await getToken(messaging, { vapidKey: "BPvCrGZMQ0lw0DjkCAIvYpmmo9Mwwv69hizLIoh6aliJ5VkICoF8HDdo_I9sTtNwXiyxS0x9hbfdJAQs52utEDU" });
+    console.log('Token:', token);
+  } else {
+    console.log('Não foi possível obter permissão para enviar notificações.');
+  }
+}
 
-// if ('serviceWorker' in navigator) {
-//     window.addEventListener('load', () => {
-//       navigator.serviceWorker.register('./firebase-messaging-sw.js')
-//       .then(registration => {
-//           console.log('Service Worker registrado com sucesso:', registration);
-//           console.log('Service Worker Scope:', registration.scope);
-//         })
-//       .catch(error => {
-//           console.error('Erro ao registrar o Service Worker:', error);
-//         });
-//     });
-//   } else {
-//     console.error('Service Worker não suportado.');
-//   }
+requestPermission();
 
-// // Solicitando permissão
-// async function requestPermission() {
-//   const permission = await Notification.requestPermission();
-//   if (permission === 'granted') {
-//     console.log('Permissão de notificação concedida.');
-//     // Corrigindo a chamada ao getToken
-//     const token = await getToken(messaging, { vapidKey: "BPvCrGZMQ0lw0DjkCAIvYpmmo9Mwwv69hizLIoh6aliJ5VkICoF8HDdo_I9sTtNwXiyxS0x9hbfdJAQs52utEDU" });
-//     console.log('Token:', token);
-//   } else {
-//     console.log('Não foi possível obter permissão para enviar notificações.');
-//   }
-// }
+// Lidando com mensagens recebidas quando o aplicativo está em primeiro plano
+onMessage(messaging, (payload) => {
+  console.log('Mensagem recebida.', payload);
+  // Personalizando a notificação aqui
+  const notificationTitle = payload.notification.title;
+  const notificationOptions = {
+    body: payload.notification.body,
+    icon: 'Images/ApexIcon_v2-01.png'
+  };
 
-// requestPermission();
-
-// // Lidando com mensagens recebidas quando o aplicativo está em primeiro plano
-// onMessage(messaging, (payload) => {
-//   console.log('Mensagem recebida.', payload);
-//   // Personalizando a notificação aqui
-//   const notificationTitle = payload.notification.title;
-//   const notificationOptions = {
-//     body: payload.notification.body,
-//     icon: 'Images/ApexIcon_v2-01.png'
-//   };
-
-//   // Exibindo a notificação
-//   new Notification(notificationTitle, notificationOptions);
-// });
+  // Exibindo a notificação
+  new Notification(notificationTitle, notificationOptions);
+});
 
