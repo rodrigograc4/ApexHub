@@ -97,6 +97,8 @@ async function getTokensFromServer() {
   
 
   document.getElementById('notificar').addEventListener('click', () => {
+    console.log('Notificando todos os usuários...');
+    
     const notificationTitle = 'Notificação de Teste';
     const notificationBody = 'Esta é uma notificação de teste.';
   
