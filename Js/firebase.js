@@ -74,6 +74,7 @@ async function getTokensFromServer() {
     querySnapshot.forEach((doc) => {
       tokens.push(doc.data().token);
     });
+    console.log('Tokens:', tokens);
     return tokens;
   }
   
@@ -87,6 +88,8 @@ async function getTokensFromServer() {
         icon: 'Images/ApexIcon_v2-01.png',
         tag: token  // Usando o token como tag para evitar duplicatas
       };
+
+      console.log('Enviando notificação para:', token);
       
       new Notification(title, notificationOptions);
     });
