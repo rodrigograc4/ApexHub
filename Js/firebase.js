@@ -1,9 +1,7 @@
-
-
-
 // NOTIFICATION
 
 // Importando Firebase
+import { doc } from "firebase/firestore";
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
 import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js";
 
@@ -51,3 +49,15 @@ onMessage(messaging, (payload) => {
   new Notification(notificationTitle, notificationOptions);
 });
 
+
+
+document.getElementById('notificar').addEventListener('click', () => {
+    const notificationTitle = 'Notificação de Teste';
+    const notificationOptions = {
+        body: 'Esta é uma notificação de teste.',
+        icon: 'Images/ApexIcon_v2-01.png'
+    };
+    
+    new Notification(notificationTitle, notificationOptions);
+    });
+    
