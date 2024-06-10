@@ -13,7 +13,7 @@ const firebaseConfig = {
     authDomain: "apexhub-f1.firebaseapp.com",
     projectId: "apexhub-f1",
     storageBucket: "apexhub-f1.appspot.com",
-    messagingSenderId: "931355642260",
+    messagingSenderId: "931355642260",  
     appId: "1:931355642260:web:a439e04c49bf8d5d1fa781",
     measurementId: "G-0KWSCPC724"
 };
@@ -37,17 +37,17 @@ async function requestPermission() {
 
 requestPermission();
 
-// Lidando com mensagens recebidas quando o aplicativo está em primeiro plano
-onMessage(messaging, (payload) => {
-  console.log('Mensagem recebida.', payload);
-  // Personalizando a notificação aqui
-  const notificationTitle = payload.notification.title;
-  const notificationOptions = {
-    body: payload.notification.body,
-    icon: 'Images/ApexIcon_v2-01.png'
-  };
+// // Lidando com mensagens recebidas quando o aplicativo está em primeiro plano
+// onMessage(messaging, (payload) => {
+//   console.log('Mensagem recebida.', payload);
+//   // Personalizando a notificação aqui
+//   const notificationTitle = payload.notification.title;
+//   const notificationOptions = {
+//     body: payload.notification.body,
+//     icon: 'Images/ApexIcon_v2-01.png'
+//   };
 
-  // Exibindo a notificação
-  new Notification(notificationTitle, notificationOptions);
-});
+//   // Exibindo a notificação
+//   new Notification(notificationTitle, notificationOptions);
+// });
 
