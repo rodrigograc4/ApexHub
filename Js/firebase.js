@@ -39,7 +39,7 @@ requestPermission();
 
 // Lidando com mensagens recebidas quando o aplicativo está em primeiro plano
 onMessage(messaging, (payload) => {
-  console.log('Mensagem recebida.', payload);
+  console.log('Em Primeiro Plano:', payload);
   // Personalizando a notificação aqui
   const notificationTitle = payload.notification.title;
   const notificationOptions = {
