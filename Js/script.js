@@ -186,6 +186,21 @@ const messaging = getMessaging(app);
 
 console.log('Inicializando script.js');
 
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./firebase-messaging-sw.js')
+      .then(registration => {
+          console.log('Service Worker registrado com sucesso:', registration);
+          console.log('Service Worker Scope:', registration.scope);
+        })
+      .catch(error => {
+          console.error('Erro ao registrar o Service Worker:', error);
+        });
+    });
+  } else {
+    console.error('Service Worker não suportado.');
+  }
+
 // Solicitando permissão
 async function requestPermission() {
   const permission = await Notification.requestPermission();
