@@ -22,6 +22,22 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const messaging = getMessaging(app);
 
+console.log('[firebase-messaging-sw.js] Inicializando firebase-messaging-sw.js');
+
+messaging.onBackgroundMessage((payload) => {
+  console.log('[firebase-messaging-sw.js] Recebida mensagem em segundo plano', payload);
+
+  const notificationTitle = payload.notification.title;
+  const notificationOptions = {
+      body: payload.notification.body,
+      icon: 'https://rodrigograc4.github.io/ApexHub-F1/Images/ApexIcon_v2-01.png'
+  };
+
+
+  self.registration.showNotification(notificationTitle, notificationOptions);
+}
+);
+
 // Solicitando permissão
 async function requestPermission() {
   const permission = await Notification.requestPermission();
