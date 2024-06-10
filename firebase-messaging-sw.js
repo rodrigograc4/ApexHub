@@ -13,6 +13,8 @@ firebase.initializeApp({
 
 const messaging = firebase.messaging();
 
+console.log('[firebase-messaging-sw.js] Inicializando firebase-messaging-sw.js');
+
 messaging.onBackgroundMessage((payload) => {
   console.log('[firebase-messaging-sw.js] Recebida mensagem em segundo plano', payload);
 
@@ -22,5 +24,7 @@ messaging.onBackgroundMessage((payload) => {
       icon: 'Images/ApexIcon_v2-01.png'
   };
 
-  // self.registration.showNotification(notificationTitle, notificationOptions);
+  console.log('[firebase-messaging-sw.js] Exibindo notificação', notificationTitle);
+
+  self.registration.showNotification(notificationTitle, notificationOptions);
 });

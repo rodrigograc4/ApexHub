@@ -184,6 +184,8 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const messaging = getMessaging(app);
 
+console.log('Inicializando script.js');
+
 // Solicitando permissão
 async function requestPermission() {
   const permission = await Notification.requestPermission();
