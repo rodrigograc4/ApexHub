@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 11-06-24 |
+                | LAST UPDATE: 12-06-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -32,28 +32,8 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si	
 
-MONDAY
-HD5 ENGLISH
-
-BR1 BRAZILIAN
-BR6 BRAZILIAN
-
-01:00   MLB: Blue Jays @ Brewers | https://v2.sportsonline.si/channels/hd/hd5.php
-01:00   MLB: Blue Jays @ Brewers | https://v2.sportsonline.si/channels/bra/br6.php
-01:00   NHL Stanley Cup: Edmonton Oilers @ Florida Panthers | https://v2.sportsonline.si/channels/pt/sporttv1.php
-01:30   Sport Recife x Paysandu | https://v2.sportsonline.si/channels/bra/br1.php
-
 TUESDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 SERBIAN
-HD5 ENGLISH
-HD6 SERBIAN &amp; SPANISH
-HD8 SERBIAN
-HD9 HEBREW 
-HD10 GREEK
-HD11 SERBIAN &amp; ROMANIAN &amp; ARABIC
+HD6 SPANISH
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
@@ -62,36 +42,6 @@ BR4 BRAZILIAN
 BR5 BRAZILIAN 
 BR6 BRAZILIAN
 
-10:00   ATP World Tour 250: Sttugart | https://v2.sportsonline.si/channels/pt/sporttv2.php 
-10:00   ATP World Tour 250: S'Hertogenbosch | https://v2.sportsonline.si/channels/pt/sporttv3.php 
-11:14   Japan x Syria | https://v2.sportsonline.si/channels/hd/hd2.php
-13:00   Korea Republic U21 x Mexico U23 | https://v2.sportsonline.si/channels/pt/sporttv1.php 
-14:00   Kenya x Côte d'Ivoire | https://v2.sportsonline.si/channels/hd/hd4.php
-14:00   Mauritius x Eswatini | https://v2.sportsonline.si/channels/hd/hd8.php
-14:00   Zambia x Tanzania | https://v2.sportsonline.si/channels/hd/hd11.php
-15:00   Azerbaijan x Kazakhstan | https://v2.sportsonline.si/channels/hd/hd3.php
-17:00   Cape Verde Islands x Libya | https://v2.sportsonline.si/channels/hd/hd8.php
-17:00   Cape Verde Islands x Libya | https://v2.sportsonline.si/channels/pt/sporttv1.php 
-17:00   South Africa x Zimbabwe | https://v2.sportsonline.si/channels/hd/hd6.php
-17:00   South Africa x Zimbabwe | https://v2.sportsonline.si/channels/pt/sporttv4.php 
-17:00   Moldova x Ukraine | https://v2.sportsonline.si/channels/hd/hd1.php 
-17:00   Moldova x Ukraine | https://v2.sportsonline.si/channels/hd/hd3.php
-17:00   Latvia x Faroe Islands | https://v2.sportsonline.si/channels/hd/hd5.php
-17:00   Belarus x Israel | https://v2.sportsonline.si/channels/hd/hd9.php
-17:00   San Marino x Cyprus | https://v2.sportsonline.si/channels/hd/hd11.php
-17:00   Malta x Greece | https://v2.sportsonline.si/channels/hd/hd10.php
-19:00   Saudi Arabia x Jordan | https://v2.sportsonline.si/channels/hd/hd11.php
-19:45   Portugal x Ireland Republic | https://v2.sportsonline.si/channels/hd/hd1.php
-19:45   Portugal x Ireland Republic | https://v2.sportsonline.si/channels/hd/hd3.php
-19:45   Portugal x Ireland Republic | https://v2.sportsonline.si/channels/pt/sporttv1.php 
-19:45   Portugal x Ireland Republic | https://v2.sportsonline.si/channels/bra/br2.php
-19:45   Northern Ireland x Andorra | https://v2.sportsonline.si/channels/hd/hd5.php
-19:45   Northern Ireland x Andorra | https://v2.sportsonline.si/channels/bra/br1.php
-20:00   Angola x Cameroon | https://v2.sportsonline.si/channels/hd/hd4.php
-20:00   Angola x Cameroon | https://v2.sportsonline.si/channels/pt/sporttv2.php 
-20:00   Gabon x Gambia | https://v2.sportsonline.si/channels/hd/hd6.php
-20:00   Congo x Morocco | https://v2.sportsonline.si/channels/hd/hd2.php
-20:00   Congo x Morocco | https://v2.sportsonline.si/channels/pt/sporttv3.php 
 23:00   Mirassol x Goiás | https://v2.sportsonline.si/channels/bra/br1.php
 23:00   Atlético Goianiense x Corinthians | https://v2.sportsonline.si/channels/bra/br3.php
 23:00   Atlético Goianiense x Corinthians | https://v2.sportsonline.si/channels/bra/br6.php
