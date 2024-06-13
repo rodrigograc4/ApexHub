@@ -32,25 +32,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si	
 
-TUESDAY
-HD6 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN 
-BR6 BRAZILIAN
-
-23:00   Mirassol x Goiás | https://v2.sportsonline.si/channels/bra/br1.php
-23:00   Atlético Goianiense x Corinthians | https://v2.sportsonline.si/channels/bra/br3.php
-23:00   Atlético Goianiense x Corinthians | https://v2.sportsonline.si/channels/bra/br6.php
-23:00   Juventude x Vitória | https://v2.sportsonline.si/channels/bra/br5.php
-00:00   Botafogo x Fluminense | https://v2.sportsonline.si/channels/bra/br2.php
-00:00   Botafogo x Fluminense | https://v2.sportsonline.si/channels/bra/br4.php
-01:00   Chile x Paraguay | https://v2.sportsonline.si/channels/hd/hd6.php
-01:30   RB Bragantino x Atlético Mineiro | https://v2.sportsonline.si/channels/bra/br1.php
-
 WEDNESDAY
 HD1 ENGLISH
 HD2 ENGLISH
@@ -67,12 +48,6 @@ BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-10:00   ATP World Tour 250: Sttugart | https://v2.sportsonline.si/channels/pt/sporttv2.php 
-10:00   ATP World Tour 250: S'Hertogenbosch | https://v2.sportsonline.si/channels/pt/sporttv3.php 
-12:00   Hockey: Germany v Spain | https://v2.sportsonline.si/channels/hd/hd2.php
-13:30   Japan U19 x Panama U23 | https://v2.sportsonline.si/channels/pt/sporttv1.php 
-16:45   Hockey: Great Britain v Spain | https://v2.sportsonline.si/channels/hd/hd2.php
-17:15   Italy U21 x Indonesia U20 | https://v2.sportsonline.si/channels/pt/sporttv1.php 
 18:30   Cabofriense x Maricá | https://v2.sportsonline.si/channels/bra/br4.php
 20:00   Eibar x Real Oviedo | https://v2.sportsonline.si/channels/hd/hd5.php
 20:00   Eibar x Real Oviedo | https://v2.sportsonline.si/channels/hd/hd6.php
