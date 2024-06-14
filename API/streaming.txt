@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 12-06-24 |
+                | LAST UPDATE: 14-06-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -32,48 +32,7 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.si	
 
-WEDNESDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD5 ENGLISH
-HD6 SPANISH 
-HD7 ITALIAN
-HD10 SPANISH
-HD11 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-
-18:30   Cabofriense x Maricá | https://v2.sportsonline.si/channels/bra/br4.php
-20:00   Eibar x Real Oviedo | https://v2.sportsonline.si/channels/hd/hd5.php
-20:00   Eibar x Real Oviedo | https://v2.sportsonline.si/channels/hd/hd6.php
-20:00   Eibar x Real Oviedo | https://v2.sportsonline.si/channels/hd/hd7.php
-20:00   Eibar x Real Oviedo | https://v2.sportsonline.si/channels/pt/eleven1.php 
-20:00   Eibar x Real Oviedo | https://v2.sportsonline.si/channels/bra/br6.php 
-20:00   Ferroviária W x São Paulo W | https://v2.sportsonline.si/channels/bra/br1.php
-21:00   Godoy Cruz x Rosario Central | https://v2.sportsonline.si/channels/hd/hd11.php
-23:00   Argentinos Juniors x Central Córdoba SdE | https://v2.sportsonline.si/channels/hd/hd11.php
-23:00   Sampaio Corrêa x Caxias | https://v2.sportsonline.si/channels/bra/br3.php
-00:00   USA x Brazil | https://v2.sportsonline.si/channels/hd/hd5.php
-00:00   USA x Brazil | https://v2.sportsonline.si/channels/hd/hd6.php
-00:00   USA x Brazil | https://v2.sportsonline.si/channels/bra/br1.php
-00:00   USA x Brazil | https://v2.sportsonline.si/channels/bra/br2.php
-01:15   Independiente x Banfield | https://v2.sportsonline.si/channels/hd/hd11.php
-01:30   Ecuador x Bolivia | https://v2.sportsonline.si/channels/hd/hd10.php
-01:30   NBA: Boston Celtics @ Dallas Mavericks | https://v2.sportsonline.si/channels/hd/hd1.php
-01:30   NBA: Boston Celtics @ Dallas Mavericks | https://v2.sportsonline.si/channels/hd/hd2.php
-01:30   NBA: Boston Celtics @ Dallas Mavericks | https://v2.sportsonline.si/channels/pt/sporttv1.php 
-01:30   NBA: Boston Celtics @ Dallas Mavericks | https://v2.sportsonline.si/channels/bra/br5.php
-
 THURSDAY
-HD2 ENGLISH
-HD5 ENGLISH
-HD6 SPANISH 
-HD7 ITALIAN
 HD11 SPANISH
 
 BR1 BRAZILIAN
@@ -84,18 +43,6 @@ BR5 BRAZILIAN
 BR6 BRAZILIAN
 BR7 BRAZILIAN
 
-10:00   ATP World Tour 250: Sttugart | https://v2.sportsonline.si/channels/pt/sporttv2.php 
-10:00   ATP World Tour 250: S'Hertogenbosch | https://v2.sportsonline.si/channels/pt/sporttv5.php 
-17:00   Golf: US Open 24' - D1 | https://v2.sportsonline.si/channels/pt/sporttv3.php
-17:20   MLMC: Road to Lemans - Race 1 | https://v2.sportsonline.si/channels/pt/sporttv4.php 
-18:00   MLB: Braves @ Orioles | https://v2.sportsonline.si/channels/hd/hd2.php
-19:00   Deportivo Riestra x River Plate | https://v2.sportsonline.si/channels/hd/hd11.php
-19:00   Deportivo Riestra x River Plate | https://v2.sportsonline.si/channels/bra/br2.php
-20:00   Espanyol x Sporting Gijón | https://v2.sportsonline.si/channels/hd/hd5.php
-20:00   Espanyol x Sporting Gijón | https://v2.sportsonline.si/channels/hd/hd6.php
-20:00   Espanyol x Sporting Gijón | https://v2.sportsonline.si/channels/hd/hd7.php
-20:00   Espanyol x Sporting Gijón | https://v2.sportsonline.si/channels/pt/eleven1.php  
-20:00   Espanyol x Sporting Gijón | https://v2.sportsonline.si/channels/bra/br6.php
 23:00   Tigre x Belgrano | https://v2.sportsonline.si/channels/hd/hd11.php
 23:00   Cruzeiro x Cuiabá | https://v2.sportsonline.si/channels/bra/br5.php
 00:00   Flamengo x Grêmio | https://v2.sportsonline.si/channels/bra/br1.php
