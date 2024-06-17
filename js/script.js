@@ -9,17 +9,7 @@ window.addEventListener('scroll', function() {
   }
 });
 
-// Inicialmente, definir a classe como transparente
 document.addEventListener('DOMContentLoaded', function() {
   const navbar = document.querySelector('.navbar');
   navbar.classList.add('transparent');
 });
-
-// function toggleOverlay(featureItem) {
-//   const overlay = featureItem.querySelector('.overlay');
-//   overlay.classList.add('visible');
-
-//   setTimeout(() => {
-//     overlay.classList.remove('visible');
-//   }, 2000);
-// }

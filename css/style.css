@@ -259,10 +259,6 @@ body {
   opacity: 1;
 }
 
-/* .overlay.visible {
-  opacity: 1;
-} */
-
 .feature-title {
   font-size: 1.5em;
   margin-bottom: 0.5em;
@@ -309,7 +305,7 @@ body {
 /* PROMO */
 
 .promo{
-  background-color:#0b0c0f;
+  background-color:#111316;
   color: #fff;
 }
 
