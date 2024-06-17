@@ -62,6 +62,14 @@ async function getLinks() {
                 brazilianLinks.push(link);
             }
         });
+    
+    if (englishLinks.length === 0) {
+        englishLinks.push("https://v3.sportsonline.si/channels/hd/hd1.php");
+    }
+
+    if (portugueseLinks.length === 0) {
+        portugueseLinks.push("https://v3.sportsonline.si/channels/pt/sporttv4.php");
+    }
 
     // Armazena os links no localStorage
     localStorage.setItem('English', JSON.stringify(englishLinks));
