@@ -259,6 +259,14 @@ body {
   opacity: 1;
 }
 
+.feature-item:focus .overlay {
+  opacity: 1;
+}
+
+.feature-item:active .overlay {
+  opacity: 1;
+}
+
 .feature-title {
   font-size: 1.5em;
   margin-bottom: 0.5em;
