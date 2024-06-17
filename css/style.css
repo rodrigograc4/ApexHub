@@ -259,11 +259,7 @@ body {
   opacity: 1;
 }
 
-.feature-item:focus .overlay {
-  opacity: 1;
-}
-
-.feature-item:active .overlay {
+.overlay.visible {
   opacity: 1;
 }
 

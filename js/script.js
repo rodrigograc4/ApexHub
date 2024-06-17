@@ -14,3 +14,8 @@ document.addEventListener('DOMContentLoaded', function() {
   const navbar = document.querySelector('.navbar');
   navbar.classList.add('transparent');
 });
+
+function toggleOverlay(featureItem) {
+  const overlay = featureItem.querySelector('.overlay');
+  overlay.classList.toggle('visible');
+}
