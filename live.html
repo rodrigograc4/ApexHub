@@ -7,11 +7,13 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="description" content="A Website to F1 Fans">
-    <title>ApexHub</title>
+    <title>ApexHub | Live</title>
     <link rel="icon" href="images/Icon.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/live.css">
     <script src="js/script.js"></script>
+    <script src="js/iframe.js"></script>
+    <script src="js/getLinks.js"></script>
 </head>
 <body class="body-style">
 
@@ -30,66 +32,51 @@
         <a href="/" class="navbar-mobile-item"><i class="fa-solid fa-house"></i></a>
         <a href="/game.html" class="navbar-mobile-item"><i class="fa-solid fa-gamepad"></i></a>
         <a href="/live.html" class="navbar-mobile-item"><i class="fa-solid fa-play"></i></a>
-        <a href="#comments" class="navbar-mobile-item"><i class="fa-solid fa-calendar-days"></i></a>
-        <a href="#comments" class="navbar-mobile-item"><i class="fa-solid fa-info"></i></a>
+        <a href="/schedule.html" class="navbar-mobile-item"><i class="fa-solid fa-calendar-days"></i></a>
+        <a href="/about.html" class="navbar-mobile-item"><i class="fa-solid fa-info"></i></a>
     </div>
 
     <!-- Header -->
     <header class="header">
         <div class="header-text">
-            <span class="header-title">Don't miss the hardest Apex of Formula 1</span><br>
-            <a href="live.html" class="header-button">Watch Live</a>
+            <span class="header-title">Watch Live</span><br>
         </div>
     </header>
 
-    <!-- Cards Section -->
+    <!-- Buttons Section -->
     <div class="container">
         <div class="features">
             <div class="feature-item">
-                <img src="images/card1.png" alt="Feature 1" class="feature-image">
                 <div class="overlay">
-                    <p class="feature-title">Mercedes AMG F1</p>
-                    <a href="images/card1.png" download class="download-button"><i class="fa-solid fa-download"></i></a>
+                    <a onclick="openLink('English')" id="English-btn" class="button">English</a>
                 </div>
             </div>
             <div class="feature-item">
-                <img src="images/card2.png" alt="Feature 2" class="feature-image">
                 <div class="overlay">
-                    <p class="feature-title">Scuderia Ferrari</p>
-                    <a href="images/card2.png" download class="download-button"><i class="fa-solid fa-download"></i></a>
+                    <a onclick="openLink('Portuguese')" id="Portuguese-btn" class="button">Portuguese</a>
                 </div>
             </div>
             <div class="feature-item">
-                <img src="images/card3.png" alt="Feature 3" class="feature-image">
                 <div class="overlay">
-                    <p class="feature-title">McLaren Racing</p>
-                    <a href="images/card3.png" download class="download-button"><i class="fa-solid fa-download"></i></a>
+                    <a onclick="openLink('Brazilian')" id="Brazilian-btn" class="button">Brazilian</a>
+                </div>
+            </div>
+            <div class="feature-item">
+                <div class="overlay">
+                    <a onclick="openLink('Italian')" id="Italian-btn" class="button">Italian</a>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Promo Section -->
-    <div class="promo">
-        <div class="promo-section">
-            <div class="promo-row">
-                <div class="promo-col">
-                    <div class="promo-text">
-                        <h3>The best way to never miss any Formula 1 content</h3>
-                        <p>
-                            ApexHub is the best place where you can watch Formula 1 for free.
-                            We have streams always on Live and a Schedule for you to never miss the next race on the calender.
-                            Plus, you can enjoy our reaction Mini-Game when you need a break from the action.
-                        </p>
-                        <h2><i class="fa-solid fa-check" style="margin-right: 20px; color: #ff0000;"></i>Free Live Streams</h2>
-                        <h2><i class="fa-solid fa-check" style="margin-right: 20px; color: #ff0000;"></i>Schedule for the Next Race</h2>
-                        <h2><i class="fa-solid fa-check" style="margin-right: 20px; color: #ff0000;"></i>Reaction Mini-Game</h2>
-                    </div>
-                </div>
-                <div class="promo-col">
-                    <img src="images/promo.png" alt="Bot Image" class="promo-image">
-                </div>
+    <!-- Iframe Section -->
+    <div class="iframe">
+        <div class="iframe-section">
+            <div class="iframe-button">
+                <button id="fullscreenButton" class="fullscreen-btn"><i class="fas fa-expand"></i></button>
             </div>
+            <p id="iframeText">Please choose a source to watch a livestream.</p>
+            <iframe id="id-iframe" frameborder="0" allowfullscreen="true" sandbox="allow-same-origin allow-scripts allow-forms allow-popups" scrolling="no"></iframe>
         </div>
     </div>
 
