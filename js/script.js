@@ -17,5 +17,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function toggleOverlay(featureItem) {
   const overlay = featureItem.querySelector('.overlay');
-  overlay.classList.toggle('visible');
+  overlay.classList.add('visible');
+  
+  setTimeout(() => {
+    overlay.classList.remove('visible');
+  }, 1000);
 }
