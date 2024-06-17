@@ -1,7 +1,7 @@
 async function getLinks() {
     try {
         // Carrega o conteúdo do arquivo
-        const response = await fetch('../API/streaming.txt');
+        const response = await fetch('https://rodrigograc4.github.io/ApexHub-F1/API/streaming.txt');
         const content = await response.text();
         // Divide o conteúdo por linhas
         const lines = content.split('\n');
