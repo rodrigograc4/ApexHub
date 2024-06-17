@@ -2,7 +2,7 @@
 
 Welcome to ApexHub! A project made by an F1 Fan to Fans. 
 
-## ℹ️ About the project
+## 🏆 About the project
 
 ApexHub is the best place where you can watch Formula 1 for free. We have streams always on Live and a Schedule for you to never miss the next race on the calender. Plus, you can enjoy our reaction Mini-Game when you need a break from the action.
 
@@ -12,7 +12,7 @@ It includes:
 - Reaction Mini-Game
 
 
-## ⚙️ More Info:
+## ℹ️ More Info:
 
 This website provides an interface that utilizes a public API to retrieve information about the next race and a redirection link with a frame for accessing streams of live racing. Please note that this site is strictly for educational purposes and I do not encourage the use of it for piracy.
 
