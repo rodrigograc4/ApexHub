@@ -259,9 +259,9 @@ body {
   opacity: 1;
 }
 
-.overlay.visible {
+/* .overlay.visible {
   opacity: 1;
-}
+} */
 
 .feature-title {
   font-size: 1.5em;

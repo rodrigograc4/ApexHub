@@ -15,11 +15,11 @@ document.addEventListener('DOMContentLoaded', function() {
   navbar.classList.add('transparent');
 });
 
-function toggleOverlay(featureItem) {
-  const overlay = featureItem.querySelector('.overlay');
-  overlay.classList.add('visible');
+// function toggleOverlay(featureItem) {
+//   const overlay = featureItem.querySelector('.overlay');
+//   overlay.classList.add('visible');
 
-  setTimeout(() => {
-    overlay.classList.remove('visible');
-  }, 2000);
-}
+//   setTimeout(() => {
+//     overlay.classList.remove('visible');
+//   }, 2000);
+// }
