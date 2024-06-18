@@ -118,23 +118,26 @@ body {
     bottom: 0;
     width: 100%;
     background-color: rgba(0, 0, 0, 1);
-    padding: 0.5em 0;
     z-index: 1000;
+    padding: 1em 0;
   }
 
   .navbar-mobile-item {
     color: #fff;
     text-decoration: none;
-    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
   }
 
   .navbar-mobile-icon {
     width: 25px;
     height: 25px;
-    margin: 0 auto;
-    padding: 10px 0 10px 0;
   }
-  
+
   .navbar-logo {
     width: 8em; 
     padding-left: 2em;
@@ -143,7 +146,7 @@ body {
     /* iPhone specific padding */
   @supports (-webkit-touch-callout: none) {
     .navbar-mobile {
-      padding-bottom: calc(0.5em + env(safe-area-inset-bottom));
+      padding-bottom: calc(1em + env(safe-area-inset-bottom));
     }
   }
 }
