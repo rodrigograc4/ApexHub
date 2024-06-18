@@ -1,6 +1,6 @@
 # 🅰️ ApexHub
 
-Welcome to ApexHub! A project made by an F1 Fan to Fans. 
+Welcome to ApexHub! A Formula 1 project made by a Fan to Fans. 
 
 ## 🏆 About the project
 
