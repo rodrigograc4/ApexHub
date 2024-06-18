@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 17-06-24 |
+                | LAST UPDATE: 18-06-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -32,59 +32,12 @@
 MONDAY
 HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD10 DUTCH
-HD11 ARABIC
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-11:00   ATP World Tour 500: Halle | https://v3.sportsonline.si/channels/pt/sporttv3.php 
-12:00   ATP World Tour 500: London | https://v3.sportsonline.si/channels/pt/sporttv2.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/hd/hd1.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/hd/hd2.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/hd/hd3.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/hd/hd4.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/hd/hd6.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/hd/hd8.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/hd/hd10.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/hd/hd11.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/pt/sporttv1.php 
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/bra/br3.php
-14:00   Romania x Ukraine | https://v3.sportsonline.si/channels/bra/br4.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/hd/hd1.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/hd/hd2.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/hd/hd3.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/hd/hd4.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/hd/hd6.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/hd/hd8.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/hd/hd10.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/hd/hd11.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/pt/sporttv1.php  
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/bra/br3.php
-17:00   Belgium x Slovakia | https://v3.sportsonline.si/channels/bra/br4.php
-19:30   São Paulo W x Palmeiras W | https://v3.sportsonline.si/channels/bra/br1.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd1.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd2.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd3.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd4.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd6.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd7.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd8.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd10.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/hd/hd11.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/pt/sporttv1.php 
-20:00   Austria x France | https://v3.sportsonline.si/channels/bra/br3.php
-20:00   Austria x France | https://v3.sportsonline.si/channels/bra/br4.php
-22:00   Corinthians W x Bragantino W | https://v3.sportsonline.si/channels/bra/br1.php 
 00:30   Atlético Mineiro x Palmeiras | https://v3.sportsonline.si/channels/bra/br1.php
 00:30   Atlético Mineiro x Palmeiras | https://v3.sportsonline.si/channels/bra/br2.php
 01:00   Chapecoense x Operário PR | https://v3.sportsonline.si/channels/bra/br6.php
@@ -138,4 +91,150 @@ BR4 BRAZILIAN
 01:00   Novorizontino x Amazonas | https://v3.sportsonline.si/channels/bra/br2.php
 01:00   NHL Stanley Cup: Edmonton Oilers @ Florida Panthers | https://v3.sportsonline.si/channels/pt/sporttv3.php 
 01:30   Paysandu x CRB | https://v3.sportsonline.si/channels/bra/br1.php
-</pre></body></html>
+
+WEDNESDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 FRENCH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD9 ENGLISH
+HD10 DUTCH
+HD11 ARABIC
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+BR7 BRAZILIAN
+HD8 BRAZILIAN
+
+11:00   ATP World Tour 500: Halle | https://v3.sportsonline.si/channels/pt/sporttv3.php 
+12:00   ATP World Tour 500: London | https://v3.sportsonline.si/channels/pt/sporttv2.php 
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/hd/hd1.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/hd/hd2.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/hd/hd3.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/hd/hd4.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/hd/hd6.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/hd/hd8.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/hd/hd10.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/hd/hd11.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/pt/sporttv1.php  
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/bra/br3.php
+14:00   Croatia x Albania | https://v3.sportsonline.si/channels/bra/br4.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/hd/hd1.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/hd/hd2.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/hd/hd3.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/hd/hd4.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/hd/hd6.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/hd/hd8.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/hd/hd10.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/hd/hd11.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/pt/sporttv1.php   
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/bra/br1.php
+17:00   Germany x Hungary | https://v3.sportsonline.si/channels/bra/br2.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd1.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd2.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd3.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd4.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd6.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd7.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd8.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd10.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/hd/hd11.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/pt/sporttv1.php  
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/bra/br1.php
+20:00   Scotland x Switzerland | https://v3.sportsonline.si/channels/bra/br2.php
+23:00   Botafogo x Athletico-PR | https://v3.sportsonline.si/channels/bra/br4.php
+23:00   Atlético Goianiense x Criciúma | https://v3.sportsonline.si/channels/bra/br6.php
+23:00   Santos x Goiás | https://v3.sportsonline.si/channels/bra/br7.php
+00:00   York United x Pacific | https://v3.sportsonline.si/channels/hd/hd5.php
+00:00   São Paulo x Cuiabá | https://v3.sportsonline.si/channels/bra/br1.php
+00:00   Juventude x Vasco da Gama | https://v3.sportsonline.si/channels/bra/br2.php
+00:00   Fortaleza x Grêmio | https://v3.sportsonline.si/channels/bra/br3.php
+00:30   Inter Miami x Columbus Crew | https://v3.sportsonline.si/channels/hd/hd9.php
+01:00   Botafogo SP x Ponte Preta | https://v3.sportsonline.si/channels/bra/br8.php
+01:10   Boca Juniors x Almirante Brown | https://v3.sportsonline.si/channels/pt/sporttv2.php
+01:30   Cruzeiro x Fluminense | https://v3.sportsonline.si/channels/bra/br4.php
+01:30   Internacional x Corinthians | https://v3.sportsonline.si/channels/bra/br5.php
+01:30   Brusque x Avaí | https://v3.sportsonline.si/channels/bra/br6.php
+01:30   Coritiba x América Mineiro | https://v3.sportsonline.si/channels/bra/br7.php
+
+THURSDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 FRENCH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD9 SPANISH
+HD10 DUTCH
+HD11 ARABIC
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+BR7 BRAZILIAN
+
+11:00   ATP World Tour 500: Halle | https://v3.sportsonline.si/channels/pt/sporttv5.php 
+12:00   ATP World Tour 500: London | https://v3.sportsonline.si/channels/pt/sporttv2.php 
+12:30   DP World Tour: KLM Open - D1 | https://v3.sportsonline.si/channels/pt/sporttv3.php 
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/hd/hd1.php
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/hd/hd2.php
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/hd/hd3.php
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/hd/hd4.php
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/hd/hd6.php
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/hd/hd8.php
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/hd/hd10.php
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/hd/hd11.php
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/pt/sporttv1.php  
+14:00   Slovenia x Serbia | https://v3.sportsonline.si/channels/bra/br3.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/hd/hd1.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/hd/hd2.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/hd/hd3.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/hd/hd4.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/hd/hd6.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/hd/hd8.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/hd/hd10.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/hd/hd11.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/pt/sporttv1.php  
+17:00   Denmark x England | https://v3.sportsonline.si/channels/bra/br1.php
+17:00   Denmark x England | https://v3.sportsonline.si/channels/bra/br2.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd1.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd2.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd3.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd4.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd6.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd7.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd8.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd10.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/hd/hd11.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/pt/sporttv1.php  
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/bra/br1.php
+20:00   Spain x Italy | https://v3.sportsonline.si/channels/bra/br2.php
+22:30   Vitória x Atlético Mineiro | https://v3.sportsonline.si/channels/bra/br1.php
+23:00   Vila Nova x Mirassol | https://v3.sportsonline.si/channels/bra/br6.php
+00:00   Flamengo x Bahia | https://v3.sportsonline.si/channels/bra/br2.php
+00:00   Flamengo x Bahia | https://v3.sportsonline.si/channels/bra/br3.php
+01:00   Argentina x Canada | https://v3.sportsonline.si/channels/hd/hd1.php
+01:00   Argentina x Canada | https://v3.sportsonline.si/channels/hd/hd5.php
+01:00   Argentina x Canada | https://v3.sportsonline.si/channels/hd/hd9.php
+01:00   Argentina x Canada | https://v3.sportsonline.si/channels/hd/hd6.php
+01:00   Argentina x Canada | https://v3.sportsonline.si/channels/pt/sporttv2.php  
+01:00   Argentina x Canada | https://v3.sportsonline.si/channels/bra/br1.php
+01:00   Argentina x Canada | https://v3.sportsonline.si/channels/bra/br7.php
+01:30   Palmeiras x RB Bragantino | https://v3.sportsonline.si/channels/bra/br4.php
+01:30   Palmeiras x RB Bragantino | https://v3.sportsonline.si/channels/bra/br5.php
+01:30   Ceará x Sport Recife | https://v3.sportsonline.si/channels/bra/br6.php
+01:30   NBA: Boston Celtics @ Dallas Mavericks | https://v3.sportsonline.si/channels/hd/hd2.php
+01:30   NBA: Boston Celtics @ Dallas Mavericks | https://v3.sportsonline.si/channels/pt/sporttv1.php</pre></body></html>
