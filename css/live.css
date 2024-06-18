@@ -99,6 +99,9 @@ body {
 
   .navbar {
     position: absolute;
+    background-color: black; /* Fundo preto inicial */
+    padding-top: env(safe-area-inset-top); /* Considera a área do notch */
+    transition: background-color 0.3s, backdrop-filter 0.3s;
   }
 
   .navbar.transparent {
