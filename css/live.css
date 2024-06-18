@@ -247,7 +247,10 @@ body {
   width: 100%;
   text-align: center;
   cursor: pointer;
-  min-width: 70px;
+  min-width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .button:hover {
