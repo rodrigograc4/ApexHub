@@ -122,7 +122,8 @@ body {
     width: 100%;
     background-color: rgba(0, 0, 0, 1);
     z-index: 1000;
-    padding: 1em 0;
+    padding: 0.8em 0;
+    border-top: 1px solid #3f434c;
   }
 
   .navbar-mobile-item {
