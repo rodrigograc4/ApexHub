@@ -183,20 +183,18 @@ body {
   font-size: 1em;
   margin-top: 1em;
   display: inline-block;
-  padding: 0.3em 3em;
+  padding: 0.6em 3em;
   background-color: #ff0000;
   color: white;
   text-decoration: none;
-  border: 2px solid #800000;
-  border-radius: 50px;
-  box-shadow: #270000 -5px -5px 30px inset; 
+  border-radius: 100px;
+  box-shadow: #000000 -5px -5px 30px inset; 
 }
 
 .header-button:hover {
   background-color: #ffffff;
-  box-shadow: #832828  -5px -5px 20px inset; 
+  box-shadow: #2a2a2a -5px -5px 20px inset; 
   color: #c70000;
-  border: 2px solid #800000;
 }
 
 
