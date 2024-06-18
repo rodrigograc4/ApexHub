@@ -206,7 +206,7 @@ body {
 
 .container-btn {
   text-align: center;
-  padding-top: 48px;
+  padding-top: 60px;
   width: 70%;
   margin: 0 auto;
 }
@@ -238,14 +238,14 @@ body {
 
 .button {
   font-size: 1em;
-  padding: 1em 2em; /* Increased padding */
+  padding: 0.6em 3em;
   background-color: #ff0000;
   color: white;
   text-decoration: none;
   border: 2px solid #800000;
-  border-radius: 100px;
-  box-shadow: #270000 -5px -5px 30px inset;
-  width: 100%; /* Make buttons longer */
+  border-radius: 50px;
+  box-shadow: #270000 -5px -5px 30px inset; 
+  width: 100%;
   text-align: center;
   cursor: pointer;
 }
@@ -267,11 +267,8 @@ body {
 
 @media (max-width: 1200px) {
   .feature-item {
-    flex: 1 0 17%; /* Two buttons per row on smaller screens */
-    max-width: 17%;
-  }
-  .button {
-    font-size: 0.8em;
+    flex: 1 0 35%; /* Two buttons per row on smaller screens */
+    max-width: 35%;
   }
 }
 
@@ -279,6 +276,9 @@ body {
   .feature-item {
     flex: 1 0 35%; /* One button per row on very small screens */
     max-width: 35%;
+  }
+  .button {
+    font-size: 0.8em;
   }
 }
 
