@@ -17,17 +17,8 @@
 </head>
 <body class="body-style">
 
-    <!-- Navbar -->
-    <div class="navbar">
-        <a aria-current="page" href="/ApexHub/"><img src="images/Long_logo.png" class="navbar-logo"></a>
-        <div class="navbar-right">
-            <a aria-current="page" href="/ApexHub/" class="navbar-item">Home</a>
-            <a aria-current="page" href="/ApexHub/live" class="navbar-item">Live</a>
-            <a aria-current="page" href="/schedule.html" class="navbar-item">Schedule</a>
-            <a aria-current="page" href="/game.html" class="navbar-item">Game</a>
-            <a aria-current="page" href="/about.html" class="navbar-item">About</a>
-        </div>
-    </div>
+    
+    <!-- Navbar Mobile -->
     <div class="navbar-mobile">
         <a aria-current="page" href="/ApexHub/" class="navbar-mobile-item"><img src="images/home.png" class="navbar-mobile-icon"></a>
         <a aria-current="page" href="/game.html" class="navbar-mobile-item"><img src="images/game.png" class="navbar-mobile-icon"></a>
@@ -36,85 +27,103 @@
         <a aria-current="page" href="/about.html" class="navbar-mobile-item"><img src="images/info.png" class="navbar-mobile-icon"></a>
     </div>
 
-    <!-- Header -->
-    <header class="header">
-        <div class="header-text">
-            <span class="header-title">Watch Live</span><br>
+    
+    <div class="content-wrapper">
 
-            <!-- Buttons Section -->
-            <div class="container-btn">
-                <div class="features">
-                    <div class="feature-item">
-                        <div class="overlay">
-                            <a onclick="openLink('English')" id="English-btn" class="button">English</a>
+        <!-- Navbar -->
+        <div class="navbar">
+            <a aria-current="page" href="/ApexHub/"><img src="images/Long_logo.png" class="navbar-logo"></a>
+            <div class="navbar-right">
+                <a aria-current="page" href="/ApexHub/" class="navbar-item">Home</a>
+                <a aria-current="page" href="/ApexHub/live" class="navbar-item">Live</a>
+                <a aria-current="page" href="/schedule.html" class="navbar-item">Schedule</a>
+                <a aria-current="page" href="/game.html" class="navbar-item">Game</a>
+                <a aria-current="page" href="/about.html" class="navbar-item">About</a>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header class="header">
+            <div class="header-text">
+                <span class="header-title">Watch Live</span><br>
+
+                <!-- Buttons Section -->
+                <div class="container-btn">
+                    <div class="features">
+                        <div class="feature-item">
+                            <div class="overlay">
+                                <a onclick="openLink('English')" id="English-btn" class="button">English</a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="feature-item">
-                        <div class="overlay">
-                            <a onclick="openLink('Portuguese')" id="Portuguese-btn" class="button">Portuguese</a>
+                        <div class="feature-item">
+                            <div class="overlay">
+                                <a onclick="openLink('Portuguese')" id="Portuguese-btn" class="button">Portuguese</a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="feature-item">
-                        <div class="overlay">
-                            <a onclick="openLink('Brazilian')" id="Brazilian-btn" class="button">Brazilian</a>
+                        <div class="feature-item">
+                            <div class="overlay">
+                                <a onclick="openLink('Brazilian')" id="Brazilian-btn" class="button">Brazilian</a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="feature-item">
-                        <div class="overlay">
-                            <a onclick="openLink('Italian')" id="Italian-btn" class="button">Italian</a>
+                        <div class="feature-item">
+                            <div class="overlay">
+                                <a onclick="openLink('Italian')" id="Italian-btn" class="button">Italian</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </header>
+        </header>
 
-    <!-- Iframe Section -->
-    <div class="iframe">
-        <div class="iframe-section">
-            <div class="iframe-button">
-                <button id="fullscreenButton" class="fullscreen-btn"><i class="fas fa-expand"></i></button>
+        <!-- Iframe Section -->
+        <div class="iframe">
+            <div class="iframe-section">
+                <div class="iframe-button">
+                    <button id="fullscreenButton" class="fullscreen-btn"><i class="fas fa-expand"></i></button>
+                </div>
+                <p id="iframeText">Please choose a source to watch a livestream.</p>
+                <iframe id="id-iframe" frameborder="0" allowfullscreen="true" sandbox="allow-same-origin allow-scripts allow-forms allow-popups" scrolling="no"></iframe>
             </div>
-            <p id="iframeText">Please choose a source to watch a livestream.</p>
-            <iframe id="id-iframe" frameborder="0" allowfullscreen="true" sandbox="allow-same-origin allow-scripts allow-forms allow-popups" scrolling="no"></iframe>
         </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <div class="column brand-section">
+                    <a aria-current="page" href="/ApexHub/"><img src="images/Long_logo.png" class="footer-logo"></a>
+                    <p>Be part of the Apex F1 Hub, where there's the best Formula 1 live streaming for everyone.</p>
+                    <p>This is a project from a Fan to Fans.</p>
+                    <div class="social-icons">
+                        <a href="https://github.com/rodrigograc4/ApexHub" target="_blank"><i class="fa-brands fa-github"></i></i></a>
+                    </div>
+                </div>
+                <div class="column small" style="margin: 0;"></div>
+                <div class="column small">
+                    <h3><a aria-current="page" href="/ApexHub/live">Lives</a></h3>
+                    <ul>
+                        <li><a aria-current="page" href="/ApexHub/live">English</a></li>
+                        <li><a aria-current="page" href="/ApexHub/live">Portuguese</a></li>
+                        <li><a aria-current="page" href="/ApexHub/live">Italian</a></li>
+                        <li><a aria-current="page" href="/ApexHub/live">Brazilian</a></li>
+                    </ul>
+                </div>
+                <div class="column small">
+                    <h3><a aria-current="page" href="/schedule.html">Schedule</a></h3>
+                    <ul>
+                        <li><a aria-current="page" href="/schedule.html">Race</a></li>
+                        <li><a aria-current="page" href="/schedule.html">Qualifying</a></li>
+                        <li><a aria-current="page" href="/schedule.html">Practice 3</a></li>
+                        <li><a aria-current="page" href="/schedule.html">Practice 2</a></li>
+                        <li><a aria-current="page" href="/schedule.html">Practice 1</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="bottom-bar">
+                <p>&copy; 2022 ApexHub</p>
+            </div>
+        </footer>
+
     </div>
 
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="container">
-            <div class="column brand-section">
-                <a aria-current="page" href="/ApexHub/"><img src="images/Long_logo.png" class="footer-logo"></a>
-                <p>Be part of the Apex F1 Hub, where there's the best Formula 1 live streaming for everyone.</p>
-                <p>This is a project from a Fan to Fans.</p>
-                <div class="social-icons">
-                    <a href="https://github.com/rodrigograc4/ApexHub" target="_blank"><i class="fa-brands fa-github"></i></i></a>
-                </div>
-            </div>
-            <div class="column small" style="margin: 0;"></div>
-            <div class="column small">
-                <h3><a aria-current="page" href="/ApexHub/live">Lives</a></h3>
-                <ul>
-                    <li><a aria-current="page" href="/ApexHub/live">English</a></li>
-                    <li><a aria-current="page" href="/ApexHub/live">Portuguese</a></li>
-                    <li><a aria-current="page" href="/ApexHub/live">Italian</a></li>
-                    <li><a aria-current="page" href="/ApexHub/live">Brazilian</a></li>
-                </ul>
-            </div>
-            <div class="column small">
-                <h3><a aria-current="page" href="/schedule.html">Schedule</a></h3>
-                <ul>
-                    <li><a aria-current="page" href="/schedule.html">Race</a></li>
-                    <li><a aria-current="page" href="/schedule.html">Qualifying</a></li>
-                    <li><a aria-current="page" href="/schedule.html">Practice 3</a></li>
-                    <li><a aria-current="page" href="/schedule.html">Practice 2</a></li>
-                    <li><a aria-current="page" href="/schedule.html">Practice 1</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="bottom-bar">
-            <p>&copy; 2022 ApexHub</p>
-        </div>
-    </footer>
 </body>
 </html>

@@ -154,6 +154,10 @@ body {
       padding-bottom: calc(1em + env(safe-area-inset-bottom));
     }
   }
+  
+  .content-wrapper {
+    padding-bottom: 100px;
+  }
 }
 
   
