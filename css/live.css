@@ -164,7 +164,7 @@ body {
  /* HEADER */
 
 .header {
-  height: 70vh;
+  height: 50vh;
   background: url('../images/Back.png') no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -231,18 +231,17 @@ body {
 
 .container-btn {
   text-align: center;
-  padding-top: 60px;
   width: 70%;
   margin: 0 auto;
 }
 
-.features {
+.buttons {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
-.feature-item {
+.button-item {
   padding: 1em;
   padding-bottom: 0;
   flex: 1 0 20%;
@@ -254,7 +253,7 @@ body {
   align-items: center; 
 }
 
-.overlay {
+.overlay-btn {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -292,14 +291,14 @@ body {
 }
 
 @media (max-width: 1200px) {
-  .feature-item {
+  .button-item {
     flex: 1 0 35%; /* Two buttons per row on smaller screens */
     max-width: 35%;
   }
 }
 
 @media (max-width: 768px) {
-  .feature-item {
+  .button-item {
     flex: 1 0 35%; /* One button per row on very small screens */
     max-width: 35%;
   }
@@ -312,21 +311,22 @@ body {
 /* IFRAME */
 
 .iframe{
-  background-color:#111316;
+  background-color:#000000;
   color: #fff;
 }
 
 .iframe-section {
   width: 60%;
   margin: 0 auto;
-  padding: 50px 0;
+  padding: 0 0 100px 0;
   position: relative;
 }
 
 #id-iframe {
   width: 100%;
   aspect-ratio: 16 / 9;
-  background-color: black;
+  background-color:#000000;
+  border: #3f434c 1px solid;
   border-radius: 15px;
   color: white;
 }
@@ -342,6 +342,7 @@ body {
   width: 100%;
   font-family: "Gilroy Medium";
   font-size: 25px;
+  padding-bottom: 100px;
 }
 
 @media (max-width: 1200px) {
@@ -364,7 +365,7 @@ body {
 
 .fullscreen-btn {
   position: absolute;
-  top: 65px;
+  top: 15px;
   right: 15px;
   background: none;
   border: none;
@@ -373,6 +374,84 @@ body {
   cursor: pointer;
 }
   
+
+
+
+/* PROMO */
+
+.promo{
+  background-color:#111316;
+  color: #fff;
+}
+
+.promo-section {
+  width: 70%;
+  margin: 0 auto;
+  padding: 50px 0;
+  position: relative;
+}
+
+.promo-row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.promo-col {
+  flex: 1 1 50%;
+  max-width: 50%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.promo-text {
+  padding-left: 50px;
+  box-sizing: border-box;
+}
+
+.promo-text h3 {
+  font-size: 2em;
+  line-height: 1.3; 
+}
+
+.promo-text h2 {
+  font-size: 1.3em;
+}
+
+.promo-text p {
+  font-family: "Gilroy Medium";
+  font-size: 16px;
+  color: gray;
+  text-decoration: none;
+  margin-bottom: 50px;
+}
+
+.promo-image {
+  padding-right: 50px;
+  width: 100%;
+  object-fit: cover;
+  margin: auto;
+}
+
+@media (max-width: 1200px) {
+  .promo-col {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+
+  .promo-text {
+    padding: 0;
+  }
+
+  .promo-image {
+    padding: 0;
+    margin-bottom: 50px;
+    width: 100%;
+  }
+}
+
 
 
 /* FOOTER */
