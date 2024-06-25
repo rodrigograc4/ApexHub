@@ -31,16 +31,9 @@
 
 MONDAY
 HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 GERMAN &amp; ENGLISH
+HD5 ENGLISH
 HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 ARABIC &amp; SPANISH
-HD10 DUTCH
-HD11 ARABIC
+HD9 SPANISH
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
@@ -48,25 +41,6 @@ BR3 BRAZILIAN
 BR4 BRAZILIAN
 BR5 BRAZILIAN
 
-11:00   ATP World Tour 250: Eastbourne | https://v3.sportsonline.si/channels/pt/sporttv2.php
-12:00   ATP World Tour 250: Mallorca | https://v3.sportsonline.si/channels/pt/sporttv5.php
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/hd/hd2.php
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/hd/hd3.php
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/hd/hd4.php
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/hd/hd7.php
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/hd/hd10.php 
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/hd/hd11.php
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/pt/sporttv2.php
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/bra/br1.php 
-20:00   Croatia x Italy | https://v3.sportsonline.si/channels/bra/br2.php
-20:00   Albania x Spain | https://v3.sportsonline.si/channels/hd/hd1.php
-20:00   Albania x Spain | https://v3.sportsonline.si/channels/hd/hd5.php
-20:00   Albania x Spain | https://v3.sportsonline.si/channels/hd/hd6.php
-20:00   Albania x Spain | https://v3.sportsonline.si/channels/hd/hd8.php
-20:00   Albania x Spain | https://v3.sportsonline.si/channels/hd/hd9.php
-20:00   Albania x Spain | https://v3.sportsonline.si/channels/pt/sporttv1.php
-20:00   Albania x Spain | https://v3.sportsonline.si/channels/bra/br3.php
-20:00   Albania x Spain | https://v3.sportsonline.si/channels/bra/br4.php
 23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/hd/hd1.php
 23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/hd/hd5.php
 23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/hd/hd6.php
@@ -235,4 +209,109 @@ BR8 BRAZILIAN
 02:00   Venezuela x Mexico | https://v3.sportsonline.si/channels/hd/hd6.php
 02:00   Venezuela x Mexico | https://v3.sportsonline.si/channels/hd/hd9.php
 02:00   Venezuela x Mexico | https://v3.sportsonline.si/channels/pt/sporttv2.php
-02:00   Venezuela x Mexico | https://v3.sportsonline.si/channels/bra/br1.php</pre></body></html>
+02:00   Venezuela x Mexico | https://v3.sportsonline.si/channels/bra/br1.php
+
+THURSDAY
+HD2 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD10 ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+10:30   ATP World Tour 250: Mallorca | https://v3.sportsonline.si/channels/pt/sporttv5.php
+11:00   ATP World Tour 250: Eastbourne | https://v3.sportsonline.si/channels/pt/sporttv2.php
+12:00   DP World Tour: Italian Open - D1 | https://v3.sportsonline.si/channels/pt/sporttv3.php
+14:00   Comoros x Zimbabwe | https://v3.sportsonline.si/channels/hd/hd10.php
+17:00   Zambia x Kenya | https://v3.sportsonline.si/channels/hd/hd10.php
+18:00   WRC: Rally Poland - Super Special 1 | https://v3.sportsonline.si/channels/pt/sporttv4.php
+19:00   Atlético Mineiro W x Grêmio W | https://v3.sportsonline.si/channels/bra/br4.php
+19:00   Internacional RS W x Ferroviária W | https://v3.sportsonline.si/channels/bra/br5.php
+19:30   Corinthians U20 x São Paulo U20 | https://v3.sportsonline.si/channels/bra/br1.php
+23:00   Panama x USA | https://v3.sportsonline.si/channels/hd/hd2.php
+23:00   Panama x USA | https://v3.sportsonline.si/channels/hd/hd5.php
+23:00   Panama x USA | https://v3.sportsonline.si/channels/hd/hd6.php
+23:00   Panama x USA | https://v3.sportsonline.si/channels/pt/sporttv2.php
+23:00   Panama x USA | https://v3.sportsonline.si/channels/bra/br5.php
+23:00   Fluminense x Vitória | https://v3.sportsonline.si/channels/bra/br1.php
+23:00   Fluminense x Vitória | https://v3.sportsonline.si/channels/bra/br6.php
+00:00   São Paulo x Criciúma | https://v3.sportsonline.si/channels/bra/br2.php
+00:00   São Paulo x Criciúma | https://v3.sportsonline.si/channels/bra/br3.php
+00:30   Valour x York United | https://v3.sportsonline.si/channels/hd/hd1.php
+02:00   Uruguay x Bolivia | https://v3.sportsonline.si/channels/hd/hd2.php
+02:00   Uruguay x Bolivia | https://v3.sportsonline.si/channels/hd/hd5.php
+02:00   Uruguay x Bolivia | https://v3.sportsonline.si/channels/hd/hd6.php
+02:00   Uruguay x Bolivia | https://v3.sportsonline.si/channels/pt/sporttv2.php
+02:00   Uruguay x Bolivia | https://v3.sportsonline.si/channels/bra/br1.php
+02:00   Uruguay x Bolivia | https://v3.sportsonline.si/channels/bra/br6.php
+
+FRIDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD9 SPANISH
+HD10 ENGLISH
+HD11 ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+07:50   F3: Austrian Practice | https://v3.sportsonline.si/channels/hd/hd1.php
+07:50   F3: Austrian Practice | https://v3.sportsonline.si/channels/hd/hd7.php
+07:50   F3: Austrian Practice | https://v3.sportsonline.si/channels/bra/br4.php
+08:00   MotoGP: GP of Assen FP | https://v3.sportsonline.si/channels/hd/hd11.php
+08:00   MotoGP: GP of Assen FP | https://v3.sportsonline.si/channels/pt/sporttv5.php
+08:00   MotoGP: GP of Assen FP | https://v3.sportsonline.si/channels/bra/br6.php
+09:00   F2: Austrian Practice | https://v3.sportsonline.si/channels/hd/hd1.php
+09:00   F2: Austrian Practice | https://v3.sportsonline.si/channels/hd/hd7.php
+09:00   F2: Austrian Practice | https://v3.sportsonline.si/channels/bra/br4.php
+11:00   F1: Austrian Practice 1 | https://v3.sportsonline.si/channels/hd/hd1.php
+11:00   F1: Austrian Practice 1 | https://v3.sportsonline.si/channels/hd/hd7.php
+11:00   F1: Austrian Practice 1 | https://v3.sportsonline.si/channels/pt/sporttv4.php
+11:00   F1: Austrian Practice 1 | https://v3.sportsonline.si/channels/bra/br4.php
+12:00   DP World Tour: Italian Open - D2 | https://v3.sportsonline.si/channels/pt/sporttv3.php
+12:15   MotoGP: GP of Assen Practice | https://v3.sportsonline.si/channels/hd/hd11.php
+12:15   MotoGP: GP of Assen Practice | https://v3.sportsonline.si/channels/pt/sporttv4.php
+12:15   MotoGP: GP of Assen Practice | https://v3.sportsonline.si/channels/bra/br6.php
+12:50   F3: Austrian Qualifying | https://v3.sportsonline.si/channels/hd/hd1.php
+12:50   F3: Austrian Qualifying | https://v3.sportsonline.si/channels/hd/hd7.php
+12:50   F3: Austrian Qualifying | https://v3.sportsonline.si/channels/bra/br4.php
+13:50   F2: Austrian Qualifying | https://v3.sportsonline.si/channels/hd/hd1.php
+13:50   F2: Austrian Qualifying | https://v3.sportsonline.si/channels/hd/hd7.php
+13:50   F2: Austrian Qualifying | https://v3.sportsonline.si/channels/bra/br4.php
+14:00   ATP World Tour 250: Eastbourne | https://v3.sportsonline.si/channels/pt/sporttv2.php
+14:00   Lesotho x Seychelles | https://v3.sportsonline.si/channels/hd/hd10.php
+15:00   F1: Austrian GP Sprint Qualifying | https://v3.sportsonline.si/channels/hd/hd1.php
+15:00   F1: Austrian GP Sprint Qualifying | https://v3.sportsonline.si/channels/hd/hd7.php
+15:00   F1: Austrian GP Sprint Qualifying | https://v3.sportsonline.si/channels/pt/sporttv4.php
+15:00   F1: Austrian GP Sprint Qualifying | https://v3.sportsonline.si/channels/bra/br4.php
+17:00   Angola x Namibia | https://v3.sportsonline.si/channels/hd/hd10.php
+23:00   Colombia x Costa Rica | https://v3.sportsonline.si/channels/hd/hd2.php
+23:00   Colombia x Costa Rica | https://v3.sportsonline.si/channels/hd/hd5.php
+23:00   Colombia x Costa Rica | https://v3.sportsonline.si/channels/hd/hd6.php
+23:00   Colombia x Costa Rica | https://v3.sportsonline.si/channels/hd/hd9.php
+23:00   Colombia x Costa Rica | https://v3.sportsonline.si/channels/pt/sporttv2.php 
+23:00   Colombia x Costa Rica | https://v3.sportsonline.si/channels/bra/br1.php
+23:00   Colombia x Costa Rica | https://v3.sportsonline.si/channels/bra/br2.php
+00:00   Atlético Ottawa x Forge | https://v3.sportsonline.si/channels/hd/hd1.php
+01:00   NASCAR Craftsman Truck Series: Rackley Roofing 200 - Nashville Superspeedway | https://v3.sportsonline.si/channels/pt/sporttv4.php
+01:00   Boxing: Laureano Sciuto x Ezequiel Gauchez | https://v3.sportsonline.si/channels/bra/br6.php
+02:00   Paraguay x Brazil | https://v3.sportsonline.si/channels/hd/hd2.php
+02:00   Paraguay x Brazil | https://v3.sportsonline.si/channels/hd/hd5.php
+02:00   Paraguay x Brazil | https://v3.sportsonline.si/channels/hd/hd6.php
+02:00   Paraguay x Brazil | https://v3.sportsonline.si/channels/pt/sporttv2.php
+02:00   Paraguay x Brazil | https://v3.sportsonline.si/channels/bra/br1.php
+02:00   Paraguay x Brazil | https://v3.sportsonline.si/channels/bra/br2.php
+02:00   Paraguay x Brazil | https://v3.sportsonline.si/channels/bra/br3.php
+02:00   Paraguay x Brazil | https://v3.sportsonline.si/channels/bra/br5.php</pre></body></html>
