@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 24-06-24 |
+                | LAST UPDATE: 25-06-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,35 +29,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
-MONDAY
-HD1 ENGLISH
-HD5 ENGLISH
-HD6 SPANISH
-HD9 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-
-23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/hd/hd1.php
-23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/hd/hd5.php
-23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/hd/hd6.php
-23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/hd/hd9.php
-23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/pt/sporttv2.php
-23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/bra/br1.php
-23:00   Colombia x Paraguay | https://v3.sportsonline.si/channels/bra/br2.php
-23:00   Sport Recife x Novorizontino | https://v3.sportsonline.si/channels/bra/br5.php
-02:00   Brazil x Costa Rica | https://v3.sportsonline.si/channels/hd/hd1.php
-02:00   Brazil x Costa Rica | https://v3.sportsonline.si/channels/hd/hd5.php
-02:00   Brazil x Costa Rica | https://v3.sportsonline.si/channels/hd/hd6.php
-02:00   Brazil x Costa Rica | https://v3.sportsonline.si/channels/pt/sporttv2.php
-02:00   Brazil x Costa Rica | https://v3.sportsonline.si/channels/bra/br1.php
-02:00   Brazil x Costa Rica | https://v3.sportsonline.si/channels/bra/br2.php
-02:00   Brazil x Costa Rica | https://v3.sportsonline.si/channels/bra/br3.php
-02:00   Brazil x Costa Rica | https://v3.sportsonline.si/channels/bra/br4.php
-
 TUESDAY
 HD1 ENGLISH
 HD2 ENGLISH
@@ -78,25 +49,6 @@ BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-11:00   ATP World Tour 250: Eastbourne | https://v3.sportsonline.si/channels/pt/sporttv2.php
-12:00   ATP World Tour 250: Mallorca | https://v3.sportsonline.si/channels/pt/sporttv5.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/hd/hd1.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/hd/hd4.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/hd/hd5.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/hd/hd6.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/hd/hd7.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/hd/hd11.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/pt/sporttv1.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/bra/br1.php
-17:00   France x Poland | https://v3.sportsonline.si/channels/bra/br2.php
-17:00   Netherlands x Austria | https://v3.sportsonline.si/channels/hd/hd2.php
-17:00   Netherlands x Austria | https://v3.sportsonline.si/channels/hd/hd3.php
-17:00   Netherlands x Austria | https://v3.sportsonline.si/channels/hd/hd8.php
-17:00   Netherlands x Austria | https://v3.sportsonline.si/channels/hd/hd10.php
-17:00   Netherlands x Austria | https://v3.sportsonline.si/channels/hd/hd9.php
-17:00   Netherlands x Austria | https://v3.sportsonline.si/channels/pt/sporttv2.php
-17:00   Netherlands x Austria | https://v3.sportsonline.si/channels/bra/br3.php
-17:00   Netherlands x Austria | https://v3.sportsonline.si/channels/bra/br4.php
 20:00   England x Slovenia | https://v3.sportsonline.si/channels/hd/hd1.php
 20:00   England x Slovenia | https://v3.sportsonline.si/channels/hd/hd3.php
 20:00   England x Slovenia | https://v3.sportsonline.si/channels/hd/hd4.php
