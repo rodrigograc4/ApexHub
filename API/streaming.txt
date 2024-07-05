@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 04-07-24 |
+                | LAST UPDATE: 05-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,47 +29,15 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
-WEDNESDAY
-BR2 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-BR7 BRAZILIAN
-
-01:30   Atlético Mineiro x Flamengo | https://v3.sportsonline.si/channels/bra/br2.php
-01:30   Atlético Mineiro x Flamengo | https://v3.sportsonline.si/channels/bra/br7.php
-01:30   RB Bragantino x Atlético Goianiense | https://v3.sportsonline.si/channels/bra/br5.php
-01:30   Athletico-PR x São Paulo | https://v3.sportsonline.si/channels/bra/br6.php
-
 THURSDAY
-HD1 ENGLISH
 HD2 ENGLISH
 HD5 ENGLISH
 HD6 SPANISH
 HD9 SPANISH
-HD11 ROMANIAN
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
 
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv3.php
-11:30   DP World Tour: BMW International Open - D1 | https://v3.sportsonline.si/channels/pt/sporttv5.php
-12:00   Legends Cricket: England v South Africa | https://v3.sportsonline.si/channels/hd/hd1.php
-16:00   Legends Cricket: West Indies v Pakistan | https://v3.sportsonline.si/channels/hd/hd1.php
-18:00   FCSB x Corvinul Hunedoara | https://v3.sportsonline.si/channels/hd/hd11.php
-19:00   Palmeiras U20 x Santos U20 | https://v3.sportsonline.si/channels/bra/br1.php
-19:00   Palmeiras U20 x Santos U20 | https://v3.sportsonline.si/channels/bra/br2.php
-21:00   MLB: Orioles @ Mariners | https://v3.sportsonline.si/channels/hd/hd1.php
-23:00   Grêmio x Palmeiras | https://v3.sportsonline.si/channels/bra/br1.php
-23:00   Grêmio x Palmeiras | https://v3.sportsonline.si/channels/bra/br2.php
-23:00   Bahia x Juventude | https://v3.sportsonline.si/channels/bra/br5.php
-00:00   Corinthians x Vitória | https://v3.sportsonline.si/channels/bra/br3.php
-00:00   Corinthians x Vitória | https://v3.sportsonline.si/channels/bra/br6.php
-00:00   Fluminense x Internacional | https://v3.sportsonline.si/channels/bra/br4.php
 02:00   Argentina x Ecuador | https://v3.sportsonline.si/channels/hd/hd2.php
 02:00   Argentina x Ecuador | https://v3.sportsonline.si/channels/hd/hd5.php
 02:00   Argentina x Ecuador | https://v3.sportsonline.si/channels/hd/hd6.php
@@ -246,4 +214,60 @@ BR6 BRAZILIAN
 02:00   Uruguay x Brazil | https://v3.sportsonline.si/channels/pt/sporttv2.php
 02:00   Uruguay x Brazil | https://v3.sportsonline.si/channels/bra/br1.php
 02:00   Uruguay x Brazil | https://v3.sportsonline.si/channels/bra/br2.php
-02:00   Uruguay x Brazil | https://v3.sportsonline.si/channels/bra/br5.php</pre></body></html>
+02:00   Uruguay x Brazil | https://v3.sportsonline.si/channels/bra/br5.php
+
+SUNDAY
+HD1 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD9 ENGLISH
+HD10 ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+07:00   AFL: Brisbane Lions v Adelaide Crows | https://v3.sportsonline.si/channels/hd/hd1.php
+08:15   F3: British Feature Race | https://v3.sportsonline.si/channels/hd/hd10.php
+08:15   F3: British Feature Race | https://v3.sportsonline.si/channels/hd/hd8.php
+08:15   F3: British Feature Race | https://v3.sportsonline.si/channels/pt/sporttv4.php
+09:00   Moto3: Grand Prix of Germany | https://v3.sportsonline.si/channels/hd/hd9.php
+09:00   Moto3: Grand Prix of Germany | https://v3.sportsonline.si/channels/pt/sporttv5.php
+09:00   Moto3: Grand Prix of Germany | https://v3.sportsonline.si/channels/bra/br5.php
+09:50   F2: British Feature Race | https://v3.sportsonline.si/channels/hd/hd10.php
+09:50   F2: British Feature Race | https://v3.sportsonline.si/channels/hd/hd8.php
+09:50   F2: British Feature Race | https://v3.sportsonline.si/channels/pt/sporttv4.php 
+11:00   Moto2: GP of Germany | https://v3.sportsonline.si/channels/hd/hd9.php
+11:00   Moto2: GP of Germany | https://v3.sportsonline.si/channels/pt/sporttv5.php
+11:00   Moto2: GP of Germany | https://v3.sportsonline.si/channels/bra/br5.php
+11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
+11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv3.php
+12:00   Legends Cricket - West Indies v South Africa | https://v3.sportsonline.si/channels/hd/hd1.php
+12:15   MotoGP: Grand Prix of Germany | https://v3.sportsonline.si/channels/hd/hd9.php
+12:15   MotoGP: Grand Prix of Germany | https://v3.sportsonline.si/channels/pt/sporttv5.php
+12:15   MotoGP: Grand Prix of Germany | https://v3.sportsonline.si/channels/bra/br5.php
+14:55   F1: British Grand Prix | https://v3.sportsonline.si/channels/hd/hd10.php
+14:55   F1: British Grand Prix | https://v3.sportsonline.si/channels/hd/hd8.php
+14:55   F1: British Grand Prix | https://v3.sportsonline.si/channels/pt/sporttv4.php
+14:55   F1: British Grand Prix | https://v3.sportsonline.si/channels/bra/br4.php
+15:00   Coritiba x Paysandu | https://v3.sportsonline.si/channels/bra/br1.php
+15:00   Diamond League: Paris | https://v3.sportsonline.si/channels/pt/sporttv1.php
+16:00   Legends Cricket - England v Pakistan | https://v3.sportsonline.si/channels/hd/hd1.php
+17:00   Futsal: Minas x Jaraguá | https://v3.sportsonline.si/channels/bra/br1.php
+19:00   Pumas UNAM x León | https://v3.sportsonline.si/channels/hd/hd6.php
+20:00   Cruzeiro x Corinthians | https://v3.sportsonline.si/channels/bra/br3.php
+20:00   Fortaleza x Fluminense | https://v3.sportsonline.si/channels/bra/br4.php
+20:00   Juventude x Grêmio | https://v3.sportsonline.si/channels/bra/br5.php
+20:00   Ituano x Botafogo SP | https://v3.sportsonline.si/channels/bra/br6.php
+21:00   MLB: Blue Jays @ Mariners | https://v3.sportsonline.si/channels/hd/hd1.php
+22:00   Internacional x Vasco da Gama | https://v3.sportsonline.si/channels/bra/br1.php
+22:30   Palmeiras x Bahia | https://v3.sportsonline.si/channels/bra/br2.php
+22:30   Vitória x Criciúma | https://v3.sportsonline.si/channels/bra/br4.php
+22:30   Atlético Goianiense x Athletico-PR | https://v3.sportsonline.si/channels/bra/br5.php
+22:30   Guarani x Sport Recife | https://v3.sportsonline.si/channels/bra/br6.php
+00:00   MLB: Red Sox @ Yankees | https://v3.sportsonline.si/channels/hd/hd9.php
+00:30   Botafogo x Atlético Mineiro | https://v3.sportsonline.si/channels/bra/br1.php
+02:00   Pachuca x Monterrey | https://v3.sportsonline.si/channels/hd/hd6.php</pre></body></html>
