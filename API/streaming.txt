@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 06-07-24 |
+                | LAST UPDATE: 07-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,106 +29,16 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
-FRIDAY
-HD5 ENGLISH
-HD6 SPANISH
-HD10 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-
-23:00   Ceará x Santos | https://v3.sportsonline.si/channels/bra/br1.php
-23:00   Ceará x Santos | https://v3.sportsonline.si/channels/bra/br2.php
-01:00   Brusque x Ponte Preta | https://v3.sportsonline.si/channels/bra/br3.php
-02:00   Venezuela x Canada | https://v3.sportsonline.si/channels/hd/hd5.php
-02:00   Venezuela x Canada | https://v3.sportsonline.si/channels/hd/hd6.php
-02:00   Venezuela x Canada | https://v3.sportsonline.si/channels/pt/sporttv2.php
-02:00   Venezuela x Canada | https://v3.sportsonline.si/channels/bra/br1.php
-02:00   Venezuela x Canada | https://v3.sportsonline.si/channels/bra/br2.php
-02:00   Puebla x Santos Laguna | https://v3.sportsonline.si/channels/hd/hd10.php
-04:00   Juárez x Atlas | https://v3.sportsonline.si/channels/hd/hd5.php
-
 SATURDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
 HD5 ENGLISH
 HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 ENGLISH
-HD10 ENGLISH
-HD11 ARABIC
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
 BR3 BRAZILIAN
 BR4 BRAZILIAN
 BR5 BRAZILIAN
-BR6 BRAZILIAN
 
-07:30   Moto2/3: Germany Practice 2 | https://v3.sportsonline.si/channels/hd/hd9.php
-07:30   Moto2/3: Germany Practice 2 | https://v3.sportsonline.si/channels/pt/sporttv5.php
-07:30   Moto2/3: Germany Practice 2 | https://v3.sportsonline.si/channels/bra/br5.php
-09:15   F3: British Sprint | https://v3.sportsonline.si/channels/hd/hd10.php
-09:15   F3: British Sprint | https://v3.sportsonline.si/channels/hd/hd8.php
-09:15   F3: British Sprint | https://v3.sportsonline.si/channels/pt/sporttv4.php
-09:15   F3: British Sprint | https://v3.sportsonline.si/channels/bra/br4.php
-09:45   MotoGP: Germany Qualifying | https://v3.sportsonline.si/channels/hd/hd9.php
-09:45   MotoGP: Germany Qualifying | https://v3.sportsonline.si/channels/pt/sporttv5.php
-09:45   MotoGP: Germany Qualifying | https://v3.sportsonline.si/channels/bra/br5.php
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv3.php
-11:15   F1: British Practice 3 | https://v3.sportsonline.si/channels/hd/hd10.php
-11:15   F1: British Practice 3 | https://v3.sportsonline.si/channels/hd/hd8.php
-11:15   F1: British Practice 3 | https://v3.sportsonline.si/channels/pt/sporttv4.php
-11:15   F1: British Practice 3 | https://v3.sportsonline.si/channels/bra/br4.php
-11:45   Moto2/3: Germany Qualifying | https://v3.sportsonline.si/channels/hd/hd9.php
-11:45   Moto2/3: Germany Qualifying | https://v3.sportsonline.si/channels/pt/sporttv5.php 
-11:45   Moto2/3: Germany Qualifying | https://v3.sportsonline.si/channels/bra/br5.php
-13:10   F2: British Sprint | https://v3.sportsonline.si/channels/hd/hd10.php
-13:10   F2: British Sprint | https://v3.sportsonline.si/channels/hd/hd8.php
-13:10   F2: British Sprint | https://v3.sportsonline.si/channels/pt/sporttv4.php
-13:10   F2: British Sprint | https://v3.sportsonline.si/channels/bra/br4.php
-13:30   MotoGP: Germany Sprint Race | https://v3.sportsonline.si/channels/hd/hd9.php
-13:30   MotoGP: Germany Sprint Race | https://v3.sportsonline.si/channels/pt/sporttv5.php
-13:30   MotoGP: Germany Sprint Race | https://v3.sportsonline.si/channels/bra/br5.php
-14:15   F1: British Qualifying | https://v3.sportsonline.si/channels/hd/hd10.php
-14:15   F1: British Qualifying | https://v3.sportsonline.si/channels/hd/hd8.php
-14:15   F1: British Qualifying | https://v3.sportsonline.si/channels/pt/sporttv4.php 
-14:15   F1: British Qualifying | https://v3.sportsonline.si/channels/bra/br4.php
-15:00   América Mineiro x Operário PR | https://v3.sportsonline.si/channels/bra/br1.php
-15:00   América Mineiro x Operário PR | https://v3.sportsonline.si/channels/bra/br2.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/hd/hd1.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/hd/hd2.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/hd/hd3.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/hd/hd4.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/hd/hd6.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/hd/hd7.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/hd/hd8.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/hd/hd11.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/pt/sporttv1.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/bra/br3.php
-17:00   England x Switzerland | https://v3.sportsonline.si/channels/bra/br4.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/hd/hd1.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/hd/hd2.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/hd/hd3.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/hd/hd4.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/hd/hd6.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/hd/hd7.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/hd/hd8.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/hd/hd11.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/pt/sporttv1.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/bra/br1.php
-20:00   Netherlands x Turkey | https://v3.sportsonline.si/channels/bra/br2.php
-21:00   Goiás x Chapecoense | https://v3.sportsonline.si/channels/bra/br6.php
-23:00   Colombia x Panama | https://v3.sportsonline.si/channels/hd/hd5.php
-23:00   Colombia x Panama | https://v3.sportsonline.si/channels/hd/hd6.php
-23:00   Colombia x Panama | https://v3.sportsonline.si/channels/pt/sporttv2.php
-23:00   Colombia x Panama | https://v3.sportsonline.si/channels/bra/br1.php
-23:00   Colombia x Panama | https://v3.sportsonline.si/channels/bra/br2.php
 01:00   São Paulo x RB Bragantino | https://v3.sportsonline.si/channels/bra/br3.php
 01:00   Flamengo x Cuiabá | https://v3.sportsonline.si/channels/bra/br4.php
 02:00   Uruguay x Brazil | https://v3.sportsonline.si/channels/hd/hd5.php
