@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 08-07-24 |
+                | LAST UPDATE: 10-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -28,68 +28,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
-
-MONDAY
-HD1 ENGLISH
-HD6 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv3.php
-16:00   Legends Cricket: India v Australia | https://v3.sportsonline.si/channels/hd/hd1.php
-19:00   Flamengo U17 x Botafogo U17 | https://v3.sportsonline.si/channels/bra/br1.php
-20:00   Rosario Central x Barracas Central | https://v3.sportsonline.si/channels/hd/hd6.php
-20:00   Rosario Central x Barracas Central | https://v3.sportsonline.si/channels/pt/sporttv1.php
-00:00   Avaí x Novorizontino | https://v3.sportsonline.si/channels/bra/br1.php
-01:00   WWE Monday Night Raw | https://v3.sportsonline.si/channels/hd/hd1.php
-01:00   Amazonas x Vila Nova | https://v3.sportsonline.si/channels/bra/br2.php
-
-TUESDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 DUTCH &amp; SPANISH
-HD10 ROMANIAN
-HD11 ARABIC
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv3.php
-17:30   Ajax x Sint-Truiden | https://v3.sportsonline.si/channels/hd/hd9.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd1.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd2.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd5.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd3.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd4.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd6.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd7.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd8.php 
-20:00   Spain x France | https://v3.sportsonline.si/channels/hd/hd11.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/pt/sporttv1.php 
-20:00   Spain x France | https://v3.sportsonline.si/channels/bra/br1.php
-20:00   Spain x France | https://v3.sportsonline.si/channels/bra/br2.php 
-20:00   Spain x France | https://v3.sportsonline.si/channels/bra/br3.php
-20:00   Virtus x FCSB | https://v3.sportsonline.si/channels/hd/hd10.php
-01:00   Argentina x Canada | https://v3.sportsonline.si/channels/hd/hd2.php
-01:00   Argentina x Canada | https://v3.sportsonline.si/channels/hd/hd5.php 
-01:00   Argentina x Canada | https://v3.sportsonline.si/channels/hd/hd6.php
-01:00   Argentina x Canada | https://v3.sportsonline.si/channels/hd/hd9.php
-01:00   Argentina x Canada | https://v3.sportsonline.si/channels/pt/sporttv2.php  
-01:00   Argentina x Canada |  https://v3.sportsonline.si/channels/bra/br1.php
-01:00   Argentina x Canada |  https://v3.sportsonline.si/channels/bra/br2.php
-01:00   Argentina x Canada |  https://v3.sportsonline.si/channels/bra/br3.php
-01:00   Mirassol x CRB | https://v3.sportsonline.si/channels/bra/br4.php
 
 WEDNESDAY
 HD1 ENGLISH
@@ -140,4 +78,32 @@ BR7 BRAZILIAN
 01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/hd/hd9.php
 01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/pt/sporttv2.php
 01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/bra/br1.php
-01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/bra/br2.php</pre></body></html>
+01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/bra/br2.php
+
+THURSDAY
+HD2 ENGLISH
+HD5 HUNGARIAN
+HD9 BULGARIAN
+HD10 POLISH
+HD11 TURKISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
+13:00   DP World Tour: Genesis Scotissh Open - D1 | https://v3.sportsonline.si/channels/pt/sporttv3.php
+18:00   Paksi SE x Corvinul Hunedoara | https://v3.sportsonline.si/channels/hd/hd5.php
+18:30   Caernarfon Town x Crusaders | https://v3.sportsonline.si/channels/hd/hd2.php
+18:30   LASK Linz x Galatasaray | https://v3.sportsonline.si/channels/hd/hd11.php
+19:00   Botev Plovdiv x Maribor | https://v3.sportsonline.si/channels/hd/hd9.php
+19:30   Wisła Kraków x Llapi | https://v3.sportsonline.si/channels/hd/hd10.php
+23:30   Palmeiras x Atlético Goianiense | https://v3.sportsonline.si/channels/bra/br2.php
+00:00   Criciúma x Fluminense | https://v3.sportsonline.si/channels/bra/br3.php
+00:00   Flamengo x Fortaleza | https://v3.sportsonline.si/channels/bra/br1.php
+00:00   Flamengo x Fortaleza | https://v3.sportsonline.si/channels/bra/br6.php
+01:30   Atlético Mineiro x São Paulo | https://v3.sportsonline.si/channels/bra/br4.php
+01:30   Vitória x Botafogo | https://v3.sportsonline.si/channels/bra/br5.php</pre></body></html>
