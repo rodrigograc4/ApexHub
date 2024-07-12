@@ -29,23 +29,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
-WEDNESDAY
-HD2 ENGLISH
-HD5 ENGLISH
-HD6 SPANISH
-HD9 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-
-01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/hd/hd2.php
-01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/hd/hd5.php
-01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/hd/hd6.php
-01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/hd/hd9.php
-01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/pt/sporttv2.php
-01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/bra/br1.php
-01:00   Uruguay x Colombia | https://v3.sportsonline.si/channels/bra/br2.php
-
 THURSDAY
 HD2 ENGLISH
 HD5 HUNGARIAN
@@ -116,4 +99,102 @@ BR6 BRAZILIAN
 02:00   Boxing: Román González x Rober Barrera | https://v3.sportsonline.si/channels/bra/br6.php
 02:30   NBA: Atlanta Hawks @ Washington Wizards | https://v3.sportsonline.si/channels/hd/hd2.php
 03:00   NBA: Denver Nuggets @ LA Clippers | https://v3.sportsonline.si/channels/hd/hd5.php
-04:05   Atlas x Tigres UANL | https://v3.sportsonline.si/channels/hd/hd9.php</pre></body></html>
+04:05   Atlas x Tigres UANL | https://v3.sportsonline.si/channels/hd/hd9.php
+
+SATURDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 DUTCH
+HD5 ENGLISH
+HD9 SPANISH
+HD10 ROMANIAN
+HD11 SERBIAN
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+09:00   LPGA: The Amundi Evian Championship - D3 | https://v3.sportsonline.si/channels/pt/sporttv3.php
+11:00   PSV x Club Brugge | https://v3.sportsonline.si/channels/hd/hd3.php
+14:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
+15:00   Ajax x Rangers | https://v3.sportsonline.si/channels/hd/hd3.php
+15:00   Sepsi x CSMS Iaşi | https://v3.sportsonline.si/channels/hd/hd10.php
+15:00   DP World Tour: Genesis Scotissh Open - D3 | https://v3.sportsonline.si/channels/pt/sporttv3.php
+16:30   Dinamo Zagreb x Beşiktaş | https://v3.sportsonline.si/channels/hd/hd11.php
+17:15   Queen of the South x Aberdeen | https://v3.sportsonline.si/channels/hd/hd1.php
+17:15   UTA Arad x Rapid Bucureşti | https://v3.sportsonline.si/channels/hd/hd10.php
+19:00   Benfica x Celta de Vigo | https://v3.sportsonline.si/channels/pt/btv.php
+19:30   Novorizontino x Guarani | https://v3.sportsonline.si/channels/bra/br4.php
+20:00   FCSB x Universitatea Cluj | https://v3.sportsonline.si/channels/hd/hd10.php
+20:00   Cruzeiro x RB Bragantino | https://v3.sportsonline.si/channels/bra/br1.php
+20:00   Bahia x Cuiabá | https://v3.sportsonline.si/channels/bra/br2.php
+20:00   Juventude x Internacional | https://v3.sportsonline.si/channels/bra/br5.php
+20:30   USA W x Mexico W | https://v3.sportsonline.si/channels/pt/sporttv2.php
+21:00   Sport Recife x América Mineiro | https://v3.sportsonline.si/channels/bra/br3.php
+21:00   MLB: Yankees @ Orioles | https://v3.sportsonline.si/channels/hd/hd2.php
+22:00   CRB x Coritiba | https://v3.sportsonline.si/channels/bra/br4.php
+22:00   Athletico-PR x Ypiranga Erechim | https://v3.sportsonline.si/channels/bra/br6.php
+22:30   Sail GP: San Francisco - D1 | https://v3.sportsonline.si/channels/pt/sporttv3.php
+01:00   Canada x TBA | https://v3.sportsonline.si/channels/hd/hd5.php
+01:00   Canada x TBA | https://v3.sportsonline.si/channels/hd/hd9.php
+01:00   Canada x TBA | https://v3.sportsonline.si/channels/pt/sporttv3.php
+01:00   Canada x TBA | https://v3.sportsonline.si/channels/bra/br1.php
+01:00   UFC Fight Night: Prelims | https://v3.sportsonline.si/channels/hd/hd2.php
+01:00   UFC Fight Night: Prelims | https://v3.sportsonline.si/channels/bra/br5.php
+01:00   Indy Car: Iowa Time - Buy 1 | https://v3.sportsonline.si/channels/pt/sporttv4.php
+03:00   UFC Fight Night: Tracy Cortez vs Rose Namajunas | https://v3.sportsonline.si/channels/hd/hd2.php
+03:00   UFC Fight Night: Tracy Cortez vs Rose Namajunas | https://v3.sportsonline.si/channels/pt/sporttv2.php
+03:00   UFC Fight Night: Tracy Cortez vs Rose Namajunas | https://v3.sportsonline.si/channels/bra/br5.php
+
+SUNDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 FRENCH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD9 DUTCH
+HD10 SPANISH
+HD11 ARABIC
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+
+14:00   Wimbledon - Final | https://v3.sportsonline.si/channels/pt/sporttv2.php
+15:00   Grêmio x Operário PR | https://v3.sportsonline.si/channels/bra/br4.php
+15:00   Grêmio x Operário PR | https://v3.sportsonline.si/channels/bra/br5.php
+15:00   DP World Tour: Genesis Scotissh Open - D4 | https://v3.sportsonline.si/channels/pt/sporttv3.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd1.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd2.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd5.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd3.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd4.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd6.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd7.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd8.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd9.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd10.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/hd/hd11.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/pt/sporttv1.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/bra/br1.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/bra/br2.php
+20:00   Spain x England | https://v3.sportsonline.si/channels/bra/br3.php
+20:00   Vila Nova x Avaí | https://v3.sportsonline.si/channels/bra/br5.php
+22:30   Chapecoense x Brusque | https://v3.sportsonline.si/channels/bra/br5.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd1.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd2.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd5.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd6.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd10.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/pt/sporttv1.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/bra/br1.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/bra/br2.php
+01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/bra/br3.php</pre></body></html>
