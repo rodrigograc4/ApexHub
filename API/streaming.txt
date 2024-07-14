@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 12-07-24 |
+                | LAST UPDATE: 13-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,50 +29,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
-FRIDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD9 SPANISH
-HD10 ROMANIAN
-HD11 SERBIAN
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR6 BRAZILIAN
-
-11:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
-13:00   DP World Tour: Genesis Scotissh Open - D2 | https://v3.sportsonline.si/channels/pt/sporttv3.php
-16:00   Crvena Zvezda x Talleres Córdoba | https://v3.sportsonline.si/channels/hd/hd11.php
-16:30   Farul Constanța x Unirea Slobozia | https://v3.sportsonline.si/channels/hd/hd10.php
-17:00   Alemannia Aachen x Borussia Dortmund | https://v3.sportsonline.si/channels/hd/hd3.php
-17:00   Czech Republic W x Spain W | https://v3.sportsonline.si/channels/hd/hd6.php
-19:00   Diamond League: Monaco | https://v3.sportsonline.si/channels/pt/sporttv4.php
-19:30   Hermannstadt x CSU Craiova | https://v3.sportsonline.si/channels/hd/hd10.php
-19:45   Netherlands W x Italy W | https://v3.sportsonline.si/channels/hd/hd7.php
-20:00   Benfica x Farense | https://v3.sportsonline.si/channels/pt/btv.php
-20:00   England W x Ireland Republic W | https://v3.sportsonline.si/channels/hd/hd1.php
-20:00   England W x Ireland Republic W | https://v3.sportsonline.si/channels/pt/sporttv5.php
-20:00   England W x Ireland Republic W | https://v3.sportsonline.si/channels/bra/br6.php
-20:10   France W x Sweden W | https://v3.sportsonline.si/channels/hd/hd4.php
-20:10   France W x Sweden W | https://v3.sportsonline.si/channels/pt/sporttv3.php
-21:00   NBA: Cleveland Cavaliers @ Orlando Magic | https://v3.sportsonline.si/channels/hd/hd5.php
-23:00   Ponte Preta x Mirassol | https://v3.sportsonline.si/channels/bra/br1.php
-23:00   NBA: Sacramento Kings @ Memphis Grizzlies | https://v3.sportsonline.si/channels/hd/hd5.php
-00:30   NBA: Houston Rockets @ Los Angeles Lalkers | https://v3.sportsonline.si/channels/hd/hd2.php
-01:00   Botafogo SP x Amazonas | https://v3.sportsonline.si/channels/bra/br2.php
-01:00   NBA: Brooklyn Nets @ Indiana Pacers | https://v3.sportsonline.si/channels/hd/hd5.php
-01:30   Paysandu x Ceará | https://v3.sportsonline.si/channels/bra/br1.php
-02:00   América x Querétaro | https://v3.sportsonline.si/channels/hd/hd9.php
-02:00   Boxing: Román González x Rober Barrera | https://v3.sportsonline.si/channels/bra/br6.php
-02:30   NBA: Atlanta Hawks @ Washington Wizards | https://v3.sportsonline.si/channels/hd/hd2.php
-03:00   NBA: Denver Nuggets @ LA Clippers | https://v3.sportsonline.si/channels/hd/hd5.php
-04:05   Atlas x Tigres UANL | https://v3.sportsonline.si/channels/hd/hd9.php
-
 SATURDAY
 HD1 ENGLISH
 HD2 ENGLISH
@@ -89,8 +45,6 @@ BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-09:00   LPGA: The Amundi Evian Championship - D3 | https://v3.sportsonline.si/channels/pt/sporttv3.php
-11:00   PSV x Club Brugge | https://v3.sportsonline.si/channels/hd/hd3.php
 14:00   Wimbledon | https://v3.sportsonline.si/channels/pt/sporttv2.php
 15:00   Ajax x Rangers | https://v3.sportsonline.si/channels/hd/hd3.php
 15:00   Sepsi x CSMS Iaşi | https://v3.sportsonline.si/channels/hd/hd10.php
