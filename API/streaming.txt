@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 15-07-24 |
+                | LAST UPDATE: 16-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -28,58 +28,23 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
-
-SUNDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD5 ENGLISH
-HD6 SPANISH
-HD10 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd1.php
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd2.php
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd5.php
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd6.php
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/hd/hd10.php
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/pt/sporttv1.php
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/bra/br1.php
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/bra/br2.php
-01:00   Argentina x Colombia | https://v3.sportsonline.si/channels/bra/br3.php
-
+		
 MONDAY
 HD1 ENGLISH
-HD2 ENGLISH
-HD5 SPANISH &amp; ENGLISH
+HD5 ENGLISH
 HD6 SPANISH
-HD9 ENGLISH
-HD10 ROMANIAN
-HD11 TURKISH
 
 BR1 BRAZILIAN
 BR6 BRAZILIAN
 
-11:00   ATP World Tour 500: Hamburg | https://v3.sportsonline.si/channels/pt/sporttv2.php
-12:30   ATP World Tour 250: Bastad | https://v3.sportsonline.si/channels/pt/sporttv3.php
-15:00   Ferencváros x West Ham United | https://v3.sportsonline.si/channels/hd/hd5.php
-15:00   Ferencváros x West Ham United | https://v3.sportsonline.si/channels/bra/br6.php
-16:30   Botoşani x Oţelul | https://v3.sportsonline.si/channels/hd/hd10.php
-17:00   Rosenborg x Manchester United | https://v3.sportsonline.si/channels/hd/hd2.php
-17:00   Basketball: USA @ Australia | https://v3.sportsonline.si/channels/hd/hd9.php
-18:30   Fortuna Düsseldorf x Galatasaray | https://v3.sportsonline.si/channels/hd/hd11.php
-19:30   Petrolul 52 x SCM Gloria Buză | https://v3.sportsonline.si/channels/hd/hd10.php
-19:30   Corinthians U17 x Santos U17 | https://v3.sportsonline.si/channels/bra/br1.php
-20:00   Sevilla x Orlando Pirates | https://v3.sportsonline.si/channels/hd/hd1.php
+20:00   Sevilla x Orlando Pirates | https://v3.sportsonline.si/channels/hd/hd1.php | PREMIER SPORTS 1 UK
 20:00   Sevilla x Orlando Pirates | https://v3.sportsonline.si/channels/pt/sporttv1.php
-20:00   Sevilla x Orlando Pirates | https://v3.sportsonline.si/channels/bra/br6.php
-23:30   NBA: Detroit Pistons @ Houston Rockets | https://v3.sportsonline.si/channels/hd/hd5.php
-00:00   Santos x Ituano | https://v3.sportsonline.si/channels/bra/br1.php
-01:30   NBA: Portland Trail Blazers @ Philadelphia 76ers | https://v3.sportsonline.si/channels/hd/hd5.php
-02:15   Boyacá Chicó x Once Caldas | https://v3.sportsonline.si/channels/hd/hd6.php
-03:30   NBA: Boston Celtics @ Los Angeles Lakers | https://v3.sportsonline.si/channels/hd/hd5.php
+20:00   Sevilla x Orlando Pirates | https://v3.sportsonline.si/channels/bra/br6.php | ESPN 4 BR 
+23:30   NBA: Detroit Pistons @ Houston Rockets | https://v3.sportsonline.si/channels/hd/hd5.php | NBA TV US
+00:00   Santos x Ituano | https://v3.sportsonline.si/channels/bra/br1.php | SPORTV BR
+01:30   NBA: Portland Trail Blazers @ Philadelphia 76ers | https://v3.sportsonline.si/channels/hd/hd5.php | NBA TV US
+02:15   Boyacá Chicó x Once Caldas | https://v3.sportsonline.si/channels/hd/hd6.php | WIN SPORTS+ CO
+03:30   NBA: Boston Celtics @ Los Angeles Lakers | https://v3.sportsonline.si/channels/hd/hd5.php | NBA TV US
 
 TUESDAY
 HD1 ENGLISH
