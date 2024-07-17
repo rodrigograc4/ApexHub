@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 16-07-24 |
+                | LAST UPDATE: 17-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -28,23 +28,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
-		
-MONDAY
-HD1 ENGLISH
-HD5 ENGLISH
-HD6 SPANISH
-
-BR1 BRAZILIAN
-BR6 BRAZILIAN
-
-20:00   Sevilla x Orlando Pirates | https://v3.sportsonline.si/channels/hd/hd1.php | PREMIER SPORTS 1 UK
-20:00   Sevilla x Orlando Pirates | https://v3.sportsonline.si/channels/pt/sporttv1.php
-20:00   Sevilla x Orlando Pirates | https://v3.sportsonline.si/channels/bra/br6.php | ESPN 4 BR 
-23:30   NBA: Detroit Pistons @ Houston Rockets | https://v3.sportsonline.si/channels/hd/hd5.php | NBA TV US
-00:00   Santos x Ituano | https://v3.sportsonline.si/channels/bra/br1.php | SPORTV BR
-01:30   NBA: Portland Trail Blazers @ Philadelphia 76ers | https://v3.sportsonline.si/channels/hd/hd5.php | NBA TV US
-02:15   Boyacá Chicó x Once Caldas | https://v3.sportsonline.si/channels/hd/hd6.php | WIN SPORTS+ CO
-03:30   NBA: Boston Celtics @ Los Angeles Lakers | https://v3.sportsonline.si/channels/hd/hd5.php | NBA TV US
 
 TUESDAY
 HD1 ENGLISH
@@ -61,18 +44,6 @@ BR3 BRAZILIAN
 BR4 BRAZILIAN
 BR6 BRAZILIAN
 
-11:00   ATP World Tour 500: Hamburg | https://v3.sportsonline.si/channels/pt/sporttv2.php
-12:30   ATP World Tour 250: Bastad | https://v3.sportsonline.si/channels/pt/sporttv3.php
-18:00   Italy W x Finland W | https://v3.sportsonline.si/channels/hd/hd7.php
-18:00   Porto x Al Arabi | https://v3.sportsonline.si/channels/pt/sporttv1.php
-18:00   Spain W x Belgium W | https://v3.sportsonline.si/channels/pt/sporttv3.php
-18:00   Spain W x Belgium W | https://v3.sportsonline.si/channels/bra/br6.php
-18:00   Sweden W x England W | https://v3.sportsonline.si/channels/pt/sporttv4.php
-18:00   Germany W x Austria W | https://v3.sportsonline.si/channels/pt/sporttv5.php
-19:30   São Paulo U17 x Fluminense U17 | https://v3.sportsonline.si/channels/bra/br1.php
-19:45   Hibernian x Queen's Park | https://v3.sportsonline.si/channels/hd/hd1.php
-21:30   NBA: New York Knicks @ Brooklyn Nets | https://v3.sportsonline.si/channels/hd/hd5.php
-22:00   Envigado x La Equidad | https://v3.sportsonline.si/channels/hd/hd6.php
 23:00   Huachipato x Racing | https://v3.sportsonline.si/channels/hd/hd2.php
 23:00   Huachipato x Racing | https://v3.sportsonline.si/channels/hd/hd10.php
 23:00   Huachipato x Racing | https://v3.sportsonline.si/channels/pt/sporttv1.php
