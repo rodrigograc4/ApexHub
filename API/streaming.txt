@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 17-07-24 |
+                | LAST UPDATE: 18-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,51 +29,12 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
-TUESDAY
-HD1 ENGLISH
+WEDNESDAY
 HD2 ENGLISH
 HD5 ENGLISH
 HD6 SPANISH
-HD7 ITALIAN
 HD9 SPANISH
 HD10 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR6 BRAZILIAN
-
-23:00   Huachipato x Racing | https://v3.sportsonline.si/channels/hd/hd2.php
-23:00   Huachipato x Racing | https://v3.sportsonline.si/channels/hd/hd10.php
-23:00   Huachipato x Racing | https://v3.sportsonline.si/channels/pt/sporttv1.php
-23:00   Juventude x Atlético Mineiro | https://v3.sportsonline.si/channels/bra/br1.php
-23:30   NBA: Chicago Bulls @ Detroit Pistons | https://v3.sportsonline.si/channels/hd/hd5.php
-00:10   Rionegro Águilas x América de Cali | https://v3.sportsonline.si/channels/hd/hd6.php
-00:30   USA W x Costa Rica W | https://v3.sportsonline.si/channels/pt/sporttv2.php
-00:30   USA W x Costa Rica W | https://v3.sportsonline.si/channels/bra/br6.php
-01:00   Corinthians x Criciúma | https://v3.sportsonline.si/channels/bra/br3.php
-01:00   Corinthians x Criciúma | https://v3.sportsonline.si/channels/bra/br4.php
-01:30   Rosario Central x Internacional | https://v3.sportsonline.si/channels/hd/hd2.php
-01:30   Rosario Central x Internacional | https://v3.sportsonline.si/channels/hd/hd10.php
-01:30   Rosario Central x Internacional | https://v3.sportsonline.si/channels/pt/sporttv1.php
-01:30   Rosario Central x Internacional | https://v3.sportsonline.si/channels/bra/br2.php
-01:30   NBA: Washington Wizards @ Portland Trail Blazers | https://v3.sportsonline.si/channels/hd/hd5.php
-02:00   Atlas x Santos Laguna | https://v3.sportsonline.si/channels/hd/hd9.php
-02:20   Deportivo Cali x Deportivo Pereira | https://v3.sportsonline.si/channels/hd/hd6.php
-03:30   NBA: New Orleans Pelicans @ San Antonio Spurs | https://v3.sportsonline.si/channels/hd/hd5.php
-04:00   Puebla x León | https://v3.sportsonline.si/channels/hd/hd9.php
-
-WEDNESDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD5 ENGLISH
-HD6 SPANISH
-HD8 BULGARIAN
-HD9 TURKISH &amp; SPANISH
-HD10 SPANISH
-HD11 PORTUGUESE
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
@@ -82,19 +43,6 @@ BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-10:00   ATP World Tour 250: Bastad | https://v3.sportsonline.si/channels/pt/sporttv3.php
-11:00   ATP World Tour 500: Hamburg | https://v3.sportsonline.si/channels/pt/sporttv2.php
-16:30   Beşiktaş x Shakhtar Donetsk | https://v3.sportsonline.si/channels/hd/hd9.php
-17:00   Erzgebirge Aue x Borussia Dortmund | https://v3.sportsonline.si/channels/hd/hd1.php
-17:00   Erzgebirge Aue x Borussia Dortmund | https://v3.sportsonline.si/channels/hd/hd3.php
-17:00   Erzgebirge Aue x Borussia Dortmund | https://v3.sportsonline.si/channels/pt/sporttv1.php
-17:00   Erzgebirge Aue x Borussia Dortmund | https://v3.sportsonline.si/channels/bra/br6.php 
-18:00   Olot x Girona | https://v3.sportsonline.si/channels/hd/hd6.php
-18:00   Dinamo Batumi x Ludogorets | https://v3.sportsonline.si/channels/hd/hd8.php
-19:00   Hearts x Tottenham Hotspur | https://v3.sportsonline.si/channels/pt/sporttv1.php
-20:30   Sporting CP x Union Saint-Gilloise | https://v3.sportsonline.si/channels/hd/hd11.php
-20:30   NBA: Sacramento Kings @ New York Knicks | https://v3.sportsonline.si/channels/hd/hd5.php
-22:30   NBA: Boston Celtics @ Charlotte Hornets | https://v3.sportsonline.si/channels/hd/hd5.php
 23:00   Atlético Goianiense x Vasco da Gama | https://v3.sportsonline.si/channels/bra/br2.php
 23:00   Libertad x Universidad Católica | https://v3.sportsonline.si/channels/hd/hd2.php
 23:00   Libertad x Universidad Católica | https://v3.sportsonline.si/channels/hd/hd10.php
