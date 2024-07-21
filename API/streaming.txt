@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 19-07-24 |
+                | LAST UPDATE: 21-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -31,67 +31,98 @@
 
 SATURDAY
 HD1 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD11 ENGLISH
+
+01:30   Sporting KC x St. Louis City | https://v3.sportsonline.si/channels/hd/hd11.php
+02:00   Boxing: Jake Paul vs Mike Perry | https://v3.sportsonline.si/channels/hd/hd5.php
+02:20   Once Caldas x Rionegro Águilas | https://v3.sportsonline.si/channels/hd/hd6.php
+03:30   Vancouver Whitecaps x Houston Dynamo | https://v3.sportsonline.si/channels/hd/hd1.php
+03:45   LA Galaxy x Portland Timbers | https://v3.sportsonline.si/channels/hd/hd11.php
+
+SUNDAY
 HD2 ENGLISH
-HD3 GERMAN
-HD4 DUTCH
+HD3 GERMAN 
 HD5 ENGLISH
 HD6 SPANISH
 HD7 ITALIAN
-HD8 BULGARIAN
-HD9 SPANISH
-HD10 ROMANIAN 
-HD11 SERBIAN
+HD8 ITALIAN
+HD9 BULGARIAN
+HD10 SPANISH
+HD11 ROMANIAN &amp; SPANISH
 
 BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
+BR7 BRAZILIAN
 
-06:30   The Open - D2 | https://v3.sportsonline.si/channels/pt/sporttv3.php
-08:50   F3: Hungarian Practice | https://v3.sportsonline.si/channels/hd/hd2.php
-08:50   F3: Hungarian Practice | https://v3.sportsonline.si/channels/hd/hd7.php
-08:50   F3: Hungarian Practice | https://v3.sportsonline.si/channels/pt/sporttv4.php 
-08:50   F3: Hungarian Practice | https://v3.sportsonline.si/channels/bra/br5.php
-10:00   ATP World Tour 250: Bastad | https://v3.sportsonline.si/channels/pt/sporttv1.php
-10:00   F2: Hungarian Practice | https://v3.sportsonline.si/channels/hd/hd2.php
-10:00   F2: Hungarian Practice | https://v3.sportsonline.si/channels/hd/hd7.php
-10:00   F2: Hungarian Practice | https://v3.sportsonline.si/channels/pt/sporttv4.php
-10:00   F2: Hungarian Practice | https://v3.sportsonline.si/channels/bra/br5.php
-11:00   ATP World Tour 500: Hamburg | https://v3.sportsonline.si/channels/pt/sporttv2.php
-12:00   F1: Hungarian Practice 1 | https://v3.sportsonline.si/channels/hd/hd2.php
-12:00   F1: Hungarian Practice 1 | https://v3.sportsonline.si/channels/hd/hd7.php
-12:00   F1: Hungarian Practice 1 | https://v3.sportsonline.si/channels/pt/sporttv4.php
-12:00   F1: Hungarian Practice 1 | https://v3.sportsonline.si/channels/bra/br5.php
-14:00   Ajax x Olympiakos Piraeus | https://v3.sportsonline.si/channels/hd/hd4.php
-14:00   F3: Hungarian Qualifying | https://v3.sportsonline.si/channels/hd/hd2.php
-14:00   F3: Hungarian Qualifying | https://v3.sportsonline.si/channels/hd/hd7.php
-14:00   F3: Hungarian Qualifying | https://v3.sportsonline.si/channels/pt/sporttv4.php
-14:00   F3: Hungarian Qualifying | https://v3.sportsonline.si/channels/bra/br5.php
-14:55   F2: Hungarian Qualifying | https://v3.sportsonline.si/channels/hd/hd2.php
-14:55   F2: Hungarian Qualifying | https://v3.sportsonline.si/channels/hd/hd7.php
-14:55   F2: Hungarian Qualifying | https://v3.sportsonline.si/channels/pt/sporttv4.php
-14:55   F2: Hungarian Qualifying | https://v3.sportsonline.si/channels/bra/br5.php
-15:45   F1: Hungarian Practice 2 | https://v3.sportsonline.si/channels/hd/hd2.php
-15:45   F1: Hungarian Practice 2 | https://v3.sportsonline.si/channels/hd/hd7.php
-15:45   F1: Hungarian Practice 2 | https://v3.sportsonline.si/channels/pt/sporttv4.php
-15:45   F1: Hungarian Practice 2 | https://v3.sportsonline.si/channels/bra/br5.php
-16:30   CSMS Iaşi x Botoşani | https://v3.sportsonline.si/channels/hd/hd10.php
-16:30   Cherno More x CSKA 1948 | https://v3.sportsonline.si/channels/hd/hd8.php
-17:00   Greuther Fürth x St. Pauli | https://v3.sportsonline.si/channels/hd/hd3.php
-17:00   Jagiellonia Białystok x Puszcza Niepołomice | https://v3.sportsonline.si/channels/hd/hd11.php
-18:00   Austria Wien x Porto | https://v3.sportsonline.si/channels/hd/hd1.php
-18:00   Austria Wien x Porto | https://v3.sportsonline.si/channels/pt/sporttv1.php
-18:00   Austria Wien x Porto | https://v3.sportsonline.si/channels/bra/br6.php
-19:00   Krumovgrad x Slavia Sofia | https://v3.sportsonline.si/channels/hd/hd8.php
-19:30   Unirea Slobozia x FCSB | https://v3.sportsonline.si/channels/hd/hd10.php
-19:30   Śląsk Wrocław x Lechia Gdańsk | https://v3.sportsonline.si/channels/hd/hd11.php
-21:00   NBA: Milwaukee Bucks @ Phoenix Suns | https://v3.sportsonline.si/channels/hd/hd5.php
-23:00   NBA: Atlanta Hawks @ Chicago Bulls | https://v3.sportsonline.si/channels/hd/hd5.php
-23:00   Jaguares de Córdoba x Patriotas Boyacá | https://v3.sportsonline.si/channels/hd/hd6.php
-23:00   Avaí x Ceará | https://v3.sportsonline.si/channels/bra/br1.php
-01:30   Coritiba x Mirassol | https://v3.sportsonline.si/channels/bra/br1.php
-01:30   Fortaleza CEIF x Deportes Tolima | https://v3.sportsonline.si/channels/hd/hd6.php
-01:30   NBA: Philadelphia 76ers @ San Antonio Spurs | https://v3.sportsonline.si/channels/hd/hd5.php
-02:00   Atlético San Luis x Tijuana | https://v3.sportsonline.si/channels/hd/hd9.php
-02:00   Boxing: Carlos Cañizales x Iván García | https://v3.sportsonline.si/channels/bra/br6.php
-03:30   NBA: Golden State Warriors @ Oklahoma City Thunders | https://v3.sportsonline.si/channels/hd/hd5.php
-04:05   Puebla x Atlas | https://v3.sportsonline.si/channels/hd/hd9.php</pre></body></html>
+07:20   F3: Hungarian Feature Race | https://v3.sportsonline.si/channels/hd/hd2.php
+07:20   F3: Hungarian Feature Race | https://v3.sportsonline.si/channels/hd/hd7.php
+07:20   F3: Hungarian Feature Race | https://v3.sportsonline.si/channels/pt/sporttv4.php  
+09:00   F2: Hungarian Feature Race | https://v3.sportsonline.si/channels/hd/hd2.php
+09:00   F2: Hungarian Feature Race | https://v3.sportsonline.si/channels/hd/hd7.php
+09:00   F2: Hungarian Feature Race | https://v3.sportsonline.si/channels/pt/sporttv4.php 
+09:30   The Open - D4 | https://v3.sportsonline.si/channels/pt/sporttv3.php
+10:30   ATP World Tour 250: Gstaad - Final | https://v3.sportsonline.si/channels/pt/sporttv2.php
+13:00   ATP World Tour 250: Bastad - Final | https://v3.sportsonline.si/channels/pt/sporttv2.php
+13:55   F1: Hungarian Grand Prix | https://v3.sportsonline.si/channels/hd/hd2.php
+13:55   F1: Hungarian Grand Prix | https://v3.sportsonline.si/channels/hd/hd7.php
+13:55   F1: Hungarian Grand Prix | https://v3.sportsonline.si/channels/pt/sporttv4.php 
+13:55   F1: Hungarian Grand Prix | https://v3.sportsonline.si/channels/bra/br5.php
+14:00   Bangkok Glass x Borussia Dortmund | https://v3.sportsonline.si/channels/hd/hd3.php
+14:30   Benfica x Almería | https://v3.sportsonline.si/channels/pt/sporttv1.php
+15:00   Hamburger SV x Cardiff City | https://v3.sportsonline.si/channels/hd/hd10.php
+15:00   Grêmio x Vitória | https://v3.sportsonline.si/channels/bra/br1.php
+17:00   Lazio x Triestina | https://v3.sportsonline.si/channels/hd/hd8.php
+17:00   Universitatea Cluj x Hermannstadt | https://v3.sportsonline.si/channels/hd/hd11.php
+17:00   Botev Vratsa x Botev Plovdiv | https://v3.sportsonline.si/channels/hd/hd9.php
+19:00   River Plate x Lanús | https://v3.sportsonline.si/channels/pt/sporttv1.php
+19:15   Ludogorets x CSKA Sofia | https://v3.sportsonline.si/channels/hd/hd9.php
+19:30   ATP World Tour 250: Newport - Final | https://v3.sportsonline.si/channels/pt/sporttv2.php
+20:00   Bahia x Corinthians | https://v3.sportsonline.si/channels/bra/br2.php
+20:00   Atlético Mineiro x Vasco da Gama | https://v3.sportsonline.si/channels/bra/br3.php
+20:00   Guarani x Goiás | https://v3.sportsonline.si/channels/bra/br7.php
+20:00   Dinamo Bucureşti x Petrolul 52 | https://v3.sportsonline.si/channels/hd/hd11.php
+20:00   NBA: Orlando Magic @ Minnesota Timberwolves | https://v3.sportsonline.si/channels/hd/hd5.php
+21:30   Sporting Cristal x Sport Boys | https://v3.sportsonline.si/channels/hd/hd10.php
+21:30   Millonarios x Atlético Bucaramanga | https://v3.sportsonline.si/channels/hd/hd6.php 
+22:00   NBA: Philadelphia 76ers @ Boston Celtics | https://v3.sportsonline.si/channels/hd/hd5.php
+22:30   Juventude x São Paulo | https://v3.sportsonline.si/channels/bra/br1.php
+22:30   RB Bragantino x Athletico-PR | https://v3.sportsonline.si/channels/bra/br4.php
+22:30   Fortaleza x Atlético Goianiense | https://v3.sportsonline.si/channels/bra/br5.php
+22:30   Botafogo SP x Brusque | https://v3.sportsonline.si/channels/bra/br7.php
+23:45   Atlético Nacional x América de Cali | https://v3.sportsonline.si/channels/hd/hd6.php
+00:00   Cuiabá x Fluminense | https://v3.sportsonline.si/channels/bra/br2.php
+00:00   Defensa y Justicia x Boca Juniors | https://v3.sportsonline.si/channels/pt/sporttv1.php
+00:00   Pumas UNAM x Pachuca | https://v3.sportsonline.si/channels/hd/hd11.php
+00:00   NBA: Toronto Raptors @ San Antonio Spurs | https://v3.sportsonline.si/channels/hd/hd5.php
+02:00   Junior x Boyacá Chicó | https://v3.sportsonline.si/channels/hd/hd6.php
+02:00   NBA: Houston Rockets @ Portland Trail Blazers | https://v3.sportsonline.si/channels/hd/hd5.php
+02:05   León x Necaxa | https://v3.sportsonline.si/channels/hd/hd11.php
+
+MONDAY
+HD1 ENGLISH
+HD3 GERMAN
+HD6 SPANISH
+HD7 ITALIAN
+HD9 ROMANIAN 
+HD10 SPANISH
+
+BR1 BRAZILIAN
+
+10:00   ATP World Tour 250: Kitzbuhel | https://v3.sportsonline.si/channels/pt/sporttv2.php
+15:30   ATP World Tour 250: Umag | https://v3.sportsonline.si/channels/pt/sporttv5.php
+17:00   FC St.gallen 1879 x FC Basel 1893 | https://v3.sportsonline.si/channels/hd/hd3.php
+17:00   SCM Gloria Buzău x Sepsi | https://v3.sportsonline.si/channels/hd/hd9.php
+18:30   FK Košice x Roma | https://v3.sportsonline.si/channels/hd/hd7.php
+18:00   MLB: Rays @ Yankees | https://v3.sportsonline.si/channels/hd/hd1.php
+19:00   Cerro Largo x Rampla Juniors | https://v3.sportsonline.si/channels/hd/hd10.php
+20:00   Oţelul x Farul Constanța | https://v3.sportsonline.si/channels/hd/hd9.php
+00:00   Deportivo Cali x Alianza Petrolera | https://v3.sportsonline.si/channels/hd/hd6.php
+00:00   Santos x Coritiba | https://v3.sportsonline.si/channels/bra/br1.php
+01:00   WWE Monday Night Raw | https://v3.sportsonline.si/channels/hd/hd1.php
+02:00   Deportivo Pereira x Medellín | https://v3.sportsonline.si/channels/hd/hd6.php</pre></body></html>
