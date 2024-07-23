@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 22-07-24 |
+                | LAST UPDATE: 23-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,29 +29,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
-MONDAY
-HD1 ENGLISH
-HD3 GERMAN
-HD6 SPANISH
-HD7 ITALIAN
-HD9 ROMANIAN 
-HD10 SPANISH
-
-BR1 BRAZILIAN
-
-10:00   ATP World Tour 250: Kitzbuhel | https://v3.sportsonline.si/channels/pt/sporttv2.php
-15:30   ATP World Tour 250: Umag | https://v3.sportsonline.si/channels/pt/sporttv5.php
-17:00   FC St.gallen 1879 x FC Basel 1893 | https://v3.sportsonline.si/channels/hd/hd3.php
-17:00   SCM Gloria Buzău x Sepsi | https://v3.sportsonline.si/channels/hd/hd9.php
-18:30   FK Košice x Roma | https://v3.sportsonline.si/channels/hd/hd7.php
-18:00   MLB: Rays @ Yankees | https://v3.sportsonline.si/channels/hd/hd1.php
-19:00   Cerro Largo x Rampla Juniors | https://v3.sportsonline.si/channels/hd/hd10.php
-20:00   Oţelul x Farul Constanța | https://v3.sportsonline.si/channels/hd/hd9.php
-00:00   Deportivo Cali x Alianza Petrolera | https://v3.sportsonline.si/channels/hd/hd6.php
-00:00   Santos x Coritiba | https://v3.sportsonline.si/channels/bra/br1.php
-01:00   WWE Monday Night Raw | https://v3.sportsonline.si/channels/hd/hd1.php
-02:00   Deportivo Pereira x Medellín | https://v3.sportsonline.si/channels/hd/hd6.php
-
 TUESDAY
 HD1 ENGLISH
 HD2 ENGLISH
@@ -69,6 +46,7 @@ BR3 BRAZILIAN
 BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
+BR7 BRAZILIAN
 
 10:00   ATP World Tour 250: Kitzbuhel | https://v3.sportsonline.si/channels/pt/sporttv2.php
 15:30   ATP World Tour 250: Umag | https://v3.sportsonline.si/channels/pt/sporttv5.php
@@ -95,10 +73,124 @@ BR6 BRAZILIAN
 00:30   Manchester City x Celtic | https://v3.sportsonline.si/channels/hd/hd2.php
 00:30   Manchester City x Celtic | https://v3.sportsonline.si/channels/hd/hd10.php
 00:30   Manchester City x Celtic | https://v3.sportsonline.si/channels/pt/sporttv1.php
+00:30   Manchester City x Celtic | https://v3.sportsonline.si/channels/bra/br7.php
 01:30   Internacional x Rosario Central | https://v3.sportsonline.si/channels/hd/hd5.php
 01:30   Internacional x Rosario Central | https://v3.sportsonline.si/channels/hd/hd9.php
 01:30   Internacional x Rosario Central | https://v3.sportsonline.si/channels/pt/sporttv2.php
 01:30   Internacional x Rosario Central | https://v3.sportsonline.si/channels/bra/br3.php
 01:00   Ituano x América Mineiro | https://v3.sportsonline.si/channels/bra/br2.php
 01:30   Ponte Preta x Vila Nova | https://v3.sportsonline.si/channels/bra/br1.php
-02:20   Deportes Tolima x Deportivo Pasto | https://v3.sportsonline.si/channels/hd/hd6.php</pre></body></html>
+02:20   Deportes Tolima x Deportivo Pasto | https://v3.sportsonline.si/channels/hd/hd6.php
+
+WEDNESDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 FRENCH
+HD5 GREEK &amp; ENGLISH
+HD6 SPANISH
+HD8 GREEK
+HD9 ENGLISH &amp; SPANISH
+HD10 GREEK &amp; SPANISH
+HD11 TURKISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN 
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+BR7 BRAZILIAN
+
+10:00   ATP World Tour 250: Kitzbuhel | https://v3.sportsonline.si/channels/pt/sporttv2.php
+11:15   Cerezo Osaka x Borussia Dortmund | https://v3.sportsonline.si/channels/hd/hd3.php
+14:00   Argentina U23 x Morocco U23 | https://v3.sportsonline.si/channels/hd/hd2.php
+14:00   Argentina U23 x Morocco U23 | https://v3.sportsonline.si/channels/hd/hd6.php
+14:00   Argentina U23 x Morocco U23 | https://v3.sportsonline.si/channels/bra/br2.php
+15:30   ATP World Tour 250: Umag | https://v3.sportsonline.si/channels/pt/sporttv5.php
+16:00   Egypt U23 x Dominican Republic U23 | https://v3.sportsonline.si/channels/hd/hd2.php
+16:00   Egypt U23 x Dominican Republic U23	| https://v3.sportsonline.si/channels/hd/hd6.php
+16:00   Egypt U23 x Dominican Republic U23 | https://v3.sportsonline.si/channels/bra/br2.php
+17:00   St. Pauli x Olympique Lyonnais | https://v3.sportsonline.si/channels/pt/sporttv3.php
+17:30   Twente x Schalke 04 | https://v3.sportsonline.si/channels/hd/hd1.php
+17:30   Twente x Schalke 04 | https://v3.sportsonline.si/channels/hd/hd3.php
+17:30   AZ x Aris | https://v3.sportsonline.si/channels/hd/hd10.php
+18:00   Iraq U23 x Ukraine U23 | https://v3.sportsonline.si/channels/hd/hd6.php
+18:00   Japan U23 x Paraguay U23 | https://v3.sportsonline.si/channels/bra/br2.php
+18:00   ATP World Tour 250: Atlanta | https://v3.sportsonline.si/channels/pt/sporttv2.php
+18:30   PAOK x Borac Banja Luka | https://v3.sportsonline.si/channels/hd/hd5.php
+18:30   Galatasaray x Lecce | https://v3.sportsonline.si/channels/hd/hd11.php
+18:30   NAC Breda x OFI | https://v3.sportsonline.si/channels/hd/hd8.php
+19:30   Birmingham City x Rangers | https://v3.sportsonline.si/channels/hd/hd9.php
+20:00   France U23 x United States U23 | https://v3.sportsonline.si/channels/hd/hd2.php
+20:00   France U23 x United States U23 | https://v3.sportsonline.si/channels/hd/hd4.php
+20:00   France U23 x United States U23 | https://v3.sportsonline.si/channels/hd/hd6.php
+20:00   France U23 x United States U23 | https://v3.sportsonline.si/channels/bra/br2.php
+21:00   Talleres Córdoba x Defensa y Justicia | https://v3.sportsonline.si/channels/pt/sporttv1.php
+23:00   Universidad Católica x Libertad | https://v3.sportsonline.si/channels/hd/hd5.php
+23:00   Universidad Católica x Libertad | https://v3.sportsonline.si/channels/hd/hd9.php
+23:00   Universidad Católica x Libertad | https://v3.sportsonline.si/channels/pt/sporttv2.php
+23:00   Cruzeiro x Juventude | https://v3.sportsonline.si/channels/bra/br6.php
+23:30   Godoy Cruz x River Plate | https://v3.sportsonline.si/channels/pt/sporttv1.php
+23:30   São Paulo x Botafogo | https://v3.sportsonline.si/channels/bra/br5.php
+00:00   Vitória x Flamengo | https://v3.sportsonline.si/channels/bra/br1.php
+01:30   Boca Juniors x Independiente del Valle | https://v3.sportsonline.si/channels/hd/hd5.php
+01:30   Boca Juniors x Independiente del Valle | https://v3.sportsonline.si/channels/hd/hd9.php
+01:30   Boca Juniors x Independiente del Valle | https://v3.sportsonline.si/channels/pt/sporttv2.php
+01:30   RB Bragantino x Barcelona | https://v3.sportsonline.si/channels/bra/br3.php
+01:30   RB Bragantino x Barcelona | https://v3.sportsonline.si/channels/pt/sporttv3.php
+01:30   Fluminense x Palmeiras | https://v3.sportsonline.si/channels/bra/br4.php
+01:30   Amazonas x Guarani | https://v3.sportsonline.si/channels/bra/br6.php
+03:30   Chelsea x Wrexham | https://v3.sportsonline.si/channels/hd/hd2.php
+03:30   Chelsea x Wrexham | https://v3.sportsonline.si/channels/hd/hd10.php
+03:30   Arsenal x AFC Bournemouth | https://v3.sportsonline.si/channels/hd/hd1.php
+03:30   Arsenal x AFC Bournemouth | https://v3.sportsonline.si/channels/pt/sporttv1.php
+03:30   Arsenal x AFC Bournemouth | https://v3.sportsonline.si/channels/bra/br7.php
+
+THURSDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 GERMAN &amp; DUTCH
+HD5 POLISH &amp; ENGLISH
+HD8 TURKISH
+HD9 DUTCH &amp; SPANISH
+HD10 BULGARIAN/GREEK
+HD11 TURKISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+
+10:00   ATP World Tour 250: Kitzbuhel | https://v3.sportsonline.si/channels/pt/sporttv2.php
+12:00   Borussia M'gladbach x Fortuna Sittard | https://v3.sportsonline.si/channels/hd/hd3.php
+15:30   ATP World Tour 250: Umag | https://v3.sportsonline.si/channels/pt/sporttv5.php
+16:00   Canada W x New Zealand	W | https://v3.sportsonline.si/channels/hd/hd2.php
+17:00   Hertha BSC x Cardiff City | https://v3.sportsonline.si/channels/hd/hd3.php
+17:00   Wisła Kraków x Rapid Wien | https://v3.sportsonline.si/channels/hd/hd4.php
+17:30   Go Ahead Eagles x Brann | https://v3.sportsonline.si/channels/hd/hd9.php
+17:30   Ružomberok x Trabzonspor | https://v3.sportsonline.si/channels/hd/hd11.php
+18:00   Floriana x Vitória Guimarães | https://v3.sportsonline.si/channels/pt/sporttv2.php
+18:00   Germany W x Australia W | https://v3.sportsonline.si/channels/hd/hd2.php
+18:45   İstanbul Başakşehir x La Fiorita | https://v3.sportsonline.si/channels/hd/hd8.php
+19:00   Panathinaikos x Botev Plovdiv | https://v3.sportsonline.si/channels/hd/hd10.php
+19:30   Ajax x Vojvodina | https://v3.sportsonline.si/channels/hd/hd4.php
+19:30   Kilmarnock x Cercle Brugge | https://v3.sportsonline.si/channels/hd/hd1.php
+19:45   Legia Warszawa x Caernarfon Town | https://v3.sportsonline.si/channels/hd/hd5.php
+20:00   Benfica x Brentford | https://v3.sportsonline.si/channels/pt/btv.php
+20:00   USA W x Zambia W | https://v3.sportsonline.si/channels/hd/hd2.php
+20:30   Sporting Braga x Maccabi Petah Tikva | https://v3.sportsonline.si/channels/pt/sporttv1.php
+23:00   Cuiabá x Palestino | https://v3.sportsonline.si/channels/hd/hd5.php
+23:00   Cuiabá x Palestino | https://v3.sportsonline.si/channels/hd/hd9.php
+23:00   Cuiabá x Palestino | https://v3.sportsonline.si/channels/pt/sporttv1.php
+23:00   Cuiabá x Palestino | https://v3.sportsonline.si/channels/bra/br3.php
+00:00   Corinthians x Grêmio | https://v3.sportsonline.si/channels/bra/br1.php
+01:30   Ceará x Botafogo SP | https://v3.sportsonline.si/channels/bra/br2.php
+01:30   Goiás x CRB | https://v3.sportsonline.si/channels/bra/br4.php
+01:30   Always Ready x LDU Quito | https://v3.sportsonline.si/channels/hd/hd5.php
+01:30   Always Ready x LDU Quito | https://v3.sportsonline.si/channels/hd/hd9.php
+01:30   Athletico-PR x Cerro Porteño | https://v3.sportsonline.si/channels/pt/sporttv1.php
+01:30   Athletico-PR x Cerro Porteño | https://v3.sportsonline.si/channels/bra/br5.php
+02:30   Juárez x Eintracht Frankfurt | https://v3.sportsonline.si/channels/hd/hd3.php</pre></body></html>
