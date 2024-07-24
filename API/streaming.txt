@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 23-07-24 |
+                | LAST UPDATE: 24-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -30,44 +30,19 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
 TUESDAY
-HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
 HD5 ENGLISH
 HD6 SPANISH
-HD8 SPANISH
-HD9 TURKISH &amp; SPANISH
-HD10 SERBIAN &amp; SPANISH
-HD11 PORTUGUESE
+HD9 SPANISH
+HD10 SPANISH
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
 BR3 BRAZILIAN
 BR4 BRAZILIAN
 BR5 BRAZILIAN
-BR6 BRAZILIAN
 BR7 BRAZILIAN
 
-10:00   ATP World Tour 250: Kitzbuhel | https://v3.sportsonline.si/channels/pt/sporttv2.php
-15:30   ATP World Tour 250: Umag | https://v3.sportsonline.si/channels/pt/sporttv5.php
-16:00   ATP World Tour 250: Atlanta | https://v3.sportsonline.si/channels/pt/sporttv3.php
-16:30   Panevėžys x Jagiellonia Białystok | https://v3.sportsonline.si/channels/hd/hd11.php
-17:30   Las Palmas x Al Sadd | https://v3.sportsonline.si/channels/hd/hd6.php
-18:00   Sturm Graz x Porto | https://v3.sportsonline.si/channels/hd/hd8.php
-18:00   Sturm Graz x Porto | https://v3.sportsonline.si/channels/pt/sporttv1.php
-19:00   Dynamo Kyiv x Partizan | https://v3.sportsonline.si/channels/hd/hd10.php
-19:30   Lugano x Fenerbahçe | https://v3.sportsonline.si/channels/hd/hd3.php
-19:30   Lugano x Fenerbahçe | https://v3.sportsonline.si/channels/hd/hd9.php
-19:45   Aberdeen x Airdrieonians | https://v3.sportsonline.si/channels/hd/hd1.php
-20:00   Shamrock Rovers x Sparta Praha | https://v3.sportsonline.si/channels/hd/hd11.php
-20:30   Sporting CP x Sevilla | https://v3.sportsonline.si/channels/hd/hd8.php
-20:30   Sporting CP x Sevilla | https://v3.sportsonline.si/channels/pt/sporttv1.php
-22:00   Patriotas Boyacá x Fortaleza CEIF | https://v3.sportsonline.si/channels/hd/hd6.php
-23:00   Racing x Huachipato | https://v3.sportsonline.si/channels/hd/hd5.php
-23:00   Racing x Huachipato | https://v3.sportsonline.si/channels/hd/hd9.php
-23:00   Racing x Huachipato | https://v3.sportsonline.si/channels/pt/sporttv2.php
-23:00   Chapecoense x Sport Recife | https://v3.sportsonline.si/channels/bra/br1.php
-23:00   Operário PR x Novorizontino | https://v3.sportsonline.si/channels/bra/br4.php
 00:00   Mirassol x Avaí | https://v3.sportsonline.si/channels/bra/br5.php
 00:10   La Equidad x Jaguares de Córdoba | https://v3.sportsonline.si/channels/hd/hd6.php
 00:30   Manchester City x Celtic | https://v3.sportsonline.si/channels/hd/hd2.php
