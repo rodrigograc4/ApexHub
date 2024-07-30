@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 29-07-24 |
+                | LAST UPDATE: 30-07-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -28,36 +28,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
-
-MONDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD9 SPANISH
-HD10 ROMANIAN 
-HD11 POLISH
-
-BR1 BRAZILIAN
-BR6 BRAZILIAN
-
-08:30   Shooting: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-09:40   Diving: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-11:15   Equestrianism: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-12:35   Fencing: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-13:55   Equestrianism: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-15:10   Archery: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-16:00   ATP World Tour 500: Washington | https://v3.sportsonline.si/channels/pt/sporttv2.php
-16:35   Artistic Gymnastics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-17:00   Al Hilal x Como | https://v3.sportsonline.si/channels/hd/hd1.php
-17:00   Al Hilal x Como | https://v3.sportsonline.si/channels/pt/sporttv1.php
-17:00   Al Hilal x Como | https://v3.sportsonline.si/channels/bra/br6.php
-17:00   Borussia M'gladbach x Holstein Kiel | https://v3.sportsonline.si/channels/hd/hd3.php
-17:00   UTA Arad x Universitatea Cluj | https://v3.sportsonline.si/channels/hd/hd10.php
-18:00   Raków Częstochowa x Cracovia Kraków | https://v3.sportsonline.si/channels/hd/hd11.php
-19:20   Swimming: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-20:00   Petrolul 52 x Rapid Bucureşti | https://v3.sportsonline.si/channels/hd/hd10.php
-22:30   Paysandu x Novorizontino | https://v3.sportsonline.si/channels/bra/br1.php
-02:10   Fortaleza CEIF x Deportivo Cali | https://v3.sportsonline.si/channels/hd/hd9.php
 
 TUESDAY
 HD1 ENGLISH
@@ -209,4 +179,98 @@ BR7 BRAZILIAN
 01:30   Corinthians x Grêmio | https://v3.sportsonline.si/channels/bra/br1.php
 01:30   Atlético Goianiense x Vasco da Gama | https://v3.sportsonline.si/channels/bra/br4.php
 03:00   Manchester United x Real Betis | https://v3.sportsonline.si/channels/hd/hd5.php
-03:00   Manchester United x Real Betis | https://v3.sportsonline.si/channels/hd/hd11.php</pre></body></html>
+03:00   Manchester United x Real Betis | https://v3.sportsonline.si/channels/hd/hd11.php
+
+THURSDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 DUTCH
+HD8 ENGLISH
+HD9 CROATIAN
+HD10 GREEK
+HD11 TURKISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+
+08:15   Athletics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+10:00   Swimming: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+10:30   Sanfrecce Hiroshima x Stuttgart | https://v3.sportsonline.si/channels/hd/hd3.php
+12:00   Equestrianism: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+13:00   Tennis: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+16:00   Boxing: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+17:00   Levadia x Osijek | https://v3.sportsonline.si/channels/hd/hd9.php
+17:00   Artistic Gymnastics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+18:30   Maccabi Petah Tikva x Sporting Braga | https://v3.sportsonline.si/channels/pt/sporttv2.php
+18:30   Trabzonspor x Ružomberok | https://v3.sportsonline.si/channels/hd/hd11.php
+19:00   Cercle Brugge x Kilmarnock | https://v3.sportsonline.si/channels/hd/hd1.php
+19:00   Vojvodina x Ajax | https://v3.sportsonline.si/channels/hd/hd4.php
+19:00   Rijeka x Corvinul Hunedoara | https://v3.sportsonline.si/channels/hd/hd9.php
+19:00   Botev Plovdiv x Panathinaikos | https://v3.sportsonline.si/channels/hd/hd10.php
+19:20   Swimming: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+19:30   Rapid Wien x Wisła Kraków | https://v3.sportsonline.si/channels/hd/hd3.php
+19:45   St. Mirren x Valur | https://v3.sportsonline.si/channels/hd/hd8.php
+20:15   Vitória Guimarães x Floriana | https://v3.sportsonline.si/channels/pt/sporttv1.php 
+21:30   ATP World Tou 500: Washington | https://v3.sportsonline.si/channels/pt/sporttv2.php
+23:00   Juventude x Fluminense | https://v3.sportsonline.si/channels/bra/br1.php
+23:00   Juventude x Fluminense | https://v3.sportsonline.si/channels/bra/br2.php
+
+FRIDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 GERMAN
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN 
+HD8 ENGLISH
+HD9 BELGIAN
+HD10 ROMANIAN
+HD11 ENGLISH &amp; SPANISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+08:00   Badminton: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+09:00   MotoGP: British Grand Prix FP | https://v3.sportsonline.si/channels/hd/hd11.php
+09:00   MotoGP: British Grand Prix FP | https://v3.sportsonline.si/channels/pt/sporttv4.php 
+09:00   MotoGP: British Grand Prix FP | https://v3.sportsonline.si/channels/bra/br6.php
+09:00   Athletics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+10:00   Diving: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+11:00   Athletics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+11:45   Trampolining: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+13:15   MotoGP: British GP Practice | https://v3.sportsonline.si/channels/hd/hd11.php
+13:15   MotoGP: British GP Practice | https://v3.sportsonline.si/channels/pt/sporttv4.php 
+13:15   MotoGP: British GP Practice | https://v3.sportsonline.si/channels/bra/br6.php
+13:30   Borussia M'gladbach x Ipswich Town | https://v3.sportsonline.si/channels/hd/hd3.php
+13:30   Borussia M'gladbach x Ipswich Town | https://v3.sportsonline.si/channels/bra/br5.php
+13:35   Archery: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+14:00   Olympic Soccer Men: 1B x 2A - Quarter Final | https://v3.sportsonline.si/channels/hd/hd1.php
+14:00   Olympic Soccer Men: 1B x 2A - Quarter Final | https://v3.sportsonline.si/channels/bra/br2.php
+16:00   Olympic Soccer Men: 1D x 2C - Quarter Final | https://v3.sportsonline.si/channels/hd/hd5.php
+16:05   Boxing: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+16:45   Athletics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
+17:00   Oţelul x Hermannstadt | https://v3.sportsonline.si/channels/hd/hd10.php
+18:00   Olympic Soccer Men: 1C x 2D - Quarter Final | https://v3.sportsonline.si/channels/hd/hd1.php
+18:00   Pisa x Internazionale | https://v3.sportsonline.si/channels/hd/hd7.php
+19:00   ATP World Tour 250: Washington | https://v3.sportsonline.si/channels/pt/sporttv2.php 
+19:30   Köln x Hamburger SV | https://v3.sportsonline.si/channels/hd/hd3.php
+19:30   Köln x Hamburger SV | https://v3.sportsonline.si/channels/pt/eleven1.php  
+19:30   Grazer AK x Salzburg | https://v3.sportsonline.si/channels/hd/hd4.php
+19:45   Falkirk x Queen's Park | https://v3.sportsonline.si/channels/hd/hd8.php
+19:45   Union Saint-Gilloise x Beerschot | https://v3.sportsonline.si/channels/hd/hd9.php
+20:00   Benfica x Fulham | https://v3.sportsonline.si/channels/hd/hd11.php
+20:00   Benfica x Fulham | https://v3.sportsonline.si/channels/pt/sporttv1.php 
+20:00   Benfica x Fulham | https://v3.sportsonline.si/channels/pt/btv.php  
+20:00   Nottingham Forest x Villarreal | https://v3.sportsonline.si/channels/hd/hd6.php
+20:00   Dinamo Bucureşti x SCM Gloria Buzău | https://v3.sportsonline.si/channels/hd/hd10.php
+20:00   Olympic Soccer Men: 1A x 2B - Quarter Final | https://v3.sportsonline.si/channels/hd/hd5.php
+23:00   Brusque x América Mineiro | https://v3.sportsonline.si/channels/bra/br1.php
+23:00   Brusque x América Mineiro | https://v3.sportsonline.si/channels/bra/br2.php
+01:30   Santos x Sport Recife | https://v3.sportsonline.si/channels/bra/br1.php
+01:30   Santos x Sport Recife | https://v3.sportsonline.si/channels/bra/br2.php
+02:00   Millonarios x Deportes Tolima | https://v3.sportsonline.si/channels/hd/hd6.php
+03:00   Boxing: Jorge Mata x Fernando Romero | https://v3.sportsonline.si/channels/bra/br6.php</pre></body></html>
