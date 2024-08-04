@@ -33,13 +33,13 @@ SATURDAY
 HD1 ENGLISH
 HD2 ENGLISH
 HD3 GERMAN
-HD5 GERMAN &amp; ENGLISH
+HD5 ENGLISH
 HD6 SPANISH
 HD7 ITALIAN
-HD8 TURKISH &amp; ENGLISH
-HD9 SPANISH &amp; ENGLISH
+HD8 ENGLISH
+HD9 ENGLISH
 HD10 ENGLISH
-HD11 ENGLISH &amp; SPANISH
+HD11 SPANISH
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
@@ -50,27 +50,6 @@ BR6 BRAZILIAN
 BR7 BRAZILIAN
 BR8 BRAZILIAN
 
-08:30   Shooting: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-09:30   Athletics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-11:35   Equestrianism: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-12:00   Tottenham Hotspur x Bayern München | https://v3.sportsonline.si/channels/hd/hd1.php
-12:00   Tottenham Hotspur x Bayern München | https://v3.sportsonline.si/channels/hd/hd5.php
-12:00   Tottenham Hotspur x Bayern München | https://v3.sportsonline.si/channels/bra/br6.php
-12:00   Hertha BSC x Paderborn | https://v3.sportsonline.si/channels/pt/eleven1.php  
-12:30   Hearts x Rangers | https://v3.sportsonline.si/channels/hd/hd11.php
-12:30   Hearts x Rangers | https://v3.sportsonline.si/channels/pt/sporttv1.php 
-14:30   Augsburg x Leicester City | https://v3.sportsonline.si/channels/bra/br6.php
-14:35   Artistic Gymnastics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-15:00   Preston North End x Everton | https://v3.sportsonline.si/channels/hd/hd10.php
-15:00   Leeds United x Valencia | https://v3.sportsonline.si/channels/hd/hd6.php
-16:00   Roma x Olympiakos Piraeus | https://v3.sportsonline.si/channels/hd/hd7.php
-17:00   Canoeing: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-17:30   Napoli x Girona | https://v3.sportsonline.si/channels/hd/hd6.php
-18:00   Rennes x Real Sociedad | https://v3.sportsonline.si/channels/hd/hd11.php
-18:00   Rennes x Real Sociedad | https://v3.sportsonline.si/channels/bra/br6.php
-18:00   UFC Fight Night: Prelims | https://v3.sportsonline.si/channels/hd/hd9.php
-18:00   Athletics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-18:45   Galatasaray x Beşiktaş | https://v3.sportsonline.si/channels/hd/hd8.php
 19:30   Schalke 04 x Eintracht Braunschweig | https://v3.sportsonline.si/channels/hd/hd3.php
 19:30   Schalke 04 x Eintracht Braunschweig | https://v3.sportsonline.si/channels/pt/eleven1.php
 20:15   Sporting CP x Porto | https://v3.sportsonline.si/channels/pt/sporttv1.php 
