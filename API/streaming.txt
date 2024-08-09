@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 08-08-24 |
+                | LAST UPDATE: 09-08-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -28,61 +28,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
-
-WEDNESDAY
-HD6 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-
-23:00   Bahia x Botafogo | https://v3.sportsonline.si/channels/bra/br1.php
-23:00   Atlético Mineiro x CRB | https://v3.sportsonline.si/channels/bra/br5.php
-23:00   RB Bragantino x Athletico-PR | https://v3.sportsonline.si/channels/bra/br4.php
-00:00   Palmeiras x Flamengo | https://v3.sportsonline.si/channels/bra/br2.php
-00:00   Palmeiras x Flamengo | https://v3.sportsonline.si/channels/bra/br3.php
-01:00   Atlético Bucaramanga x Santa Fe | https://v3.sportsonline.si/channels/hd/hd6.php
-01:30   Fluminense x Juventude | https://v3.sportsonline.si/channels/bra/br1.php
-01:30   Grêmio x Corinthians | https://v3.sportsonline.si/channels/bra/br6.php
-01:30   Grêmio x Corinthians | https://v3.sportsonline.si/channels/bra/br7.php
-
-THURSDAY
-HD2 ENGLISH
-HD3 DUTCH
-HD4 GERMAN
-HD5 DANISH
-HD8 POLISH
-HD9 GREEK
-HD10 ARABIC &amp; POLISH
-HD11 SERBIAN
-
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-
-08:00   Open Water Swimming: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-09:00   Athletics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-12:00   Canoeing Sprint: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-13:00   Golf: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-13:45   Diving: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-15:45   Sailing: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-16:00   Egypt x Morocco | https://v3.sportsonline.si/channels/hd/hd2.php
-16:00   Egypt x Morocco | https://v3.sportsonline.si/channels/hd/hd10.php
-16:00   ATP World Tour 1000: Montreal | https://v3.sportsonline.si/channels/pt/sporttv3.php
-17:30   Silkeborg x Gent | https://v3.sportsonline.si/channels/hd/hd5.php
-18:00   Trabzonspor x Rapid Wien | https://v3.sportsonline.si/channels/hd/hd4.php
-18:00   Zürich x Vitória Guimarães | https://v3.sportsonline.si/channels/pt/sporttv1.php
-18:00   Brøndby x Legia Warszawa | https://v3.sportsonline.si/channels/hd/hd8.php
-18:00   Athletics: Summer Olympic Games Paris 2024 | https://v3.sportsonline.si/channels/hd/hd2.php
-19:00   Panathinaikos x Ajax | https://v3.sportsonline.si/channels/hd/hd3.php
-19:00   Olympiakos Piraeus x Nottingham Forest | https://v3.sportsonline.si/channels/hd/hd9.php
-19:00   Partizan x Lugano | https://v3.sportsonline.si/channels/hd/hd11.php
-19:30   Spartak Trnava x Wisła Kraków | https://v3.sportsonline.si/channels/hd/hd10.php
-20:30   Sporting Braga x Servette | https://v3.sportsonline.si/channels/pt/sporttv1.php
-00:00   Goiás x São Paulo | https://v3.sportsonline.si/channels/bra/br3.php
-00:00   Goiás x São Paulo | https://v3.sportsonline.si/channels/bra/br2.php
 
 FRIDAY
 HD1 ENGLISH
@@ -285,6 +230,44 @@ BR7 BRAZILIAN
 20:30   Sporting Braga x Estrela | https://v3.sportsonline.si/channels/pt/sporttv2.php
 20:30   União de Leiria x Vizela | https://v3.sportsonline.si/channels/pt/sporttv4.php
 22:30   CRB x Novorizontino | https://v3.sportsonline.si/channels/bra/br7.php
+23:00   Internacional x Athletico-PR | https://v3.sportsonline.si/channels/bra/br4.php
 23:45   Once Caldas x Atlético Bucaramanga | https://v3.sportsonline.si/channels/hd/hd6.php
 01:00   ATP World Tour 1000: Montreal | https://v3.sportsonline.si/channels/pt/sporttv2.php
-02:00   Alianza Petrolera x Envigado | https://v3.sportsonline.si/channels/hd/hd6.php</pre></body></html>
+02:00   Alianza Petrolera x Envigado | https://v3.sportsonline.si/channels/hd/hd6.php
+
+MONDAY
+HD1 ENGLISH
+HD4 ROMANIAN 
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD9 POLISH
+HD10 TURKISH
+HD11 TURKISH
+
+BR1 BRAZILIAN
+BR3 BRAZILIAN
+BR6 BRAZILIAN
+
+17:00   Petrolul 52 x Universitatea Cluj | https://v3.sportsonline.si/channels/hd/hd4.php
+17:00   Frosinone x Pisa | https://v3.sportsonline.si/channels/hd/hd7.php
+17:30   Lecce x Mantova | https://v3.sportsonline.si/channels/hd/hd8.php
+17:30   Lecce x Mantova | https://v3.sportsonline.si/channels/pt/sporttv2.php
+18:00   Piast Gliwice x Katowice | https://v3.sportsonline.si/channels/hd/hd9.php
+19:00   **Barcelona x Monaco | https://v3.sportsonline.si/channels/hd/hd5.php
+19:00   **Barcelona x Monaco | https://v3.sportsonline.si/channels/hd/hd6.php
+19:00   Rizespor x İstanbul Başakşehir | https://v3.sportsonline.si/channels/hd/hd10.php
+19:00   Bodrumspor x Gaziantepspor | https://v3.sportsonline.si/channels/hd/hd11.php
+19:45   Salernitana x Spezia | https://v3.sportsonline.si/channels/hd/hd7.php
+20:00   Luton Town x Burnley | https://v3.sportsonline.si/channels/hd/hd1.php
+20:00   Luton Town x Burnley | https://v3.sportsonline.si/channels/bra/br6.php
+20:00   CSMS Iaşi x Dinamo Bucureşti | https://v3.sportsonline.si/channels/hd/hd4.php
+20:15   Cagliari x Carrarese | https://v3.sportsonline.si/channels/hd/hd8.php
+20:15   Cagliari x Carrarese | https://v3.sportsonline.si/channels/pt/sporttv2.php 
+20:15   Arouca x Vitória Guimarães | https://v3.sportsonline.si/channels/pt/sporttv1.php
+00:00   Guarani x Vila Nova | https://v3.sportsonline.si/channels/bra/br3.php
+01:00   Goiás x Ceará | https://v3.sportsonline.si/channels/bra/br1.php
+01:00   ATP World Tour 1000: Montreal - Final | https://v3.sportsonline.si/channels/hd/hd1.php
+02:00   Fortaleza CEIF x Deportivo Pereira | https://v3.sportsonline.si/channels/hd/hd6.php
+</pre></body></html>
