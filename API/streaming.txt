@@ -30,17 +30,9 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.si	
 
 SATURDAY
-HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
 HD6 SPANISH
-HD7 ITALIAN
 HD8 ITALIAN
-HD9 ITALIAN
-HD10 GERMAN
-HD11 SPANISH
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
@@ -49,47 +41,6 @@ BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-11:00   Marítimo x Tondela | https://v3.sportsonline.si/channels/pt/sporttv1.php
-12:00   Nürnberg x Schalke 04 | https://v3.sportsonline.si/channels/hd/hd3.php
-12:00   Fortuna Düsseldorf x Karlsruher SC | https://v3.sportsonline.si/channels/pt/eleven2.php 
-12:30   Queens Park Rangers x West Bromwich Albion | https://v3.sportsonline.si/channels/hd/hd2.php
-12:30   Ipswich Town x Nice | https://v3.sportsonline.si/channels/bra/br6.php
-14:30   Bayer Leverkusen x Real Betis | https://v3.sportsonline.si/channels/hd/hd5.php
-14:30   Bayer Leverkusen x Real Betis | https://v3.sportsonline.si/channels/hd/hd11.php
-14:30   Bayer Leverkusen x Real Betis | https://v3.sportsonline.si/channels/bra/br4.php
-14:30   Stuttgart x Athletic Club | https://v3.sportsonline.si/channels/hd/hd10.php
-14:30   Stuttgart x Athletic Club | https://v3.sportsonline.si/channels/pt/eleven1.php 
-14:30   Stuttgart x Athletic Club | https://v3.sportsonline.si/channels/bra/br6.php
-14:30   Heidenheim x Espanyol | https://v3.sportsonline.si/channels/hd/hd6.php
-15:00   Manchester United x Manchester City | https://v3.sportsonline.si/channels/hd/hd1.php
-15:00   Manchester United x Manchester City | https://v3.sportsonline.si/channels/pt/sporttv2.php
-15:00   Manchester United x Manchester City | https://v3.sportsonline.si/channels/bra/br5.php
-15:00   Wolverhampton Wanderers x Rayo Vallecano | https://v3.sportsonline.si/channels/pt/sporttv5.php
-15:30   AVS x Nacional | https://v3.sportsonline.si/channels/pt/sporttv1.php
-15:30   Leixões x Benfica B | https://v3.sportsonline.si/channels/pt/sporttv3.php
-16:00   Borussia Dortmund x Aston Villa | https://v3.sportsonline.si/channels/hd/hd3.php
-16:00   Rennes x Werder Bremen | https://v3.sportsonline.si/channels/hd/hd11.php
-16:00   Brazil W x USA W | https://v3.sportsonline.si/channels/bra/br3.php
-17:00   RB Leipzig x PSG | https://v3.sportsonline.si/channels/hd/hd10.php
-17:00   RB Leipzig x PSG | https://v3.sportsonline.si/channels/hd/hd4.php 
-17:00   Cremonese x Bari 1908 | https://v3.sportsonline.si/channels/hd/hd7.php
-17:30   Tottenham Hotspur x Bayern München | https://v3.sportsonline.si/channels/hd/hd2.php
-17:30   Tottenham Hotspur x Bayern München | https://v3.sportsonline.si/channels/pt/sporttv5.php
-17:30   Hellas Verona x Cesena | https://v3.sportsonline.si/channels/hd/hd8.php
-17:30   Dundee x Hearts | https://v3.sportsonline.si/channels/hd/hd5.php
-18:00   Academico Viseu x Chaves | https://v3.sportsonline.si/channels/pt/sporttv3.php
-18:00   Everton x Roma | https://v3.sportsonline.si/channels/hd/hd9.php
-18:00   Everton x Roma | https://v3.sportsonline.si/channels/bra/br4.php
-18:00   Casa Pia x Boavista | https://v3.sportsonline.si/channels/pt/sporttv2.php
-19:30   Hamburger SV x Hertha BSC | https://v3.sportsonline.si/channels/hd/hd10.php
-19:30   Hamburger SV x Hertha BSC | https://v3.sportsonline.si/channels/pt/eleven3.php 
-19:45   Empoli x Catanzaro | https://v3.sportsonline.si/channels/hd/hd7.php
-19:45   Anderlecht x OH Leuven | https://v3.sportsonline.si/channels/pt/eleven1.php 
-19:45   Fenerbahçe x Adana Demirspor | https://v3.sportsonline.si/channels/hd/hd5.php
-19:45   Fenerbahçe x Adana Demirspor | https://v3.sportsonline.si/channels/pt/sporttv4.php
-20:00   Valencia x Eintracht Frankfurt | https://v3.sportsonline.si/channels/hd/hd3.php
-20:00   PSV x RKC Waalwijk | https://v3.sportsonline.si/channels/pt/sporttv3.php
-20:00   Fortaleza x Criciúma | https://v3.sportsonline.si/channels/bra/br2.php
 20:15   Napoli x Modena | https://v3.sportsonline.si/channels/hd/hd8.php
 20:15   Napoli x Modena | https://v3.sportsonline.si/channels/pt/sporttv2.php
 20:30   Porto x Gil Vicente | https://v3.sportsonline.si/channels/pt/sporttv1.php
