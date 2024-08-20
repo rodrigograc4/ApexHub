@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 18-08-24 |
+                | LAST UPDATE: 19-08-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,49 +29,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v4.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v4.sportsonline.si	
 
-SUNDAY
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 ARABIC
-HD10 TURKISH &amp; SPANISH
-HD11 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-BR7 BRAZILIAN
-
-19:45   Cagliari x Roma | https://v4.sportsonline.si/channels/hd/hd7.php
-19:45   Cagliari x Roma | https://v4.sportsonline.si/channels/pt/sporttv2.php
-19:45   Lazio x Venezia | https://v4.sportsonline.si/channels/hd/hd8.php
-19:45   Lazio x Venezia | https://v4.sportsonline.si/channels/bra/br6.php
-19:45   Beşiktaş x Antalyaspor | https://v4.sportsonline.si/channels/hd/hd10.php
-19:45   Beşiktaş x Antalyaspor | https://v4.sportsonline.si/channels/pt/sporttv4.php 
-19:45   Rennes x Olympique Lyonnais | https://v4.sportsonline.si/channels/hd/hd4.php
-19:45   Rennes x Olympique Lyonnais | https://v4.sportsonline.si/channels/pt/sporttv5.php
-20:00   Palmeiras x São Paulo | https://v4.sportsonline.si/channels/bra/br4.php
-20:00   Atlético Goianiense x Internacional | https://v4.sportsonline.si/channels/bra/br5.php
-20:00   Criciúma x Vasco da Gama | https://v4.sportsonline.si/channels/bra/br7.php
-20:30   Mallorca x Real Madrid | https://v4.sportsonline.si/channels/hd/hd5.php
-20:30   Mallorca x Real Madrid | https://v4.sportsonline.si/channels/hd/hd6.php
-20:30   Mallorca x Real Madrid | https://v4.sportsonline.si/channels/hd/hd9.php
-20:30   Mallorca x Real Madrid | https://v4.sportsonline.si/channels/pt/eleven1.php
-20:30   Mallorca x Real Madrid | https://v4.sportsonline.si/channels/bra/br2.php
-20:30   Mallorca x Real Madrid | https://v4.sportsonline.si/channels/bra/br3.php
-20:30   Boavista x Sporting Braga | https://v4.sportsonline.si/channels/pt/sporttv1.php 
-21:00   Atlético Tucumán x Estudiantes | https://v4.sportsonline.si/channels/hd/hd11.php
-22:30   Botafogo x Flamengo | https://v4.sportsonline.si/channels/bra/br1.php
-22:30   Athletico-PR x Juventude | https://v4.sportsonline.si/channels/bra/br5.php
-23:45   Atlético Bucaramanga x América de Cali | https://v4.sportsonline.si/channels/hd/hd10.php
-02:00   Boyacá Chicó x Envigado | https://v4.sportsonline.si/channels/hd/hd10.php
-03:00   Atlético San Luis x Querétaro | https://v4.sportsonline.si/channels/hd/hd11.php
-
 MONDAY
 HD1 ENGLISH
 HD2 ENGLISH
@@ -79,25 +36,13 @@ HD3 GERMAN
 HD4 FRENCH
 HD6 SPANISH
 HD7 ITALIAN
-HD8 ITALIAN
-HD10 TURKISH &amp; SPANISH
-HD11 GREEK
+HD10 SPANISH
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-17:00   Koblenz x Wolfsburg | https://v4.sportsonline.si/channels/hd/hd3.php
-17:30   Lecce x Atalanta | https://v4.sportsonline.si/channels/hd/hd8.php
-17:30   Lecce x Atalanta | https://v4.sportsonline.si/channels/pt/sporttv2.php
-17:30   Lecce x Atalanta | https://v4.sportsonline.si/channels/bra/br6.php
-18:00   Real Valladolid x Espanyol | https://v4.sportsonline.si/channels/hd/hd2.php
-18:00   Real Valladolid x Espanyol | https://v4.sportsonline.si/channels/hd/hd6.php
-18:00   Real Valladolid x Espanyol | https://v4.sportsonline.si/channels/pt/eleven2.php 
-18:00   Tondela x Porto B | https://v4.sportsonline.si/channels/pt/sporttv3.php
-19:00   Hatayspor x Kasımpaşa | https://v4.sportsonline.si/channels/hd/hd10.php
-19:00   Panaitolikos x Lamia | https://v4.sportsonline.si/channels/hd/hd11.php
 19:45   Juventus x Como | https://v4.sportsonline.si/channels/hd/hd7.php
 19:45   Juventus x Como | https://v4.sportsonline.si/channels/pt/sporttv2.php
 19:45   Juventus x Como | https://v4.sportsonline.si/channels/bra/br6.php
@@ -114,4 +59,48 @@ BR6 BRAZILIAN
 22:00   Patriotas Boyacá x Once Caldas | https://v4.sportsonline.si/channels/hd/hd10.php
 23:00   ATP World Tour 1000: Cincinnati | https://v4.sportsonline.si/channels/pt/sporttv2.php 
 00:00   Vitória x Cruzeiro | https://v4.sportsonline.si/channels/bra/br1.php
-00:15   Jaguares de Córdoba x Deportes Tolima | https://v4.sportsonline.si/channels/hd/hd10.php</pre></body></html>
+00:15   Jaguares de Córdoba x Deportes Tolima | https://v4.sportsonline.si/channels/hd/hd10.php
+
+TUESDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD4 FRENCH
+HD5 ENGLISH
+HD6 SPANISH
+HD10 SPANISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+20:00   Bodø / Glimt x Crvena Zvezda | https://v4.sportsonline.si/channels/hd/hd1.php
+20:00   Bodø / Glimt x Crvena Zvezda | https://v4.sportsonline.si/channels/pt/eleven2.php 
+20:00   Bodø / Glimt x Crvena Zvezda | https://v4.sportsonline.si/channels/bra/br5.php
+20:00   Dinamo Zagreb x Qarabağ | https://v4.sportsonline.si/channels/hd/hd2.php
+20:00   Dinamo Zagreb x Qarabağ | https://v4.sportsonline.si/channels/pt/eleven1.php 
+20:00   Lille x Slavia Praha | https://v4.sportsonline.si/channels/hd/hd5.php 
+20:00   Lille x Slavia Praha | https://v4.sportsonline.si/channels/hd/hd4.php
+20:00   Lille x Slavia Praha | https://v4.sportsonline.si/channels/pt/sporttv5.php
+20:00   Lille x Slavia Praha | https://v4.sportsonline.si/channels/bra/br4.php
+23:00   Fluminense x Grêmio | https://v4.sportsonline.si/channels/hd/hd5.php
+23:00   Fluminense x Grêmio | https://v4.sportsonline.si/channels/hd/hd6.php
+23:00   Fluminense x Grêmio | https://v4.sportsonline.si/channels/pt/sporttv1.php
+23:00   Fluminense x Grêmio | https://v4.sportsonline.si/channels/bra/br2.php
+23:00   Fluminense x Grêmio | https://v4.sportsonline.si/channels/bra/br3.php
+23:00   Racing Club x Huachipato | https://v4.sportsonline.si/channels/bra/br6.php
+23:00   Novorizontino x Ituano | https://v4.sportsonline.si/channels/bra/br1.php
+00:00   MLB: Phillies @ Braves | https://v4.sportsonline.si/channels/hd/hd1.php
+01:00   Deportivo Cali x Santa Fe | https://v4.sportsonline.si/channels/hd/hd10.php
+01:00   Amazonas x Ponte Preta | https://v4.sportsonline.si/channels/bra/br4.php
+01:30   Atlético Mineiro x San Lorenzo | https://v4.sportsonline.si/channels/pt/sporttv1.php
+01:30   Atlético Mineiro x San Lorenzo | https://v4.sportsonline.si/channels/bra/br5.php
+01:30   Junior x Colo-Colo | https://v4.sportsonline.si/channels/hd/hd5.php
+01:30   Junior x Colo-Colo | https://v4.sportsonline.si/channels/hd/hd6.php
+01:30   Junior x Colo-Colo | https://v4.sportsonline.si/channels/pt/sporttv2.php
+01:30   Corinthians x RB Bragantino | https://v4.sportsonline.si/channels/pt/sporttv3.php
+01:30   Corinthians x RB Bragantino | https://v4.sportsonline.si/channels/bra/br2.php
+01:30   Corinthians x RB Bragantino | https://v4.sportsonline.si/channels/bra/br3.php
+01:30   Operário PR x Vila Nova | https://v4.sportsonline.si/channels/bra/br1.php</pre></body></html>
