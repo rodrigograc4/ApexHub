@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 26-08-24 |
+                | LAST UPDATE: 27-08-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -28,48 +28,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v4.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v4.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v4.sportsonline.si	
-
-MONDAY
-HD2 ENGLISH
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH 
-HD7 ITALIAN
-HD9 GREEK
-HD10 SPANISH
-HD11 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR6 BRAZILIAN
-
-17:30   Cagliari x Como | https://v4.sportsonline.si/channels/hd/hd5.php
-17:30   Cagliari x Como | https://v4.sportsonline.si/channels/hd/hd7.php
-17:30   Cagliari x Como | https://v4.sportsonline.si/channels/pt/sporttv1.php
-18:30   Olympiakos Piraeus x Kallithea | https://v4.sportsonline.si/channels/hd/hd9.php
-19:45   Hellas Verona x Juventus | https://v4.sportsonline.si/channels/hd/hd5.php
-19:45   Hellas Verona x Juventus | https://v4.sportsonline.si/channels/hd/hd7.php
-19:45   Hellas Verona x Juventus | https://v4.sportsonline.si/channels/pt/sporttv1.php
-19:45   Hellas Verona x Juventus | https://v4.sportsonline.si/channels/bra/br2.php
-19:45   Red Star x Ajaccio | https://v4.sportsonline.si/channels/hd/hd4.php
-20:00   Central Córdoba SdE x Banfield | https://v4.sportsonline.si/channels/hd/hd11.php
-20:30   Villarreal x Celta de Vigo | https://v4.sportsonline.si/channels/hd/hd2.php
-20:30   Villarreal x Celta de Vigo | https://v4.sportsonline.si/channels/hd/hd6.php
-20:30   Villarreal x Celta de Vigo | https://v4.sportsonline.si/channels/pt/eleven1.php
-20:30   Villarreal x Celta de Vigo | https://v4.sportsonline.si/channels/bra/br6.php
-20:30   Córdoba x Burgos | https://v4.sportsonline.si/channels/pt/eleven2.php
-22:30   Belgrano x Gimnasia La Plata | https://v4.sportsonline.si/channels/hd/hd11.php
-23:00   Paysandu x Mirassol | https://v4.sportsonline.si/channels/bra/br1.php
-23:00   Paysandu x Mirassol | https://v4.sportsonline.si/channels/bra/br3.php
-01:00   Estudiantes x Boca Juniors | https://v4.sportsonline.si/channels/hd/hd11.php 
-01:00   Estudiantes x Boca Juniors | https://v4.sportsonline.si/channels/bra/br6.php
-01:00   Estudiantes x Boca Juniors | https://v4.sportsonline.si/channels/pt/sporttv1.php
-01:00   Vasco da Gama x Athletico-PR | https://v4.sportsonline.si/channels/bra/br1.php
-01:00   Vasco da Gama x Athletico-PR | https://v4.sportsonline.si/channels/bra/br3.php
-01:00   Ceará x Novorizontino | https://v4.sportsonline.si/channels/bra/br4.php
-02:00   Fortaleza CEIF x Medellín | https://v4.sportsonline.si/channels/hd/hd10.php
 
 TUESDAY
 HD1 ENGLISH
@@ -233,4 +191,62 @@ BR7 BRAZILIAN
 00:00   Juventude x Corinthians | https://v4.sportsonline.si/channels/bra/br3.php
 00:00   Vasco da Gama x Athletico-PR | https://v4.sportsonline.si/channels/bra/br2.php
 00:00   Vasco da Gama x Athletico-PR | https://v4.sportsonline.si/channels/bra/br4.php
-02:00   Real Cartagena x Envigado | https://v4.sportsonline.si/channels/hd/hd10.php</pre></body></html>
+02:00   Real Cartagena x Envigado | https://v4.sportsonline.si/channels/hd/hd10.php
+
+FRIDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 GERMAN &amp; ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD9 DUTCH &amp; ENGLISH
+HD10 TURKISH
+HD11 ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR4 BRAZILIAN
+BR6 BRAZILIAN
+
+11:00   F1: Dutch Practice 1 | https://v4.sportsonline.si/channels/hd/hd9.php
+11:00   F1: Dutch Practice 1 | https://v4.sportsonline.si/channels/hd/hd8.php
+11:00   F1: Dutch Practice 1 | https://v4.sportsonline.si/channels/pt/sporttv4.php 
+11:00   F1: Dutch Practice 1 | https://v4.sportsonline.si/channels/bra/br4.php
+12:00   UEFA Europa League Draw | https://v4.sportsonline.si/channels/pt/sporttv5.php
+12:30   DP World Tour: British Masters - D2 | https://v4.sportsonline.si/channels/pt/sporttv3.php
+13:30   UEFA Conference League Draw | https://v4.sportsonline.si/channels/pt/eleven1.php
+14:45   F1: Dutch Practice 2 | https://v4.sportsonline.si/channels/hd/hd9.php 
+14:45   F1: Dutch Practice 2 | https://v4.sportsonline.si/channels/hd/hd8.php
+14:45   F1: Dutch Practice 2 | https://v4.sportsonline.si/channels/pt/sporttv4.php 
+14:45   F1: Dutch Practice 2 | https://v4.sportsonline.si/channels/bra/br4.php
+17:30   Venezia x Torino | https://v4.sportsonline.si/channels/hd/hd5.php
+17:30   Venezia x Torino | https://v4.sportsonline.si/channels/hd/hd7.php
+17:30   Venezia x Torino | https://v4.sportsonline.si/channels/pt/sporttv2.php
+17:30   Venezia x Torino | https://v4.sportsonline.si/channels/bra/br6.php
+17:30   Fortuna Düsseldorf x Hannover 96 | https://v4.sportsonline.si/channels/hd/hd4.php
+17:30   Fortuna Düsseldorf x Hannover 96 | https://v4.sportsonline.si/channels/pt/eleven1.php
+17:30   Jahn Regensburg x Greuther Fürth | https://v4.sportsonline.si/channels/hd/hd3.php
+18:00   Granada x Huesca | https://v4.sportsonline.si/channels/hd/hd2.php
+19:00   RKC Waalwijk x AZ | https://v4.sportsonline.si/channels/hd/hd9.php
+19:00   Fenerbahçe x Alanyaspor | https://v4.sportsonline.si/channels/hd/hd10.php
+19:30   Union Berlin x St. Pauli | https://v4.sportsonline.si/channels/hd/hd11.php
+19:30   Union Berlin x St. Pauli | https://v4.sportsonline.si/channels/hd/hd3.php
+19:30   Union Berlin x St. Pauli | https://v4.sportsonline.si/channels/pt/eleven1.php
+19:45   Internazionale x Atalanta | https://v4.sportsonline.si/channels/hd/hd5.php
+19:45   Internazionale x Atalanta | https://v4.sportsonline.si/channels/hd/hd7.php
+19:45   Internazionale x Atalanta | https://v4.sportsonline.si/channels/pt/sporttv2.php 
+19:45   Internazionale x Atalanta | https://v4.sportsonline.si/channels/bra/br2.php
+19:45   Olympique Lyonnais x Strasbourg | https://v4.sportsonline.si/channels/hd/hd4.php
+19:45   Olympique Lyonnais x Strasbourg | https://v4.sportsonline.si/channels/pt/sporttv4.php
+20:00   Luton Town x Queens Park Rangers | https://v4.sportsonline.si/channels/hd/hd1.php
+20:00   Luton Town x Queens Park Rangers | https://v4.sportsonline.si/channels/pt/sporttv5.php
+20:00   Diamond League: Italy | https://v4.sportsonline.si/channels/pt/sporttv3.php
+20:15   Moreirense x Benfica | https://v4.sportsonline.si/channels/pt/sporttv1.php
+20:15   Moreirense x Benfica | https://v4.sportsonline.si/channels/bra/br6.php
+20:30   Real Oviedo x Racing Santander | https://v4.sportsonline.si/channels/hd/hd6.php
+01:30   Santos x Ponte Preta | https://v4.sportsonline.si/channels/bra/br1.php
+03:00   Mazatlán x Puebla | https://v4.sportsonline.si/channels/hd/hd11.php
+03:00   Boxing: Randy Leon x Jose Angel Napoles | https://v4.sportsonline.si/channels/bra/br6.php</pre></body></html>
