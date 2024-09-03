@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 02-09-24 |
+                | LAST UPDATE: 03-09-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,44 +29,15 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v4.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v4.sportsonline.si	
 
-SUNDAY
-HD9  SPANISH
-HD10 SPANISH
-HD11 SPANISH
-
-00:00   Pumas UNAM x Tigres UANL | https://v4.sportsonline.si/channels/hd/hd9.php
-01:00   Banfield x Instituto | https://v4.sportsonline.si/channels/hd/hd11.php
-01:20   Junior x Santa Fe | https://v4.sportsonline.si/channels/hd/hd10.php
-02:05   Santos Laguna x Necaxa | https://v4.sportsonline.si/channels/hd/hd9.php
-
 MONDAY
 HD1 ENGLISH
-HD2 ENGLISH
 HD3 SPANISH
-HD4 ROMANIAN
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 ITALIAN
 HD10 SPANISH
 HD11 SPANISH
 
 BR1 BRAZILIAN
 BR3 BRAZILIAN
 
-09:00   Premier Padel: Madrid | https://v4.sportsonline.si/channels/pt/sporttv2.php
-15:30   US Open Tennis | https://v4.sportsonline.si/channels/hd/hd2.php
-17:00   Unirea Slobozia x SCM Gloria Buzău | https://v4.sportsonline.si/channels/hd/hd4.php
-18:00   Eibar x Levante | https://v4.sportsonline.si/channels/hd/hd6.php
-18:00   Eibar x Levante | https://v4.sportsonline.si/channels/pt/eleven1.php
-19:00   MLB: Cardinals @ Brewers | https://v4.sportsonline.si/channels/hd/hd1.php
-19:30   Universitatea Cluj x Dinamo Bucureşti | https://v4.sportsonline.si/channels/hd/hd4.php
-19:45   Cavese x Crotone | https://v4.sportsonline.si/channels/hd/hd8.php
-19:45   Avellino x Giugliano | https://v4.sportsonline.si/channels/hd/hd9.php
-20:00   HFX Wanderers x York United | https://v4.sportsonline.si/channels/hd/hd5.php
-20:15   Catania x Benevento | https://v4.sportsonline.si/channels/hd/hd7.php
-20:30   Elche x Córdoba | https://v4.sportsonline.si/channels/hd/hd6.php
 21:00   Gimnasia La Plata x Argentinos Juniors | https://v4.sportsonline.si/channels/hd/hd3.php
 23:00   Godoy Cruz x Central Córdoba SdE | https://v4.sportsonline.si/channels/hd/hd11.php
 00:00   Sport Recife x Ituano | https://v4.sportsonline.si/channels/bra/br1.php
@@ -86,4 +57,86 @@ BR1 BRAZILIAN
 23:00   Mirassol x América Mineiro | https://v4.sportsonline.si/channels/bra/br1.php
 00:00   MLB: Red Sox @ Mets | https://v4.sportsonline.si/channels/hd/hd1.php
 00:00   Deportivo Pereira x Once Caldas | https://v4.sportsonline.si/channels/hd/hd10.php
-01:30   Guarani x Coritiba | https://v4.sportsonline.si/channels/bra/br1.php</pre></body></html>
+01:30   Guarani x Coritiba | https://v4.sportsonline.si/channels/bra/br1.php
+
+WEDNESDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD5 ENGLISH
+HD9 ARABIC
+HD11 ARABIC
+
+BR1 BRAZILIAN
+
+09:00   Premier Padel: Madrid | https://v4.sportsonline.si/channels/pt/sporttv2.php
+15:30   US Open Tennis | https://v4.sportsonline.si/channels/hd/hd2.php
+16:00   Comoros x Gambia | https://v4.sportsonline.si/channels/hd/hd11.php
+17:00   Schalke 04 x NAC Breda | https://v4.sportsonline.si/channels/hd/hd3.php
+17:00   Libya x Rwanda | https://v4.sportsonline.si/channels/hd/hd5.php
+17:00   Gibraltar x Andorra | https://v4.sportsonline.si/channels/hd/hd9.php
+20:00   Sudan x Niger | https://v4.sportsonline.si/channels/hd/hd5.php
+20:00   MLB: Phillies @ Blue Jays | https://v4.sportsonline.si/channels/hd/hd1.php
+00:00   Vila Nova x CRB | https://v4.sportsonline.si/channels/bra/br1.php
+
+THURSDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 ARABIC
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 GERMAN
+HD9 ENGLISH
+HD10 FRENCH
+HD11 ARABIC &amp; BULGARIAN
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+11:10   Australia x Bahrain | https://v4.sportsonline.si/channels/hd/hd5.php
+11:35   Japan x China | https://v4.sportsonline.si/channels/hd/hd8.php
+11:35   Japan x China | https://v4.sportsonline.si/channels/bra/br6.php
+12:00   Korea Republic x Palestine | https://v4.sportsonline.si/channels/hd/hd11.php
+12:30   DP World Tour: Omega European Masters - D1 | https://v4.sportsonline.si/channels/pt/sporttv3.php
+15:45   Italy U21 x San Marino U21 | https://v4.sportsonline.si/channels/hd/hd7.php
+17:00   Azerbaijan x Sweden | https://v4.sportsonline.si/channels/hd/hd1.php
+17:00   Azerbaijan x Sweden | https://v4.sportsonline.si/channels/pt/sporttv1.php
+17:00   Azerbaijan x Sweden | https://v4.sportsonline.si/channels/bra/br1.php
+17:00   Azerbaijan x Sweden | https://v4.sportsonline.si/channels/bra/br2.php
+17:00   Ghana x Angola | https://v4.sportsonline.si/channels/hd/hd8.php
+17:00   Ghana x Angola | https://v4.sportsonline.si/channels/pt/sporttv2.php
+17:00   Iraq x Oman | https://v4.sportsonline.si/channels/hd/hd11.php
+19:00   Saudi Arabia x Indonesia | https://v4.sportsonline.si/channels/hd/hd4.php
+19:45   Portugal x Croatia | https://v4.sportsonline.si/channels/hd/hd1.php
+19:45   Portugal x Croatia | https://v4.sportsonline.si/channels/pt/sporttv1.php
+19:45   Portugal x Croatia | https://v4.sportsonline.si/channels/bra/br1.php
+19:45   Portugal x Croatia | https://v4.sportsonline.si/channels/bra/br2.php
+19:45   Serbia x Spain | https://v4.sportsonline.si/channels/hd/hd2.php
+19:45   Serbia x Spain | https://v4.sportsonline.si/channels/hd/hd6.php
+19:45   Serbia x Spain | https://v4.sportsonline.si/channels/pt/sporttv2.php
+19:45   Serbia x Spain | https://v4.sportsonline.si/channels/bra/br5.php 
+19:45   Scotland x Poland | https://v4.sportsonline.si/channels/hd/hd5.php
+19:45   Scotland x Poland | https://v4.sportsonline.si/channels/pt/sporttv3.php
+19:45   Scotland x Poland | https://v4.sportsonline.si/channels/bra/br6.php
+19:45   Denmark x Switzerland | https://v4.sportsonline.si/channels/hd/hd9.php
+19:45   Denmark x Switzerland | https://v4.sportsonline.si/channels/hd/hd3.php
+19:45   Denmark x Switzerland | https://v4.sportsonline.si/channels/pt/sporttv4.php
+19:45   Denmark x Switzerland | https://v4.sportsonline.si/channels/bra/br4.php
+19:45   Northern Ireland x Luxembourg | https://v4.sportsonline.si/channels/pt/sporttv5.php
+19:45   Belarus x Bulgaria | https://v4.sportsonline.si/channels/hd/hd11.php
+20:00   Algeria x Equatorial Guinea | https://v4.sportsonline.si/channels/hd/hd8.php
+20:00   Tunisia x Madagascar | https://v4.sportsonline.si/channels/hd/hd10.php
+00:00   Cuiabá x Juventude | https://v4.sportsonline.si/channels/bra/br3.php
+00:00   Boxing: Arthur Biyarslanov x Marcos Villasana Jr. | https://v4.sportsonline.si/channels/bra/br6.php
+01:00   Argentina x Chile | https://v4.sportsonline.si/channels/hd/hd1.php
+01:00   Argentina x Chile | https://v4.sportsonline.si/channels/hd/hd6.php
+01:00   Argentina x Chile | https://v4.sportsonline.si/channels/pt/sporttv1.php
+01:00   Argentina x Chile | https://v4.sportsonline.si/channels/bra/br1.php
+01:00   Argentina x Chile | https://v4.sportsonline.si/channels/bra/br2.php
+01:30   Paysandu x Amazonas | https://v4.sportsonline.si/channels/bra/br4.php</pre></body></html>
