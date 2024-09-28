@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 27-09-24 |
+                | LAST UPDATE: 28-09-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,79 +29,15 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-THURSDAY
-HD5 ENGLISH
-HD6 SPANISH
-HD9 DUTCH
+FRIDAY
+HD9 SPANISH
+HD10 SPANISH
 HD11 ENGLISH
 
 BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-
-01:15   NFL: Dallas Cowboys @ New York Giants | https://v5.sportsonline.si/channels/hd/hd1.php
-01:30   Racing Club x Athletico-PR | https://v5.sportsonline.si/channels/hd/hd5.php
-01:30   Racing Club x Athletico-PR | https://v5.sportsonline.si/channels/hd/hd6.php
-01:30   Racing Club x Athletico-PR | https://v5.sportsonline.si/channels/pt/sporttv1.php
-01:30   Racing Club x Athletico-PR | https://v5.sportsonline.si/channels/bra/br2.php
-01:30   Cruzeiro x Libertad | https://v5.sportsonline.si/channels/pt/sporttv3.php
-01:30   Cruzeiro x Libertad | https://v5.sportsonline.si/channels/bra/br3.php
-02:00   MotoGP: GP of Indonesia FP | https://v5.sportsonline.si/channels/hd/hd11.php
-02:00   MotoGP: GP of Indonesia FP | https://v5.sportsonline.si/channels/pt/sporttv4.php
-02:30   Atlético Nacional x Junior | https://v5.sportsonline.si/channels/hd/hd9.php
-03:00   ATP World Tour 500: Tokio | https://v5.sportsonline.si/channels/pt/sporttv2.php
-
-FRIDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ARABIC/FRENCH
-HD9 ENGLISH &amp; SPANISH
-HD10 ENGLISH
-HD11 ENGLISH &amp; SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-06:00   MotoGP: Indonesia Practice | https://v5.sportsonline.si/channels/hd/hd11.php
-06:00   MotoGP: Indonesia Practice | https://v5.sportsonline.si/channels/pt/sporttv4.php
-10:00   ATP World Tour 500: Tokio | https://v5.sportsonline.si/channels/pt/sporttv2.php
-13:20   Futsal: Thailand x France | https://v5.sportsonline.si/channels/pt/sporttv1.php
-16:00   Futsal: Argentina x Croatia | https://v5.sportsonline.si/channels/pt/sporttv1.php
-16:20   Al Nassr x Al Wehda | https://v5.sportsonline.si/channels/hd/hd10.php
-16:20   Al Nassr x Al Wehda | https://v5.sportsonline.si/channels/pt/sporttv2.php
-16:20   Al Nassr x Al Wehda | https://v5.sportsonline.si/channels/bra/br4.php
-17:30   Greuther Fürth x Fortuna Düsseldorf | https://v5.sportsonline.si/channels/pt/eleven1.php
-18:00   Auxerre x Brest | https://v5.sportsonline.si/channels/hd/hd5.php
-19:00   Al Ahly x Zamalek | https://v5.sportsonline.si/channels/hd/hd8.php
-19:00   Al Quadisiya x Al Ahli | https://v5.sportsonline.si/channels/pt/sporttv2.php
-19:30   Borussia Dortmund x Bochum | https://v5.sportsonline.si/channels/hd/hd9.php
-19:30   Borussia Dortmund x Bochum | https://v5.sportsonline.si/channels/hd/hd3.php
-19:30   Borussia Dortmund x Bochum | https://v5.sportsonline.si/channels/pt/eleven1.php
-19:45   Milan x Lecce | https://v5.sportsonline.si/channels/hd/hd11.php
-19:45   Milan x Lecce | https://v5.sportsonline.si/channels/hd/hd7.php
-19:45   Milan x Lecce | https://v5.sportsonline.si/channels/pt/sporttv3.php
-19:45   Milan x Lecce | https://v5.sportsonline.si/channels/bra/br2.php
-19:45   Sporting Charleroi x Club Brugge | https://v5.sportsonline.si/channels/pt/eleven3.php
-20:00   PSG x Rennes | https://v5.sportsonline.si/channels/hd/hd5.php
-20:00   PSG x Rennes | https://v5.sportsonline.si/channels/hd/hd4.php
-20:00   Real Valladolid x Mallorca | https://v5.sportsonline.si/channels/hd/hd2.php
-20:00   Real Valladolid x Mallorca | https://v5.sportsonline.si/channels/hd/hd6.php
-20:00   Real Valladolid x Mallorca | https://v5.sportsonline.si/channels/pt/eleven2.php
-20:00   Plymouth Argyle x Luton Town | https://v5.sportsonline.si/channels/hd/hd1.php
-20:00   Boxing: Thomas Essomba x Charlie Edwards | https://v5.sportsonline.si/channels/bra/br6.php
-20:15   Estoril x Sporting CP | https://v5.sportsonline.si/channels/pt/sporttv1.php
-20:15   Estoril x Sporting CP | https://v5.sportsonline.si/channels/bra/br3.php
-22:00   Vélez Sarsfield x Independiente | https://v5.sportsonline.si/channels/pt/sporttv2.php
-23:00   Ceará x Brusque | https://v5.sportsonline.si/channels/bra/br1.php
 23:15   Rionegro Águilas x Deportivo Pereira | https://v5.sportsonline.si/channels/hd/hd6.php
 00:00   Boxing: Alycia Baumgardner v Delphine Persoon | https://v5.sportsonline.si/channels/pt/sporttv3.php
 01:00   Puebla x Juárez | https://v5.sportsonline.si/channels/hd/hd10.php
