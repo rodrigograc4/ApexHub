@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 30-09-24 |
+                | LAST UPDATE:01-10-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -32,45 +32,12 @@
 MONDAY
 HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD9 BULGARIAN
-HD10 ENGLISH
-HD11 ARABIC
 
 BR1 BRAZILIAN
 BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-09:30   Premier Padel: Paris | https://v5.sportsonline.si/channels/pt/sporttv5.php
-10:00   ATP World Tour 500: Tokyo | https://v5.sportsonline.si/channels/pt/sporttv2.php
-13:20   Futsal: France x Paraguay | https://v5.sportsonline.si/channels/pt/sporttv1.php
-15:50   Futsal: Kazakhstan x Argentina | https://v5.sportsonline.si/channels/pt/sporttv1.php
-17:00   Al Sadd x Esteghlal | https://v5.sportsonline.si/channels/hd/hd3.php
-17:00   Al Wasl x Al Ahli | https://v5.sportsonline.si/channels/hd/hd10.php
-17:00   Al Wasl x Al Ahli | https://v5.sportsonline.si/channels/bra/br6.php
-17:00   Persepolis x Pakhtakor | https://v5.sportsonline.si/channels/hd/hd9.php
-18:00   Kayserispor x Beşiktaş | https://v5.sportsonline.si/channels/hd/hd5.php
-18:00   Kayserispor x Beşiktaş | https://v5.sportsonline.si/channels/pt/sporttv1.php 
-18:00   Vizela x Mafra | https://v5.sportsonline.si/channels/pt/sporttv3.php
-19:00   Al Nassr x Al Rayyan | https://v5.sportsonline.si/channels/hd/hd11.php
-19:00   Al Nassr x Al Rayyan | https://v5.sportsonline.si/channels/bra/br6.php
-19:45   Parma x Cagliari | https://v5.sportsonline.si/channels/hd/hd7.php
-19:45   Parma x Cagliari | https://v5.sportsonline.si/channels/pt/sporttv2.php 
-19:45   Guingamp x Caen | https://v5.sportsonline.si/channels/hd/hd4.php
-20:00   AFC Bournemouth x Southampton | https://v5.sportsonline.si/channels/hd/hd1.php
-20:00   AFC Bournemouth x Southampton | https://v5.sportsonline.si/channels/hd/hd9.php
-20:00   AFC Bournemouth x Southampton | https://v5.sportsonline.si/channels/pt/eleven1.php
-20:00   AFC Bournemouth x Southampton | https://v5.sportsonline.si/channels/bra/br5.php
-20:00   Villarreal x Las Palmas | https://v5.sportsonline.si/channels/hd/hd2.php
-20:00   Villarreal x Las Palmas | https://v5.sportsonline.si/channels/hd/hd6.php
-20:00   Villarreal x Las Palmas | https://v5.sportsonline.si/channels/pt/eleven2.php
-20:15   AVS x Farense | https://v5.sportsonline.si/channels/pt/sporttv1.php
-22:00   Palmeiras U20 x Cruzeiro U20 | https://v5.sportsonline.si/channels/bra/br1.php
 23:00   Argentinos Juniors x Atlético Tucumán | https://v5.sportsonline.si/channels/bra/br6.php
 23:00   Argentinos Juniors x Atlético Tucumán | https://v5.sportsonline.si/channels/pt/sporttv1.php
 00:30   NFL: Tennessee Titans @ Miami Dolphins | https://v5.sportsonline.si/channels/bra/br5.php
