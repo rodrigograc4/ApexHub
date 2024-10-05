@@ -29,66 +29,15 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-THURSDAY
-HD9 SPANISH
-HD11 ENGLISH
-
-BR1 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-
-01:00   MotoGP: Japan Free Practice | https://v5.sportsonline.si/channels/hd/hd11.php
-01:00   MotoGP: Japan Free Practice | https://v5.sportsonline.si/channels/pt/sporttv4.php 
-01:00   MotoGP: Japan Free Practice | https://v5.sportsonline.si/channels/bra/br6.php
-01:30   Fluminense x Cruzeiro | https://v5.sportsonline.si/channels/bra/br1.php
-01:30   Fluminense x Cruzeiro | https://v5.sportsonline.si/channels/bra/br5.php
-02:10   Santa Fe x Deportivo Pereira | https://v5.sportsonline.si/channels/hd/hd9.php
-
 FRIDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 ENGLISH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
 HD9 SPANISH
-HD10 DUTCH
+HD10 SPANISH
 HD11 ENGLISH
 
 BR1 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
 BR6 BRAZILIAN
 
-06:50   MotoGP: GP of Japan Practice | https://v5.sportsonline.si/channels/hd/hd11.php
-06:50   MotoGP: GP of Japan Practice | https://v5.sportsonline.si/channels/pt/sporttv4.php
-05:15   MotoGP: GP of Japan Practice | https://v5.sportsonline.si/channels/bra/br6.php
-12:00   DP World Tour: Alfred Dunhill Links Championship - D2 | https://v5.sportsonline.si/channels/pt/sporttv4.php
-17:00   NBA: Denver Nuggets @ Boston Celtics | https://v5.sportsonline.si/channels/pt/sporttv1.php  
-17:30   Napoli x Como | https://v5.sportsonline.si/channels/hd/hd5.php
-17:30   Napoli x Como | https://v5.sportsonline.si/channels/hd/hd8.php
-17:30   Napoli x Como | https://v5.sportsonline.si/channels/pt/sporttv3.php  
-17:30   Napoli x Como | https://v5.sportsonline.si/channels/bra/br6.php
-17:30   Karlsruher SC x Darmstadt 98 | https://v5.sportsonline.si/channels/hd/hd3.php
-18:00   Rizespor x Antalyaspor | https://v5.sportsonline.si/channels/pt/sporttv1.php
-19:00   Almere City x Willem II | https://v5.sportsonline.si/channels/hd/hd10.php
-19:30   Augsburg x Borussia M'gladbach | https://v5.sportsonline.si/channels/hd/hd3.php
-19:30   Augsburg x Borussia M'gladbach | https://v5.sportsonline.si/channels/pt/eleven2.php
-19:45   Hellas Verona x Venezia | https://v5.sportsonline.si/channels/hd/hd5.php
-19:45   Hellas Verona x Venezia | https://v5.sportsonline.si/channels/hd/hd7.php
-19:45   Hellas Verona x Venezia | https://v5.sportsonline.si/channels/pt/sporttv3.php
-19:45   Olympique Marseille x Angers SCO | https://v5.sportsonline.si/channels/hd/hd4.php
-19:45   Olympique Marseille x Angers SCO | https://v5.sportsonline.si/channels/pt/sporttv2.php
-20:00   Leganés x Valencia | https://v5.sportsonline.si/channels/hd/hd2.php
-20:00   Leganés x Valencia | https://v5.sportsonline.si/channels/hd/hd6.php
-20:00   Leganés x Valencia | https://v5.sportsonline.si/channels/pt/eleven1.php
-20:00   Sunderland x Leeds United | https://v5.sportsonline.si/channels/hd/hd1.php
-20:00   Sunderland x Leeds United | https://v5.sportsonline.si/channels/pt/sporttv5.php
-20:00   Sunderland x Leeds United | https://v5.sportsonline.si/channels/bra/br4.php
-20:15   Rio Ave x Famalicão | https://v5.sportsonline.si/channels/pt/sporttv1.php
-23:00   América Mineiro x Coritiba | https://v5.sportsonline.si/channels/bra/br1.php
+
 01:00   One Fight Night: One Championship | https://v5.sportsonline.si/channels/pt/sporttv3.php
 01:30   Amazonas x Novorizontino | https://v5.sportsonline.si/channels/bra/br1.php
 01:30   Grêmio x Fortaleza | https://v5.sportsonline.si/channels/bra/br2.php
@@ -122,7 +71,7 @@ BR6 BRAZILIAN
 06:30   MotoGP: Japan Sprint Race | https://v5.sportsonline.si/channels/pt/sporttv4.php
 06:30   MotoGP: Japan Sprint Race | https://v5.sportsonline.si/channels/bra/br6.php
 11:00   Felgueiras 1932 x Academico Viseu | https://v5.sportsonline.si/channels/pt/sporttv1.php
-11:30   Fiorentina x Como | https://v5.sportsonline.si/channels/hd/hd7.php
+11:30   Fiorentina W x Como W |  https://v5.sportsonline.si/channels/hd/hd7.php
 12:00   Köln x Ulm | https://v5.sportsonline.si/channels/hd/hd3.php
 12:00   Elversberg x Kaiserslautern | https://v5.sportsonline.si/channels/hd/hd4.php
 12:00   DP World Tour: Alfred Dunhill Links Championship - D3 | https://v5.sportsonline.si/channels/pt/sporttv3.php
