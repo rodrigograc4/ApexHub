@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 07-10-24 |
+                | LAST UPDATE: 08-10-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,39 +29,15 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-SUNDAY
-HD1 ENGLISH
-
-BR2 BRAZILIAN
-
-01:00   Boca Juniors x Argentinos Juniors | https://v5.sportsonline.si/channels/pt/sporttv2.php
-01:00   Boca Juniors x Argentinos Juniors | https://v5.sportsonline.si/channels/bra/br2.php
-01:10   NFL: Dallas Cowboys @ Pittsburgh Steelers | https://v5.sportsonline.si/channels/hd/hd1.php
-01:10   NFL: Dallas Cowboys @ Pittsburgh Steelers || https://v5.sportsonline.si/channels/pt/eleven1.php
-
 MONDAY
 HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
 HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
 HD9 SPANISH
 
 BR1 BRAZILIAN
 BR3 BRAZILIAN
 BR4 BRAZILIAN
 
-05:00   ATP World Tour 1000: Shangai Masters | https://v5.sportsonline.si/channels/pt/sporttv2.ph
-05:30   Cricket: Test Cricket: Pakistan v England | https://v5.sportsonline.si/channels/hd/hd1.php
-14:20   Beach Soccer: Portugal x Germany | https://v5.sportsonline.si/channels/pt/sporttv1.php
-14:30   ICC Women's T20 WC: England v South Africa | https://v5.sportsonline.si/channels/hd/hd1.php
-17:00   Bayer Leverkusen W x USV Jena W | https://v5.sportsonline.si/channels/hd/hd3.php
-18:00   World Grand Prix Darts: Day 1 | https://v5.sportsonline.si/channels/hd/hd1.php
-19:30   Crotone x Avellino | https://v5.sportsonline.si/channels/hd/hd7.php
-19:30   Ternana x Campobasso | https://v5.sportsonline.si/channels/hd/hd8.php
-20:00   Bradford City x Newport County | https://v5.sportsonline.si/channels/hd/hd2.php
-22:45   Defensa y Justicia x Rosario Central | https://v5.sportsonline.si/channels/hd/hd6.php
 00:00   Fortaleza CEIF x Jaguares de Córdoba | https://v5.sportsonline.si/channels/hd/hd9.php
 01:00   Goiás x Santos | https://v5.sportsonline.si/channels/bra/br1.php
 01:00   Sport Recife x Ceará | https://v5.sportsonline.si/channels/bra/br3.php
@@ -69,4 +45,58 @@ BR4 BRAZILIAN
 01:00   NFL: New Orleans Saints @ Kansas City Chiefs | https://v5.sportsonline.si/channels/pt/eleven1.php 
 01:00   NFL: New Orleans Saints @ Kansas City Chiefs | https://v5.sportsonline.si/channels/bra/br4.php
 01:00   Atlético Tucumán x Tigre | https://v5.sportsonline.si/channels/hd/hd6.php
-02:00   Deportivo Pereira x Deportes Tolima | https://v5.sportsonline.si/channels/hd/hd9.php</pre></body></html>
+02:00   Deportivo Pereira x Deportes Tolima | https://v5.sportsonline.si/channels/hd/hd9.php
+
+TUESDAY
+HD1 ENGLISH
+HD6 SPANISH
+HD9 SPANISH
+HD11 TURKISH
+
+BR4 BRAZILIAN
+
+05:00   ATP World Tour 1000: Shangai Masters | https://v5.sportsonline.si/channels/pt/sporttv2.php
+06:00   Cricket: Pakistan v England | https://v5.sportsonline.si/channels/hd/hd1.php
+11:00   Kilis Belediyespor x Balıkesirspor | https://v5.sportsonline.si/channels/hd/hd11.php
+14:30   ICC Women's T20 WC: Australia v New Zealand | https://v5.sportsonline.si/channels/hd/hd1.php
+17:00   Fethiyespor x Düzcespor | https://v5.sportsonline.si/channels/hd/hd11.php
+17:25   Basketball Champions League: Peristeri x Ucam Murcia | https://v5.sportsonline.si/channels/pt/sporttv1.php
+17:45   Lyon W x Galatasaray W | https://v5.sportsonline.si/channels/pt/eleven1.php
+17:55   Basketball Euro Cup: Besiktas x x Hapoel Tel Aviv | https://v5.sportsonline.si/channels/pt/sporttv3.php
+18:00   World Grand Prix Darts: Day 2 | https://v5.sportsonline.si/channels/hd/hd1.php
+20:00   Chelsea FC W x Real Madrid W | https://v5.sportsonline.si/channels/hd/hd6.php
+20:00   Chelsea FC W x Real Madrid W | https://v5.sportsonline.si/channels/pt/eleven1.php
+21:30   NHL: Seattle Kraken x St. Louis Blues | https://v5.sportsonline.si/channels/bra/br4.php
+00:00   NHL: Florida Panthers @ Boston Bruins | https://v5.sportsonline.si/channels/pt/sporttv3.php
+00:00   NHL: Florida Panthers x Boston Bruins | https://v5.sportsonline.si/channels/bra/br4.php
+02:00   Atlético Bucaramanga x Millonarios | https://v5.sportsonline.si/channels/hd/hd9.php
+
+WEDNESDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD9 SPANISH
+HD10 GREEK
+HD11 TURKISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+
+11:00   Adıyaman 1954 x Afjet Afyonspor | https://v5.sportsonline.si/channels/hd/hd11.php
+13:00   Altay x Karaman FK | https://v5.sportsonline.si/channels/hd/hd11.php
+13:00   Kavala x Asteras Tripolis | https://v5.sportsonline.si/channels/hd/hd10.php
+17:00   Giresunspor x Viranşehir Belediyespor | https://v5.sportsonline.si/channels/hd/hd11.php
+17:45   Bayern München W x Arsenal W | https://v5.sportsonline.si/channels/pt/eleven1.php
+19:00   World Grand Prix Darts: Day 3 | https://v5.sportsonline.si/channels/hd/hd1.php 
+19:45   Manchester city W v Barcelona W | https://v5.sportsonline.si/channels/hd/hd2.php
+20:00   Manchester City W x Barcelona W | https://v5.sportsonline.si/channels/hd/hd6.php
+20:00   Manchester City W x Barcelona W | https://v5.sportsonline.si/channels/pt/eleven1.php
+22:00   MLB: Phillies @ Mets | https://v5.sportsonline.si/channels/hd/hd2.php
+23:30   Atlético Mineiro x Grêmio | https://v5.sportsonline.si/channels/bra/br1.php
+00:00   Botafogo SP x Guarani | https://v5.sportsonline.si/channels/bra/br2.php
+01:00   Paysandu x Chapecoense | https://v5.sportsonline.si/channels/bra/br3.php
+01:00   NBA Preseason: Houston Rockets @ Oklahoma City Thunder | https://v5.sportsonline.si/channels/hd/hd5.php
+01:30   Atlético Nacional x Deportivo Cali | https://v5.sportsonline.si/channels/hd/hd9.php
+03:30   NBA Preseason: Golden State Warriors @ Sacramento Kings | https://v5.sportsonline.si/channels/hd/hd2.php</pre></body></html>
