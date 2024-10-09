@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 08-10-24 |
+                | LAST UPDATE: 09-10-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -28,48 +28,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
-
-MONDAY
-HD1 ENGLISH
-HD6 SPANISH
-HD9 SPANISH
-
-BR1 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-
-00:00   Fortaleza CEIF x Jaguares de Córdoba | https://v5.sportsonline.si/channels/hd/hd9.php
-01:00   Goiás x Santos | https://v5.sportsonline.si/channels/bra/br1.php
-01:00   Sport Recife x Ceará | https://v5.sportsonline.si/channels/bra/br3.php
-01:00   NFL: New Orleans Saints @ Kansas City Chiefs | https://v5.sportsonline.si/channels/hd/hd1.php
-01:00   NFL: New Orleans Saints @ Kansas City Chiefs | https://v5.sportsonline.si/channels/pt/eleven1.php 
-01:00   NFL: New Orleans Saints @ Kansas City Chiefs | https://v5.sportsonline.si/channels/bra/br4.php
-01:00   Atlético Tucumán x Tigre | https://v5.sportsonline.si/channels/hd/hd6.php
-02:00   Deportivo Pereira x Deportes Tolima | https://v5.sportsonline.si/channels/hd/hd9.php
-
-TUESDAY
-HD1 ENGLISH
-HD6 SPANISH
-HD9 SPANISH
-HD11 TURKISH
-
-BR4 BRAZILIAN
-
-05:00   ATP World Tour 1000: Shangai Masters | https://v5.sportsonline.si/channels/pt/sporttv2.php
-06:00   Cricket: Pakistan v England | https://v5.sportsonline.si/channels/hd/hd1.php
-11:00   Kilis Belediyespor x Balıkesirspor | https://v5.sportsonline.si/channels/hd/hd11.php
-14:30   ICC Women's T20 WC: Australia v New Zealand | https://v5.sportsonline.si/channels/hd/hd1.php
-17:00   Fethiyespor x Düzcespor | https://v5.sportsonline.si/channels/hd/hd11.php
-17:25   Basketball Champions League: Peristeri x Ucam Murcia | https://v5.sportsonline.si/channels/pt/sporttv1.php
-17:45   Lyon W x Galatasaray W | https://v5.sportsonline.si/channels/pt/eleven1.php
-17:55   Basketball Euro Cup: Besiktas x x Hapoel Tel Aviv | https://v5.sportsonline.si/channels/pt/sporttv3.php
-18:00   World Grand Prix Darts: Day 2 | https://v5.sportsonline.si/channels/hd/hd1.php
-20:00   Chelsea FC W x Real Madrid W | https://v5.sportsonline.si/channels/hd/hd6.php
-20:00   Chelsea FC W x Real Madrid W | https://v5.sportsonline.si/channels/pt/eleven1.php
-21:30   NHL: Seattle Kraken x St. Louis Blues | https://v5.sportsonline.si/channels/bra/br4.php
-00:00   NHL: Florida Panthers @ Boston Bruins | https://v5.sportsonline.si/channels/pt/sporttv3.php
-00:00   NHL: Florida Panthers x Boston Bruins | https://v5.sportsonline.si/channels/bra/br4.php
-02:00   Atlético Bucaramanga x Millonarios | https://v5.sportsonline.si/channels/hd/hd9.php
 
 WEDNESDAY
 HD1 ENGLISH
@@ -99,4 +57,135 @@ BR3 BRAZILIAN
 01:00   Paysandu x Chapecoense | https://v5.sportsonline.si/channels/bra/br3.php
 01:00   NBA Preseason: Houston Rockets @ Oklahoma City Thunder | https://v5.sportsonline.si/channels/hd/hd5.php
 01:30   Atlético Nacional x Deportivo Cali | https://v5.sportsonline.si/channels/hd/hd9.php
-03:30   NBA Preseason: Golden State Warriors @ Sacramento Kings | https://v5.sportsonline.si/channels/hd/hd2.php</pre></body></html>
+03:30   NBA Preseason: Golden State Warriors @ Sacramento Kings | https://v5.sportsonline.si/channels/hd/hd2.php
+
+THURSDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 FRENCH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ARABIC &amp; SPANISH
+HD9 ENGLISH
+HD10 ARABIC &amp; SPANISH
+HD11 ARABIC &amp; ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+ 
+08:00   ATP World Tour 1000: Shangai Masters | https://v5.sportsonline.si/channels/pt/sporttv2.php
+10:10   Australia x China | https://v5.sportsonline.si/channels/hd/hd11.php
+12:30   DP World Tour: Fedex Open France - D1 | https://v5.sportsonline.si/channels/pt/sporttv3.php
+15:00   Jordan x Korea Republic | https://v5.sportsonline.si/channels/hd/hd8.php
+15:00   Jordan x Korea Republic | https://v5.sportsonline.si/channels/bra/br6.php
+15:00   Uzbekistan x Iran | https://v5.sportsonline.si/channels/hd/hd10.php
+17:00   Latvia x North Macedonia | https://v5.sportsonline.si/channels/hd/hd1.php
+17:00   Latvia x North Macedonia | https://v5.sportsonline.si/channels/pt/sporttv2.php
+17:00   Latvia x North Macedonia | https://v5.sportsonline.si/channels/bra/br5.php
+17:00   Moldova x Andorra | https://v5.sportsonline.si/channels/hd/hd2.php
+17:00   Moldova x Andorra | https://v5.sportsonline.si/channels/pt/sporttv4.php
+17:00   Moldova x Andorra |  https://v5.sportsonline.si/channels/bra/br3.php
+17:00   Qatar x Kyrgyzstan | https://v5.sportsonline.si/channels/hd/hd11.php
+17:00   Bahrain x Indonesia | https://v5.sportsonline.si/channels/hd/hd5.php
+17:00   Cape Verde Islands x Botswana | https://v5.sportsonline.si/channels/pt/sporttv1.php
+19:00   Iraq x Palestine | https://v5.sportsonline.si/channels/hd/hd8.php
+19:00   Saudi Arabia x Japan | https://v5.sportsonline.si/channels/hd/hd10.php
+19:00   Saudi Arabia x Japan | https://v5.sportsonline.si/channels/bra/br6.php
+19:45   England x Greece | https://v5.sportsonline.si/channels/hd/hd1.php
+19:45   England x Greece | https://v5.sportsonline.si/channels/pt/sporttv1.php
+19:45   England x Greece | https://v5.sportsonline.si/channels/bra/br1.php
+19:45   Israel x France | https://v5.sportsonline.si/channels/hd/hd2.php
+19:45   Israel x France | https://v5.sportsonline.si/channels/hd/hd4.php
+19:45   Israel x France | https://v5.sportsonline.si/channels/pt/sporttv3.php
+19:45   Italy x Belgium | https://v5.sportsonline.si/channels/hd/hd7.php
+19:45   Italy x Belgium | https://v5.sportsonline.si/channels/pt/sporttv2.php
+19:45   Italy x Belgium | https://v5.sportsonline.si/channels/bra/br2.php
+19:45   Norway x Slovenia | https://v5.sportsonline.si/channels/hd/hd5.php
+19:45   Norway x Slovenia | https://v5.sportsonline.si/channels/pt/sporttv4.php
+19:45   Norway x Slovenia | https://v5.sportsonline.si/channels/bra/br4.php
+19:45   Austria x Kazakhstan | https://v5.sportsonline.si/channels/hd/hd3.php
+19:45   Finland x Ireland Republic | https://v5.sportsonline.si/channels/hd/hd11.php
+19:45   Finland x Ireland Republic | https://v5.sportsonline.si/channels/pt/sporttv5.php
+20:00   Algeria x Togo | https://v5.sportsonline.si/channels/hd/hd9.php
+21:00   Bolivia x Colombia | https://v5.sportsonline.si/channels/hd/hd8.php
+21:00   Bolivia x Colombia | https://v5.sportsonline.si/channels/bra/br5.php
+22:00   Venezuela x Argentina | https://v5.sportsonline.si/channels/hd/hd6.php
+22:00   Venezuela x Argentina | https://v5.sportsonline.si/channels/hd/hd5.php
+22:00   Venezuela x Argentina | https://v5.sportsonline.si/channels/pt/sporttv1.php
+22:00   Venezuela x Argentina | https://v5.sportsonline.si/channels/bra/br6.php
+22:00   Ecuador x Paraguay | https://v5.sportsonline.si/channels/hd/hd2.php
+22:00   Ecuador x Paraguay | https://v5.sportsonline.si/channels/hd/hd10.php
+22:00   Ecuador x Paraguay | https://v5.sportsonline.si/channels/pt/sporttv3.php
+22:00   Ecuador x Paraguay | https://v5.sportsonline.si/channels/bra/br3.php
+01:00   Chile x Brazil | https://v5.sportsonline.si/channels/hd/hd1.php
+01:00   Chile x Brazil | https://v5.sportsonline.si/channels/hd/hd6.php
+01:00   Chile x Brazil | https://v5.sportsonline.si/channels/pt/sporttv1.php
+01:00   Chile x Brazil | https://v5.sportsonline.si/channels/bra/br1.php
+01:00   Chile x Brazil | https://v5.sportsonline.si/channels/bra/br2.php
+01:00   Chile x Brazil | https://v5.sportsonline.si/channels/bra/br3.php
+01:00   NBA Preseason: Los Angeles Lakers @ Milwaukee Bucks | https://v5.sportsonline.si/channels/hd/hd11.php
+
+FRIDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ENGLISH
+HD8 ENGLISH
+HD9 GERMAN
+HD10 ENGLISH
+HD11 ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+08:00   ATP World Tour 1000: Shangai Masters | https://v5.sportsonline.si/channels/pt/sporttv2.php
+12:30   DP World Tour: Fedex Open France - D2 | https://v5.sportsonline.si/channels/pt/sporttv3.php
+14:00   Equatorial Guinea x Liberia | https://v5.sportsonline.si/channels/hd/hd9.php
+14:00   Equatorial Guinea x Liberia | https://v5.sportsonline.si/channels/pt/sporttv2.php
+14:00   Mozambique x Eswatini | https://v5.sportsonline.si/channels/pt/sporttv1.php
+17:00   Egypt x Mauritania | https://v5.sportsonline.si/channels/hd/hd9.php
+17:00   Egypt x Mauritania | https://v5.sportsonline.si/channels/pt/sporttv2.php 
+17:00   Estonia x Azerbaijan | https://v5.sportsonline.si/channels/pt/sporttv1.php
+17:00   Estonia x Azerbaijan | https://v5.sportsonline.si/channels/bra/br5.php
+17:00   Nigeria x Libya | https://v5.sportsonline.si/channels/hd/hd11.php
+17:00   Cameroon x Kenya | https://v5.sportsonline.si/channels/hd/hd7.php
+17:00   Benin x Rwanda | https://v5.sportsonline.si/channels/hd/hd8.php
+19:45   Bosnia and Herzegovina x Germany | https://v5.sportsonline.si/channels/hd/hd1.php
+19:45   Bosnia and Herzegovina x Germany | https://v5.sportsonline.si/channels/hd/hd3.php
+19:45   Bosnia and Herzegovina x Germany | https://v5.sportsonline.si/channels/pt/sporttv2.php
+19:45   Bosnia and Herzegovina x Germany | https://v5.sportsonline.si/channels/bra/br2.php
+19:45   Hungary x Netherlands | https://v5.sportsonline.si/channels/hd/hd2.php
+19:45   Hungary x Netherlands | https://v5.sportsonline.si/channels/pt/sporttv1.php
+19:45   Hungary x Netherlands | https://v5.sportsonline.si/channels/bra/br1.php
+19:45   Slovakia x Sweden | https://v5.sportsonline.si/channels/hd/hd5.php
+19:45   Slovakia x Sweden | https://v5.sportsonline.si/channels/bra/br3.php
+19:45   Ukraine x Georgia | https://v5.sportsonline.si/channels/hd/hd10.php
+19:45   Turkey x Montenegro | https://v5.sportsonline.si/channels/hd/hd11.php
+19:45   Turkey x Montenegro | https://v5.sportsonline.si/channels/pt/sporttv3.php
+19:45   Iceland x Wales | https://v5.sportsonline.si/channels/hd/hd4.php
+19:45   Iceland x Wales | https://v5.sportsonline.si/channels/bra/br5.php
+19:45   Czech Republic x Albania | https://v5.sportsonline.si/channels/bra/br6.php
+20:00   Côte d'Ivoire x Sierra Leone | https://v5.sportsonline.si/channels/hd/hd7.php
+20:00   Côte d'Ivoire x Sierra Leone | https://v5.sportsonline.si/channels/hd/hd9.php
+20:00   Mali x Guinea-Bissau | https://v5.sportsonline.si/channels/hd/hd8.php
+20:00   Mali x Guinea-Bissau | https://v5.sportsonline.si/channels/pt/sporttv5.php
+22:30   Novorizontino x Sport Recife | https://v5.sportsonline.si/channels/bra/br1.php
+00:00   NBA Preseason: New Orleans Pelicans @ Orlando Magic | https://v5.sportsonline.si/channels/hd/hd11.php
+01:00   Avaí x América Mineiro | https://v5.sportsonline.si/channels/bra/br1.php
+02:30   Peru x Uruguay | https://v5.sportsonline.si/channels/hd/hd5.php
+02:30   Peru x Uruguay | https://v5.sportsonline.si/channels/hd/hd6.php
+02:30   Peru x Uruguay | https://v5.sportsonline.si/channels/pt/sporttv1.php
+03:00   NBA Preseason: Sacramento Kings @ Golden State Warriors | https://v5.sportsonline.si/channels/hd/hd11.php
+03:00   Boxing: Alberto Mora x Benito Garcia | https://v5.sportsonline.si/channels/bra/br6.php</pre></body></html>
