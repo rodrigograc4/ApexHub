@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 14-10-24 |
+                | LAST UPDATE: 15-10-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,68 +29,13 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-SUNDAY
-HD5 ENGLISH
-HD9 SPANISH
-HD11 SPANISH
-
-BR3 BRAZILIAN
-
-22:30   Guadalajara x América | https://v5.sportsonline.si/channels/hd/hd11.php
-22:30   Goiás x Vila Nova | https://v5.sportsonline.si/channels/bra/br4.php
-01:20   NFL: Cincinnati Bengals @ New York Giants | https://v5.sportsonline.si/channels/hd/hd5.php
-01:20   NFL: Cincinnati Bengals @ New York Giants | https://v5.sportsonline.si/channels/bra/br3.php
-01:30   Rionegro Águilas x Deportivo Cali| https://v5.sportsonline.si/channels/hd/hd9.php
-
 MONDAY
-HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
 HD5 ENGLISH
-HD7 ITALIAN
-HD8 ENGLISH
 HD9 ENGLISH
-HD10 ENGLISH
-HD11 ENGLISH
 
 BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR6 BRAZILIAN
 
-10:30   ATP World Tour 250: Almaty | https://v5.sportsonline.si/channels/pt/sporttv2.php
-14:30   ATP World Tour 250: Antwerp | https://v5.sportsonline.si/channels/pt/sporttv3.php
-17:00   Azerbaijan x Slovakia | https://v5.sportsonline.si/channels/hd/hd1.php
-17:00   Azerbaijan x Slovakia | https://v5.sportsonline.si/channels/pt/sporttv2.php
-17:00   Azerbaijan x Slovakia | https://v5.sportsonline.si/channels/bra/br3.php
-17:00   Georgia x Albania | https://v5.sportsonline.si/channels/hd/hd11.php
-17:00   Georgia x Albania | https://v5.sportsonline.si/channels/pt/sporttv1.php
-17:00   Georgia x Albania | https://v5.sportsonline.si/channels/bra/br6.php
-17:00   Liberia x Equatorial Guinea | https://v5.sportsonline.si/channels/pt/sporttv5.php
-19:30   Sporting Gijón x CD Castellon | https://v5.sportsonline.si/channels/pt/eleven1.php
-19:45   Belgium x France | https://v5.sportsonline.si/channels/hd/hd1.php
-19:45   Belgium x France | https://v5.sportsonline.si/channels/hd/hd4.php
-19:45   Belgium x France | https://v5.sportsonline.si/channels/pt/sporttv2.php
-19:45   Belgium x France | https://v5.sportsonline.si/channels/bra/br1.php
-19:45   Ukraine x Czech Republic | https://v5.sportsonline.si/channels/hd/hd10.php 
-19:45   Ukraine x Czech Republic | https://v5.sportsonline.si/channels/bra/br2.php
-19:45   Iceland x Turkey | https://v5.sportsonline.si/channels/hd/hd9.php
-19:45   Wales x Montenegro | https://v5.sportsonline.si/channels/hd/hd5.php
-19:45   Wales x Montenegro | https://v5.sportsonline.si/channels/pt/sporttv5.php
-19:45   Italy x Israel | https://v5.sportsonline.si/channels/hd/hd11.php
-19:45   Italy x Israel | https://v5.sportsonline.si/channels/hd/hd7.php
-19:45   Italy x Israel | https://v5.sportsonline.si/channels/pt/sporttv3.php
-19:45   Italy x Israel | https://v5.sportsonline.si/channels/bra/br3.php
-19:45   Germany x Netherlands | https://v5.sportsonline.si/channels/hd/hd2.php
-19:45   Germany x Netherlands | https://v5.sportsonline.si/channels/hd/hd3.php
-19:45   Germany x Netherlands | https://v5.sportsonline.si/channels/pt/sporttv1.php
-19:45   Germany x Netherlands | https://v5.sportsonline.si/channels/bra/br4.php
-19:45   Estonia x Sweden | https://v5.sportsonline.si/channels/hd/hd8.php
-19:45   Bosnia and Herzegovina x Hungary | https://v5.sportsonline.si/channels/bra/br6.php
-20:00   Eswatini x Mozambique | https://v5.sportsonline.si/channels/pt/sporttv4.php
-22:30   Brusque x Ituano | https://v5.sportsonline.si/channels/bra/br1.php
 00:20   América de Cali x Medellín | https://v5.sportsonline.si/channels/hd/hd9.php
 00:30   NBA Preseason: Philadelphia 76ers @ Atlanta Hawks | https://v5.sportsonline.si/channels/hd/hd5.php
 00:30   NHL: Montreal @ Pittsburgh | https://v5.sportsonline.si/channels/pt/sporttv3.php
