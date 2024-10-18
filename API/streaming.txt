@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 17-10-24 |
+                | LAST UPDATE: 18-10-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -31,40 +31,12 @@
 
 THURSDAY
 HD1 ENGLISH
-HD3 GERMAN
-HD6 SPANISH
 HD9 SPANISH
-HD10 ROMANIAN &amp; ENGLISH
-HD11 SPANISH
+HD10 ENGLISH
 
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
 BR4 BRAZILIAN
-BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-07:00   ATP World Tour 250: Almaty | https://v5.sportsonline.si/channels/pt/sporttv1.php
-13:00   ATP World Tour 250: Antwerp | https://v5.sportsonline.si/channels/pt/sporttv2.php
-13:00   DP World Tour: Andalucia Masters - D1 | https://v5.sportsonline.si/channels/pt/sporttv3.php
-17:30   Cerro Largo x Deportivo Maldonado | https://v5.sportsonline.si/channels/hd/hd11.php
-17:45   Real Madrid W x Celtic FC W | https://v5.sportsonline.si/channels/hd/hd3.php
-17:45   Real Madrid W x Celtic FC W | https://v5.sportsonline.si/channels/hd/hd6.php
-17:45   Real Madrid W x Celtic FC W | https://v5.sportsonline.si/channels/pt/eleven2.php
-18:00   Steaua Bucureşti x Concordia Chiajna | https://v5.sportsonline.si/channels/hd/hd10.php
-19:00   Euro League Basketball: Maccabi Tel Aviv x Partizan | https://v5.sportsonline.si/channels/pt/sporttv1.php
-20:00   Shrewsbury Town x Exeter City | https://v5.sportsonline.si/channels/hd/hd1.php
-20:00   Fénix x Cerro | https://v5.sportsonline.si/channels/hd/hd11.php
-20:00   Wolfsburg W x Olympique Lyonnais W | https://v5.sportsonline.si/channels/hd/hd3.php
-20:00   Wolfsburg W x Olympique Lyonnais W | https://v5.sportsonline.si/channels/pt/eleven2.php
-22:45   MotoGP: Australia FP | https://v5.sportsonline.si/channels/hd/hd10.php
-22:45   MotoGP: Australia FP | https://v5.sportsonline.si/channels/pt/sporttv4.php 
-22:45   MotoGP: Australia FP | https://v5.sportsonline.si/channels/bra/br6.php
-23:00   América Mineiro x Goiás | https://v5.sportsonline.si/channels/bra/br3.php
-23:30   Nacional x Miramar Misiones | https://v5.sportsonline.si/channels/hd/hd11.php
-00:00   Flamengo x Fluminense | https://v5.sportsonline.si/channels/bra/br1.php
-00:00   Flamengo x Fluminense | https://v5.sportsonline.si/channels/bra/br2.php
-00:00   Corinthians x Athletico-PR | https://v5.sportsonline.si/channels/bra/br5.php
 00:40   América de Cali x Deportivo Cali | https://v5.sportsonline.si/channels/hd/hd9.php
 01:20   NFL: Denver Broncos @ New Orleans Saints | https://v5.sportsonline.si/channels/hd/hd1.php
 01:20   NFL: Denver Broncos @ New Orleans Saints | https://v5.sportsonline.si/channels/pt/eleven1.php 
