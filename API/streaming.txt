@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 28-10-24 |
+                | LAST UPDATE: 29-10-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,67 +29,12 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-SUNDAY
-HD1 ENGLISH
-HD5 ENGLISH
-HD6 SPANISH
-HD9 SPANISH
-HD10 SPANISH
-
-22:30   Orlando City SC x Charlotte | https://v5.sportsonline.si/channels/hd/hd5.php
-23:20   Junior x América de Cali | https://v5.sportsonline.si/channels/hd/hd10.php 
-00:00   Necaxa x Toluca | https://v5.sportsonline.si/channels/hd/hd6.php
-00:15   Talleres Córdoba x Tigre | https://v5.sportsonline.si/channels/hd/hd9.php
-00:30   Los Angeles FC x Vancouver Whitecaps | https://v5.sportsonline.si/channels/hd/hd5.php
-01:20   NFL: Dallas Cowboys @ San Francisco 49ers | https://v5.sportsonline.si/channels/hd/hd1.php
-02:05   América x Monterrey | https://v5.sportsonline.si/channels/hd/hd6.php
-
 MONDAY
 HD1 ENGLISH
 HD2 ENGLISH
-HD3 BULGARIAN
-HD4 ROMANIAN
 HD5 ENGLISH
-HD6 SPANISH
-HD9 SPANISH
 HD10 SPANISH
-HD11 TURKISH
 
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-
-16:00   Ludogorets x CSKA 1948 | https://v5.sportsonline.si/channels/hd/hd3.php
-16:00   Botoşani x Universitatea Cluj | https://v5.sportsonline.si/channels/hd/hd4.php
-17:00   Galatasaray x Beşiktaş | https://v5.sportsonline.si/channels/hd/hd5.php
-17:00   Galatasaray x Beşiktaş | https://v5.sportsonline.si/channels/hd/hd11.php
-17:00   Galatasaray x Beşiktaş | https://v5.sportsonline.si/channels/pt/sporttv1.php
-17:00   Galatasaray x Beşiktaş | https://v5.sportsonline.si/channels/bra/br6.php
-18:30   Ballon d’Or 2024: Red Carpet | https://v5.sportsonline.si/channels/pt/sporttv2.php
-18:30   Ballon d’Or 2024: Red Carpet | https://v5.sportsonline.si/channels/bra/br2.php
-19:00   Farul Constanța x CSU Craiova | https://v5.sportsonline.si/channels/hd/hd4.php
-19:45   Ballon d’Or 2024: Ceremony | https://v5.sportsonline.si/channels/pt/sporttv2.php
-19:45   Ballon d’Or 2024: Ceremony | https://v5.sportsonline.si/channels/bra/br2.php
-20:00   Mallorca x Athletic Club | https://v5.sportsonline.si/channels/hd/hd2.php
-20:00   Mallorca x Athletic Club | https://v5.sportsonline.si/channels/hd/hd6.php
-20:00   Mallorca x Athletic Club | https://v5.sportsonline.si/channels/pt/eleven1.php 
-20:00   Mallorca x Athletic Club | https://v5.sportsonline.si/channels/bra/br6.php
-20:00   Blackpool x Wigan Athletic | https://v5.sportsonline.si/channels/hd/hd1.php
-20:15   AVS x Porto | https://v5.sportsonline.si/channels/pt/sporttv1.php
-20:15   AVS x Porto | https://v5.sportsonline.si/channels/bra/br3.php
-21:00   Coritiba x CRB | https://v5.sportsonline.si/channels/bra/br5.php
-22:00   Gimnasia La Plata x Unión Santa Fe | https://v5.sportsonline.si/channels/hd/hd9.php
-22:00   Cuiabá x Corinthians | https://v5.sportsonline.si/channels/bra/br1.php
-22:00   Ituano x Santos | https://v5.sportsonline.si/channels/bra/br4.php
-22:45   Cincinnati x New York City | https://v5.sportsonline.si/channels/hd/hd5.php
-23:30   NBA: Milwaukee Bucks @ Boston Celtics | https://v5.sportsonline.si/channels/hd/hd2.php
-23:30   NBA: Milwaukee Bucks @ Boston Celtics | https://v5.sportsonline.si/channels/pt/sporttv1.php
-23:30   NHL: Tampa Bay @ Nashville | https://v5.sportsonline.si/channels/pt/sporttv2.php
-00:00   Vasco x Bahia | https://v5.sportsonline.si/channels/bra/br3.php
-00:00   América Mineiro x Sport Recife | https://v5.sportsonline.si/channels/bra/br5.php
 00:30   NBA: Utah Jazz @ Dallas Mavericks | https://v5.sportsonline.si/channels/pt/sporttv3.php
 01:00   Seattle Sounders FC x Houston Dynamo | https://v5.sportsonline.si/channels/hd/hd5.php
 01:15   Medellín x Jaguares de Córdoba | https://v5.sportsonline.si/channels/hd/hd10.php
