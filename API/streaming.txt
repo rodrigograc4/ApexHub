@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 06-11-24 |
+                | LAST UPDATE: 07-11-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,83 +29,17 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-TUESDAY
+WEDNESDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD6 SPANISH
+HD9 SPANISH
 HD11 SPANISH
 
 BR1 BRAZILIAN
 BR2 BRAZILIAN
 BR3 BRAZILIAN
-BR4 BRAZILIAN
 
-00:00   NHL: Toronto x Boston | https://v5.sportsonline.si/channels/pt/sporttv1.php
-00:30   Botafogo x Vasco da Gama | https://v5.sportsonline.si/channels/bra/br1.php
-00:30   Bahia x São Paulo | https://v5.sportsonline.si/channels/bra/br2.php
-00:30   Internacional x Criciúma | https://v5.sportsonline.si/channels/bra/br3.php
-00:30   Mirassol x Coritiba | https://v5.sportsonline.si/channels/bra/br4.php
-01:00   Santos Laguna x Guadalajara | https://v5.sportsonline.si/channels/hd/hd11.php
-03:05   Pumas UNAM x Querétaro | https://v5.sportsonline.si/channels/hd/hd11.php
-
-WEDNESDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 UNDEFINED
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 ENGLISH &amp; SPANISH
-HD10 SPANISH
-HD11 ENGLISH &amp; SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-
-10:00   ATP World Tour 250: Belgrade | https://v5.sportsonline.si/channels/pt/sporttv3.php
-12:00   Crvena Zvezda U19 x Barcelona U19 | https://v5.sportsonline.si/channels/hd/hd10.php
-13:00   Feyenoord U19 x Salzburg U19 | https://v5.sportsonline.si/channels/pt/eleven1.php 
-13:00   ATP World Tour 250: Metz | https://v5.sportsonline.si/channels/pt/sporttv2.php
-15:00   PSG U19 x Atlético Madrid U19 | https://v5.sportsonline.si/channels/hd/hd10.php
-15:00   PSG U19 x Atlético Madrid U19 | https://v5.sportsonline.si/channels/hd/hd4.php
-15:00   PSG U19 x Atlético Madrid U19 | https://v5.sportsonline.si/channels/pt/eleven2.php 
-15:00   Bayern München U19 x Benfica U19 | https://v5.sportsonline.si/channels/pt/btv.php 
-15:30   Beşiktaş x Malmö FF | https://v5.sportsonline.si/channels/hd/hd1.php
-15:30   Beşiktaş x Malmö FF	| https://v5.sportsonline.si/channels/hd/hd6.php
-15:30   Beşiktaş x Malmö FF	| https://v5.sportsonline.si/channels/pt/eleven1.php  
-17:45   Club Brugge x Aston Villa | https://v5.sportsonline.si/channels/hd/hd2.php
-17:45   Club Brugge x Aston Villa | https://v5.sportsonline.si/channels/hd/hd3.php
-17:45   Club Brugge x Aston Villa | https://v5.sportsonline.si/channels/hd/hd6.php
-17:45   Club Brugge x Aston Villa | https://v5.sportsonline.si/channels/hd/hd4.php
-17:45   Club Brugge x Aston Villa | https://v5.sportsonline.si/channels/pt/eleven1.php 
-17:45   Club Brugge x Aston Villa | https://v5.sportsonline.si/channels/bra/br1.php
-17:45   Shakhtar Donetsk x Young Boys | https://v5.sportsonline.si/channels/hd/hd11.php
-17:45   Shakhtar Donetsk x Young Boys | https://v5.sportsonline.si/channels/pt/eleven2.php 
-17:45   Shakhtar Donetsk x Young Boys | https://v5.sportsonline.si/channels/bra/br2.php
-20:00   Internazionale x Arsenal | https://v5.sportsonline.si/channels/hd/hd1.php
-20:00   Internazionale x Arsenal | https://v5.sportsonline.si/channels/hd/hd7.php
-20:00   Internazionale x Arsenal | https://v5.sportsonline.si/channels/pt/eleven2.php 
-20:00   Internazionale x Arsenal | https://v5.sportsonline.si/channels/bra/br1.php
-20:00   Bayern München x Benfica | https://v5.sportsonline.si/channels/hd/hd2.php
-20:00   Bayern München x Benfica | https://v5.sportsonline.si/channels/hd/hd3.php
-20:00   Bayern München x Benfica | https://v5.sportsonline.si/channels/pt/sporttv5.php
-20:00   Bayern München x Benfica | https://v5.sportsonline.si/channels/bra/br2.php
-20:00   PSG x Atlético Madrid | https://v5.sportsonline.si/channels/hd/hd10.php
-20:00   PSG x Atlético Madrid | https://v5.sportsonline.si/channels/pt/eleven1.php 
-20:00   PSG x Atlético Madrid | https://v5.sportsonline.si/channels/bra/br4.php
-20:00   Crvena Zvezda x Barcelona | https://v5.sportsonline.si/channels/hd/hd9.php
-20:00   Crvena Zvezda x Barcelona | https://v5.sportsonline.si/channels/hd/hd6.php
-20:00   Crvena Zvezda x Barcelona | https://v5.sportsonline.si/channels/pt/eleven3.php 
-20:00   Crvena Zvezda x Barcelona | https://v5.sportsonline.si/channels/bra/br3.php
-20:00   Feyenoord x Salzburg | https://v5.sportsonline.si/channels/hd/hd11.php
-20:00   Feyenoord x Salzburg | https://v5.sportsonline.si/channels/bra/br5.php
-20:00   Stuttgart x Atalanta | https://v5.sportsonline.si/channels/hd/hd5.php
-20:00   Stuttgart x Atalanta | https://v5.sportsonline.si/channels/hd/hd8.php
-20:00   Stuttgart x Atalanta | https://v5.sportsonline.si/channels/bra/br6.php
-20:00   Sparta Praha x Brest | https://v5.sportsonline.si/channels/hd/hd4.php
 23:30   Junior x Millonarios | https://v5.sportsonline.si/channels/hd/hd9.php
 00:00   Cruzeiro x Flamengo | https://v5.sportsonline.si/channels/bra/br1.php
 00:00   Cruzeiro x Flamengo | https://v5.sportsonline.si/channels/bra/br2.php
@@ -187,4 +121,172 @@ BR6 BRAZILIAN
 01:00   NBA: Minnesota Timberwolves @ Chicago Bulls | https://v5.sportsonline.si/channels/hd/hd1.php
 01:00   NBA: Minnesota Timberwolves @ Chicago Bulls | https://v5.sportsonline.si/channels/pt/sporttv1.php
 01:00   NBA: Utah Jazz @ Milwaukee Bucks | https://v5.sportsonline.si/channels/pt/sporttv3.php
-01:30   Deportivo Pereira x Atlético Nacional | https://v5.sportsonline.si/channels/hd/hd9.php</pre></body></html>
+01:30   Deportivo Pereira x Atlético Nacional | https://v5.sportsonline.si/channels/hd/hd9.php
+
+FRIDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 GERMAN &amp; FRENCH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD9 DUTCH &amp; SPANISH
+HD10 TURKISH &amp; ENGLISH
+HD11 SPANISH
+
+BR1 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+
+07:00   DP World Tour: Abu Dhabi HSBC Championship - D2 | https://v5.sportsonline.si/channels/pt/sporttv3.php
+14:30   ATP World Tour 250: Metz | https://v5.sportsonline.si/channels/pt/sporttv2.php
+14:45   Al Hilal x Al Ittifaq | https://v5.sportsonline.si/channels/hd/hd11.php
+14:45   Al Hilal x Al Ittifaq | https://v5.sportsonline.si/channels/pt/sporttv1.php
+14:45   Al Hilal x Al Ittifaq | https://v5.sportsonline.si/channels/bra/br5.php
+17:00   Al Riyadh x Al Nassr | https://v5.sportsonline.si/channels/hd/hd11.php
+17:00   Al Riyadh x Al Nassr | https://v5.sportsonline.si/channels/pt/sporttv1.php
+17:00   Al Riyadh x Al Nassr | https://v5.sportsonline.si/channels/bra/br5.php
+17:00   Kasımpaşa x Kayserispor | https://v5.sportsonline.si/channels/hd/hd10.php
+17:30   Eintracht Braunschweig x Hamburger SV | https://v5.sportsonline.si/channels/hd/hd3.php
+17:30   Nürnberg x Kaiserslautern | https://v5.sportsonline.si/channels/hd/hd4.php 
+19:00   Utrecht x Heracles | https://v5.sportsonline.si/channels/hd/hd9.php
+19:30   Union Berlin x Freiburg | https://v5.sportsonline.si/channels/hd/hd3.php
+19:30   Union Berlin x Freiburg | https://v5.sportsonline.si/channels/pt/eleven2.php  
+19:30   Union Berlin x Freiburg | https://v5.sportsonline.si/channels/bra/br1.php
+19:45   Olympique Marseille x Auxerre | https://v5.sportsonline.si/channels/hd/hd4.php
+19:45   Olympique Marseille x Auxerre | https://v5.sportsonline.si/channels/pt/sporttv3.php
+19:45   Lecce x Empoli | https://v5.sportsonline.si/channels/hd/hd7.php
+19:45   Lecce x Empoli | https://v5.sportsonline.si/channels/pt/sporttv2.php
+20:00   Watford x Oxford United | https://v5.sportsonline.si/channels/hd/hd1.php
+20:00   Watford x Oxford United | https://v5.sportsonline.si/channels/pt/sporttv4.php
+20:00   Rayo Vallecano x Las Palmas | https://v5.sportsonline.si/channels/hd/hd2.php
+20:00   Rayo Vallecano x Las Palmas | https://v5.sportsonline.si/channels/hd/hd6.php
+20:00   Rayo Vallecano x Las Palmas | https://v5.sportsonline.si/channels/pt/eleven1.php  
+20:15   Moreirense x Gil Vicente | https://v5.sportsonline.si/channels/pt/sporttv1.php
+22:00   Internacional x Fluminense | https://v5.sportsonline.si/channels/bra/br3.php
+00:30   Palmeiras x Grêmio | https://v5.sportsonline.si/channels/bra/br1.php
+00:30   NBA: Milwaukee Bucks @ New York Knicks | https://v5.sportsonline.si/channels/pt/sporttv1.php
+00:30   NBA: Golden State Warriors @ Cleveland Cavaliers | https://v5.sportsonline.si/channels/hd/hd5.php
+00:30   NBA: Golden State Warriors @ Cleveland Cavaliers | https://v5.sportsonline.si/channels/pt/sporttv3.php
+00:30   NBA: Brooklyn Nets @ Boston Celtics | https://v5.sportsonline.si/channels/hd/hd2.php
+00:30   NBA: Phoenix Suns @ Dallas Mavericks | https://v5.sportsonline.si/channels/bra/br4.php
+01:00   Querétaro x Santos Laguna | https://v5.sportsonline.si/channels/hd/hd11.php
+01:00   One Championship: One 169 | https://v5.sportsonline.si/channels/pt/sporttv2.php
+01:00   NASCAR Craftsman Truck Series: Phoenix | https://v5.sportsonline.si/channels/pt/sporttv4.php
+01:20   Santa Fe x Once Caldas | https://v5.sportsonline.si/channels/hd/hd9.php
+02:00   Boxing: Keyshawn Davis vs Gustavo Lemos |https://v5.sportsonline.si/channels/hd/hd1.php
+03:00   Mazatlán x Pumas UNAM | https://v5.sportsonline.si/channels/hd/hd11.php
+03:00   NBA: Philadelphia 76ers @ Los Angeles Lakers | https://v5.sportsonline.si/channels/hd/hd10.php
+03:00   NBA: Philadelphia 76ers @ Los Angeles Lakers | https://v5.sportsonline.si/channels/bra/br4.php
+
+SATURDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD9 GERMAN &amp; DUTCH
+HD10 GERMAN &amp; ENGLISH
+HD11 ENGLISH &amp; GREEK
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+07:00   DP World Tour: Abu Dhabi HSBC Championship - D2 | https://v5.sportsonline.si/channels/pt/sporttv3.php
+11:00   Penafiel x Felgueiras 1932 | https://v5.sportsonline.si/channels/pt/sporttv1.php
+12:00   Magdeburg x Ulm | https://v5.sportsonline.si/channels/hd/hd3.php
+12:00   Köln x Greuther Fürth | https://v5.sportsonline.si/channels/hd/hd9.php
+12:00   Darmstadt 98 x Hertha BSC | https://v5.sportsonline.si/channels/hd/hd10.php
+12:30   Cardiff City x Blackburn Rovers | https://v5.sportsonline.si/channels/hd/hd1.php
+12:30   Cardiff City x Blackburn Rovers | https://v5.sportsonline.si/channels/pt/sporttv2.php
+12:30   Wrexham x Mansfield Town | https://v5.sportsonline.si/channels/hd/hd5.php
+13:00   Real Madrid x Osasuna | https://v5.sportsonline.si/channels/hd/hd2.php
+13:00   Real Madrid x Osasuna | https://v5.sportsonline.si/channels/hd/hd6.php
+13:00   Real Madrid x Osasuna | https://v5.sportsonline.si/channels/pt/eleven1.php  
+13:00   Real Madrid x Osasuna | https://v5.sportsonline.si/channels/bra/br2.php
+14:00   Venezia x Parma | https://v5.sportsonline.si/channels/hd/hd7.php
+14:00   Venezia x Parma | https://v5.sportsonline.si/channels/pt/sporttv3.php
+14:30   St. Pauli x Bayern München | https://v5.sportsonline.si/channels/hd/hd3.php
+14:30   St. Pauli x Bayern München | https://v5.sportsonline.si/channels/pt/eleven3.php  
+14:30   St. Pauli x Bayern München | https://v5.sportsonline.si/channels/bra/br1.php
+14:30   Mainz 05 x Borussia Dortmund | https://v5.sportsonline.si/channels/hd/hd9.php
+14:30   Mainz 05 x Borussia Dortmund | https://v5.sportsonline.si/channels/bra/br4.php
+14:30   Bochum x Bayer Leverkusen | https://v5.sportsonline.si/channels/hd/hd10.php
+14:30   Bochum x Bayer Leverkusen | https://v5.sportsonline.si/channels/bra/br5.php
+15:00   Wolverhampton Wanderers x Southampton | https://v5.sportsonline.si/channels/hd/hd1.php
+15:00   West Ham United x Everton | https://v5.sportsonline.si/channels/hd/hd2.php
+15:00   West Ham United x Everton | https://v5.sportsonline.si/channels/hd/hd8.php
+15:00   West Ham United x Everton | https://v5.sportsonline.si/channels/pt/eleven2.php
+15:00   West Ham United x Everton | https://v5.sportsonline.si/channels/bra/br2.php 
+15:00   Crystal Palace x Fulham | https://v5.sportsonline.si/channels/hd/hd5.php
+15:00   Crystal Palace x Fulham | https://v5.sportsonline.si/channels/pt/eleven1.php  
+15:00   Crystal Palace x Fulham | https://v5.sportsonline.si/channels/bra/br6.php
+15:00   Brentford x AFC Bournemouth | https://v5.sportsonline.si/channels/hd/hd11.php
+15:15   Villarreal x Deportivo Alavés | https://v5.sportsonline.si/channels/hd/hd6.php
+15:30   Casa Pia x Farense | https://v5.sportsonline.si/channels/pt/sporttv1.php
+15:30   Estoril x AVS | https://v5.sportsonline.si/channels/pt/sporttv2.php
+16:00   Strasbourg x Monaco | https://v5.sportsonline.si/channels/hd/hd4.php
+16:00   Strasbourg x Monaco | https://v5.sportsonline.si/channels/pt/sporttv3.php
+17:00   Cagliari x Milan | https://v5.sportsonline.si/channels/hd/hd7.php
+17:00   Cagliari x Milan | https://v5.sportsonline.si/channels/pt/sporttv4.php
+17:00   Cagliari x Milan |  https://v5.sportsonline.si/channels/bra/br6.php
+17:30   Brighton &amp; Hove Albion x Manchester City | https://v5.sportsonline.si/channels/hd/hd1.php
+17:30   Brighton &amp; Hove Albion x Manchester City | https://v5.sportsonline.si/channels/hd/hd8.php
+17:30   Brighton &amp; Hove Albion x Manchester City | https://v5.sportsonline.si/channels/pt/eleven1.php  
+17:30   Brighton &amp; Hove Albion x Manchester City | https://v5.sportsonline.si/channels/bra/br2.php
+17:30   Espanyol x Valencia | https://v5.sportsonline.si/channels/hd/hd2.php
+17:30   Espanyol x Valencia | https://v5.sportsonline.si/channels/hd/hd6.php
+17:30   Espanyol x Valencia | https://v5.sportsonline.si/channels/pt/eleven2.php
+17:30   RB Leipzig x Borussia M'gladbach | https://v5.sportsonline.si/channels/hd/hd3.php
+17:30   RB Leipzig x Borussia M'gladbach | https://v5.sportsonline.si/channels/pt/eleven3.php 
+18:00   Lens x Nantes | https://v5.sportsonline.si/channels/hd/hd4.php
+18:00   Lens x Nantes | https://v5.sportsonline.si/channels/pt/sporttv3.php
+18:00   Famalicão x Arouca | https://v5.sportsonline.si/channels/pt/sporttv1.php
+18:00   Feirense x Tondela | https://v5.sportsonline.si/channels/pt/sporttv2.php
+18:00   AEK Athens x Asteras Tripolis | https://v5.sportsonline.si/channels/hd/hd11.php 
+19:00   NAC Breda x PSV | https://v5.sportsonline.si/channels/hd/hd9.php
+19:00   NAC Breda x PSV | https://v5.sportsonline.si/channels/pt/sporttv5.php
+19:30   Fortuna Düsseldorf x Paderborn | https://v5.sportsonline.si/channels/hd/hd3.php
+19:30   Fortuna Düsseldorf x Paderborn | https://v5.sportsonline.si/channels/pt/eleven3.php 
+19:30   Vitória x Corinthians | https://v5.sportsonline.si/channels/bra/br1.php
+19:30   Botafogo x Cuiabá | https://v5.sportsonline.si/channels/bra/br3.php
+19:45   Juventus x Torino | https://v5.sportsonline.si/channels/hd/hd7.php
+19:45   Juventus x Torino | https://v5.sportsonline.si/channels/hd/hd8.php
+19:45   Juventus x Torino | https://v5.sportsonline.si/channels/pt/sporttv4.php 
+19:45   Juventus x Torino | https://v5.sportsonline.si/channels/bra/br2.php
+20:00   Liverpool x Aston Villa | https://v5.sportsonline.si/channels/hd/hd1.php
+20:00   Liverpool x Aston Villa | https://v5.sportsonline.si/channels/pt/eleven1.php  
+20:00   Liverpool x Aston Villa | https://v5.sportsonline.si/channels/bra/br5.php
+20:00   Leganés x Sevilla | https://v5.sportsonline.si/channels/hd/hd2.php
+20:00   Leganés x Sevilla | https://v5.sportsonline.si/channels/hd/hd6.php
+20:00   Leganés x Sevilla | https://v5.sportsonline.si/channels/pt/eleven2.php
+20:00   Angers SCO x PSG | https://v5.sportsonline.si/channels/hd/hd4.php
+20:00   Angers SCO x PSG | https://v5.sportsonline.si/channels/pt/sporttv3.php
+20:30   Boavista x Rio Ave | https://v5.sportsonline.si/channels/pt/sporttv1.php
+22:00   Fortaleza x Vasco da Gama | https://v5.sportsonline.si/channels/bra/br1.php
+22:00   Cruzeiro x Criciúma | https://v5.sportsonline.si/channels/bra/br3.php
+22:00   Atlético Goianiense x RB Bragantino | https://v5.sportsonline.si/channels/bra/br4.php
+22:00   Juventude x Bahia | https://v5.sportsonline.si/channels/bra/br6.php
+22:00   UFC Fight Night: Prelims | https://v5.sportsonline.si/channels/hd/hd5.php
+22:00   NBA: Utah Jazz @ San Antonio Spurs | https://v5.sportsonline.si/channels/hd/hd10.php
+22:00   NBA: Utah Jazz @ San Antonio Spurs | https://v5.sportsonline.si/channels/hd/hd1.php
+23:00   NASCAR Xfinity Series: Phoenix | https://v5.sportsonline.si/channels/pt/sporttv4.php
+00:00   São Paulo x Athletico-PR | https://v5.sportsonline.si/channels/bra/br2.php
+00:00   UFC Fight Night: Neil Magny v Carlos Prates | https://v5.sportsonline.si/channels/hd/hd5.php
+00:00   UFC Fight Night: Neil Magny v Carlos Prates | https://v5.sportsonline.si/channels/pt/sporttv1.php
+00:00   UFC Fight Night: Neil Magny v Carlos Prates | https://v5.sportsonline.si/channels/bra/br5.php
+00:30   NBA: Brooklyn Nets @ Cleveland Cavaliers | https://v5.sportsonline.si/channels/hd/hd10.php
+01:00   Inter Miami x Atlanta United | https://v5.sportsonline.si/channels/hd/hd2.php
+01:00   Toluca x América | https://v5.sportsonline.si/channels/hd/hd11.php
+03:05   Cruz Azul x Tigres UANL | https://v5.sportsonline.si/channels/hd/hd11.php
+03:30   NBA: Toronto Raptors @ LA Clippers | https://v5.sportsonline.si/channels/hd/hd10.php
+03:30   Cricket: 3rd ODI: Australia v Pakistan | https://v5.sportsonline.si/channels/hd/hd1.php
+05:00   Central Coast Mariners x Wellington Phoenix | https://v5.sportsonline.si/channels/hd/hd5.php</pre></body></html>
