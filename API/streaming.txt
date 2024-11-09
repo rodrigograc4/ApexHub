@@ -29,15 +29,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-THURSDAY
-HD1 ENGLISH
-HD9 ENGLISH
-
-01:00   NBA: Minnesota Timberwolves @ Chicago Bulls | https://v5.sportsonline.si/channels/hd/hd1.php
-01:00   NBA: Minnesota Timberwolves @ Chicago Bulls | https://v5.sportsonline.si/channels/pt/sporttv1.php
-01:00   NBA: Utah Jazz @ Milwaukee Bucks | https://v5.sportsonline.si/channels/pt/sporttv3.php
-01:30   Deportivo Pereira x Atlético Nacional | https://v5.sportsonline.si/channels/hd/hd9.php
-
 FRIDAY
 HD1 ENGLISH
 HD2 ENGLISH
@@ -54,11 +45,6 @@ BR1 BRAZILIAN
 BR3 BRAZILIAN
 BR4 BRAZILIAN
 
-07:00   DP World Tour: Abu Dhabi HSBC Championship - D2 | https://v5.sportsonline.si/channels/pt/sporttv3.php
-14:30   ATP World Tour 250: Metz | https://v5.sportsonline.si/channels/pt/sporttv2.php
-14:45   Al Hilal x Al Ittifaq | https://v5.sportsonline.si/channels/hd/hd11.php
-14:45   Al Hilal x Al Ittifaq | https://v5.sportsonline.si/channels/pt/sporttv1.php
-14:45   Al Hilal x Al Ittifaq | https://v5.sportsonline.si/channels/bra/br5.php
 17:00   Al Riyadh x Al Nassr | https://v5.sportsonline.si/channels/hd/hd11.php
 17:00   Al Riyadh x Al Nassr | https://v5.sportsonline.si/channels/pt/sporttv1.php
 17:00   Al Riyadh x Al Nassr | https://v5.sportsonline.si/channels/bra/br5.php
