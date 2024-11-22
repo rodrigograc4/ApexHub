@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 21-11-24 |
+                | LAST UPDATE: 22-11-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,68 +29,17 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-WEDNESDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD6 SPANISH
-HD9 SPANISH
-HD10 SPANISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR5 BRAZILIAN
-
-22:00   Cuiabá x Flamengo | https://v5.sportsonline.si/channels/bra/br1.php
-22:00   Grêmio x Juventude | https://v5.sportsonline.si/channels/bra/br5.php
-22:15   Vélez Sarsfield x Lanús | https://v5.sportsonline.si/channels/hd/hd6.php
-22:15   Vélez Sarsfield x Lanús | https://v5.sportsonline.si/channels/pt/sporttv1.php  
-22:15   Estudiantes x Rosario Central | https://v5.sportsonline.si/channels/hd/hd9.php
-23:30   Millonarios x Deportivo Pasto | https://v5.sportsonline.si/channels/hd/hd10.php
-00:00   WRC: Japan Rally - Shakedown | https://v5.sportsonline.si/channels/pt/sporttv2.php  
-00:30   Atlético Mineiro x Botafogo | https://v5.sportsonline.si/channels/bra/br2.php
-00:30   Boca Juniors x Unión Santa Fe | https://v5.sportsonline.si/channels/hd/hd6.php
-00:30   Boca Juniors x Unión Santa Fe | https://v5.sportsonline.si/channels/pt/sporttv1.php  
-00:30   NBA: Chicago Bulls @ Milwaukee Bucks | https://v5.sportsonline.si/channels/hd/hd1.php
-00:30   NBA: Chicago Bulls @ Milwaukee Bucks | https://v5.sportsonline.si/channels/pt/sporttv3.php  
-00:30   NBA: New Orleans Pelicans @ Cleveland Cavaliers | https://v5.sportsonline.si/channels/pt/sporttv4.php  
-01:30   Atlético Nacional x Santa Fe | https://v5.sportsonline.si/channels/hd/hd10.php
-03:00   NBA: New York Knicks @ Phoenix Suns | https://v5.sportsonline.si/channels/hd/hd1.php
-03:00   NBA: Atlanta Hawks @ Golden State Warriors | https://v5.sportsonline.si/channels/hd/hd2.php
-03:00   NBA: Atlanta Hawks @ Golden State Warriors | https://v5.sportsonline.si/channels/pt/sporttv1.php  
-
 THURSDAY
 HD1 ENGLISH
 HD2 ENGLISH
 HD3 GERMAN
-HD4 GERMAN
-HF6 SPANISH
 HD7 ITALIAN
-HD8 ITALIAN &amp; SPANISH
-HD9 SPANISH
-HD10 ROMANIAN &amp; SPANISH
-HD11 GERMAN &amp; SPANISH
+HD8 SPANISH
+HD10 SPANISH
+HD11 SPANISH
 
-BR1 BRAZILIAN
 BR4 BRAZILIAN
 
-10:00   WRC: Japan Rally - Super Special 1 | https://v5.sportsonline.si/channels/pt/sporttv2.php  
-17:45   Vålerenga W x Bayern München W | https://v5.sportsonline.si/channels/hd/hd4.php
-17:45   Vålerenga W x Bayern München W | https://v5.sportsonline.si/channels/pt/eleven2.php 
-17:45   Hammarby W x Manchester City W | https://v5.sportsonline.si/channels/hd/hd11.php
-17:45   Hammarby W x Manchester City W | https://v5.sportsonline.si/channels/pt/eleven1.php  
-18:00   Botoşani x FCSB | https://v5.sportsonline.si/channels/hd/hd10.php
-19:45   Pescara x Milan B | https://v5.sportsonline.si/channels/hd/hd8.php
-20:00   Arsenal W x Juventus W | https://v5.sportsonline.si/channels/hd/hd7.php
-20:00   Arsenal W x Juventus W | https://v5.sportsonline.si/channels/hd/hd11.php
-20:00   Arsenal W x Juventus W | https://v5.sportsonline.si/channels/pt/eleven2.php 
-20:00   St. Pölten W x Barcelona W | https://v5.sportsonline.si/channels/hd/hd4.php
-20:00   St. Pölten W x Barcelona W | https://v5.sportsonline.si/channels/hd/hd6.php
-20:00   St. Pölten W x Barcelona W | https://v5.sportsonline.si/channels/pt/eleven1.php 
-20:00   Barracas Central x Belgrano | https://v5.sportsonline.si/channels/hd/hd9.php
-22:15   Independiente x Gimnasia La Plata | https://v5.sportsonline.si/channels/hd/hd9.php
-22:15   Talleres Córdoba x Sarmiento | https://v5.sportsonline.si/channels/hd/hd6.php
-22:30   WRC: Japan Rally - Super Special 2 &amp; 3 | https://v5.sportsonline.si/channels/pt/sporttv4.php  
-23:00   Vasco da Gama x Internacional | https://v5.sportsonline.si/channels/bra/br1.php
 23:30   Once Caldas x Deportes Tolima | https://v5.sportsonline.si/channels/hd/hd10.php
 00:30   Independiente Rivadavia x River Plate | https://v5.sportsonline.si/channels/hd/hd6.php
 00:30   Independiente Rivadavia x River Plate | https://v5.sportsonline.si/channels/pt/sporttv1.php  
