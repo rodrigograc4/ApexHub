@@ -29,39 +29,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v5.sportsonline.si	
 
-THURSDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD7 ITALIAN
-HD8 SPANISH
-HD10 SPANISH
-HD11 SPANISH
-
-BR4 BRAZILIAN
-
-23:30   Once Caldas x Deportes Tolima | https://v5.sportsonline.si/channels/hd/hd10.php
-00:30   Independiente Rivadavia x River Plate | https://v5.sportsonline.si/channels/hd/hd6.php
-00:30   Independiente Rivadavia x River Plate | https://v5.sportsonline.si/channels/pt/sporttv1.php  
-00:30   NBA: Minnesota Timberwolves @ Toronto Raptors | https://v5.sportsonline.si/channels/pt/sporttv2.php
-01:00   WRC: Japan Rally - Super Special 4 | https://v5.sportsonline.si/channels/pt/sporttv4.php    
-01:05   Guadalajara x Atlas | https://v5.sportsonline.si/channels/hd/hd11.php
-01:20   NFL: Steelers @ Browns | https://v5.sportsonline.si/channels/hd/hd1.php
-01:30   Junior x América de Cali | https://v5.sportsonline.si/channels/hd/hd10.php 
-02:00   F1: Las Vegas GP Practice 1 | https://v5.sportsonline.si/channels/hd/hd2.php
-02:00   F1: Las Vegas GP Practice 1 | https://v5.sportsonline.si/channels/hd/hd3.php
-02:00   F1: Las Vegas GP Practice 1 | https://v5.sportsonline.si/channels/hd/hd7.php
-02:00   F1: Las Vegas GP Practice 1 | https://v5.sportsonline.si/channels/pt/sporttv4.php    
-02:00   F1: Las Vegas GP Practice 1 | https://v5.sportsonline.si/channels/bra/br4.php
-03:00   Tijuana x América | https://v5.sportsonline.si/channels/hd/hd8.php
-03:30   NBA: Orlando Magic @ Los Angeles Lakers | https://v5.sportsonline.si/channels/pt/sporttv1.php  
-04:40   WRC: Japan Rally - Super Special 5 &amp; 6 | https://v5.sportsonline.si/channels/pt/sporttv2.php  
-05:45   F1: Las Vegas GP Practice 2 | https://v5.sportsonline.si/channels/hd/hd2.php
-05:45   F1: Las Vegas GP Practice 2 | https://v5.sportsonline.si/channels/hd/hd3.php
-05:45   F1: Las Vegas GP Practice 2 | https://v5.sportsonline.si/channels/hd/hd7.php
-05:45   F1: Las Vegas GP Practice 2 | https://v5.sportsonline.si/channels/pt/sporttv4.php    
-05:45   F1: Las Vegas GP Practice 2 | https://v5.sportsonline.si/channels/bra/br4.php
-
 FRIDAY
 HD1 ENGLISH
 HD2 ENGLISH 
@@ -70,32 +37,13 @@ HD4 ENGLISH
 HD5 ENGLISH
 HD6 SPANISH
 HD7 ITALIAN
-HD8 GREEK
-HD9 SERBIAN
-HD10 SPANISH
-HD11 GERMAN
 
 BR1 BRAZILIAN
-BR2 BRAZILIAN
 BR3 BRAZILIAN
 BR4 BRAZILIAN
 BR5 BRAZILIAN
 BR6 BRAZILIAN
 
-09:15   WRC: Japan Rally - Super Special 8 &amp; 9 | https://v5.sportsonline.si/channels/pt/sporttv2.php  
-16:00   IMT Novi Beograd x Bačka Topola | https://v5.sportsonline.si/channels/hd/hd9.php
-17:00   Al Nassr x Al Quadisiya | https://v5.sportsonline.si/channels/hd/hd10.php
-17:00   Al Nassr x Al Quadisiya | https://v5.sportsonline.si/channels/pt/sporttv2.php
-17:00   Al Nassr x Al Quadisiya | https://v5.sportsonline.si/channels/bra/br4.php
-17:00   FC Masar x Edo Queens | https://v5.sportsonline.si/channels/pt/sporttv5.php
-17:30   Paderborn x Nürnberg | https://v5.sportsonline.si/channels/hd/hd3.php
-17:30   Paderborn x Nürnberg | https://v5.sportsonline.si/channels/pt/eleven1.php
-17:30   Preußen Münster x Köln | https://v5.sportsonline.si/channels/hd/hd11.php
-17:30   Kallithea x Panserraikos | https://v5.sportsonline.si/channels/hd/hd8.php
-18:00   Monaco x Brest | https://v5.sportsonline.si/channels/hd/hd4.php
-18:00   Monaco x Brest | https://v5.sportsonline.si/channels/pt/sporttv1.php
-18:00   Monaco x Brest | https://v5.sportsonline.si/channels/bra/br5.php
-18:00   Radnički Niš x Čukarički | https://v5.sportsonline.si/channels/hd/hd9.php
 19:30   Bayern München x Augsburg | https://v5.sportsonline.si/channels/hd/hd5.php
 19:30   Bayern München x Augsburg | https://v5.sportsonline.si/channels/hd/hd3.php
 19:30   Bayern München x Augsburg | https://v5.sportsonline.si/channels/pt/eleven1.php
