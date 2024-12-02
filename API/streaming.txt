@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 01-12-24 |
+                | LAST UPDATE: 02-12-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -31,100 +31,10 @@
 
 SUNDAY
 HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 ENGLISH
 HD5 ENGLISH
 HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 ENGLISH
-HD10 ENGLISH &amp; SPANISH
-HD11 ENGLISH &amp; SPANISH
+HD11 SPANISH
 
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN 
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-
-11:00   Penafiel x Mafra | https://v1.sportsonline.ps/channels/pt/sporttv1.php
-11:30   Udinese x Genoa | https://v1.sportsonline.ps/channels/hd/hd7.php
-11:30   Udinese x Genoa | https://v1.sportsonline.ps/channels/hd/hd3.php
-11:30   Udinese x Genoa | https://v1.sportsonline.ps/channels/pt/sporttv3.php
-12:00   St. Johnstone x Rangers | https://v1.sportsonline.ps/channels/hd/hd5.php
-12:00   St. Johnstone x Rangers | https://v1.sportsonline.ps/channels/pt/sporttv5.php
-12:00   Futsal: Fortaleza x Apodi | https://v1.sportsonline.ps/channels/bra/br1.php
-13:00   Villarreal x Girona | https://v1.sportsonline.ps/channels/hd/hd2.php
-13:00   Villarreal x Girona | https://v1.sportsonline.ps/channels/hd/hd6.php
-13:00   Villarreal x Girona | https://v1.sportsonline.ps/channels/pt/eleven2.php 
-13:30   Tottenham Hotspur x Fulham | https://v1.sportsonline.ps/channels/hd/hd11.php
-13:30   Tottenham Hotspur x Fulham | https://v1.sportsonline.ps/channels/bra/br6.php
-13:30   Manchester United x Everton | https://v1.sportsonline.ps/channels/hd/hd1.php
-13:30   Manchester United x Everton | https://v1.sportsonline.ps/channels/pt/eleven1.php 
-13:30   Manchester United x Everton | https://v1.sportsonline.ps/channels/bra/br3.php
-13:30   Chelsea x Aston Villa | https://v1.sportsonline.ps/channels/hd/hd10.php
-13:30   Chelsea x Aston Villa | https://v1.sportsonline.ps/channels/pt/eleven3.php 
-13:30   Chelsea x Aston Villa | https://v1.sportsonline.ps/channels/bra/br2.php
-14:00   Torino x Napoli | https://v1.sportsonline.ps/channels/hd/hd7.php
-14:00   Torino x Napoli | https://v1.sportsonline.ps/channels/pt/sporttv3.php
-14:00   Torino x Napoli | https://v1.sportsonline.ps/channels/bra/br4.php
-14:00   Montpellier x Lille | https://v1.sportsonline.ps/channels/hd/hd4.php
-14:00   Montpellier x Lille | https://v1.sportsonline.ps/channels/pt/sporttv5.php
-14:30   Mainz 05 x Hoffenheim | https://v1.sportsonline.ps/channels/hd/hd3.php
-14:30   Mainz 05 x Hoffenheim | https://v1.sportsonline.ps/channels/bra/br1.php
-15:00   Derby County x Sheffield Wednesday | https://v1.sportsonline.ps/channels/hd/hd9.php
-15:15   Real Madrid x Getafe | https://v1.sportsonline.ps/channels/hd/hd2.php
-15:15   Real Madrid x Getafe | https://v1.sportsonline.ps/channels/hd/hd6.php
-15:15   Real Madrid x Getafe | https://v1.sportsonline.ps/channels/pt/eleven2.php 
-15:15   Real Madrid x Getafe | https://v1.sportsonline.ps/channels/bra/br5.php
-15:30   Marítimo x Benfica B | https://v1.sportsonline.ps/channels/pt/sporttv1.php
-15:30   Estoril x Famalicão | https://v1.sportsonline.ps/channels/pt/sporttv2.php
-16:00   Liverpool x Manchester City | https://v1.sportsonline.ps/channels/hd/hd1.php
-16:00   Liverpool x Manchester City | https://v1.sportsonline.ps/channels/hd/hd10.php
-16:00   Liverpool x Manchester City | https://v1.sportsonline.ps/channels/pt/eleven1.php 
-16:00   Liverpool x Manchester City | https://v1.sportsonline.ps/channels/bra/br2.php
-16:00   Olympique Lyonnais x Nice | https://v1.sportsonline.ps/channels/hd/hd4.php
-16:00   Olympique Lyonnais x Nice | https://v1.sportsonline.ps/channels/pt/sporttv5.php
-16:00   F1: Qatar Grand Prix | https://v1.sportsonline.ps/channels/hd/hd5.php
-16:00   F1: Qatar Grand Prix | https://v1.sportsonline.ps/channels/hd/hd8.php
-16:00   F1: Qatar Grand Prix | https://v1.sportsonline.ps/channels/pt/sporttv4.php
-16:00   F1: Qatar Grand Prix | https://v1.sportsonline.ps/channels/bra/br3.php
-16:30   Heidenheim x Eintracht Frankfurt | https://v1.sportsonline.ps/channels/hd/hd3.php
-16:30   Heidenheim x Eintracht Frankfurt | https://v1.sportsonline.ps/channels/pt/eleven3.php 
-17:00   Fiorentina x Internazionale | https://v1.sportsonline.ps/channels/hd/hd11.php
-17:00   Fiorentina x Internazionale | https://v1.sportsonline.ps/channels/hd/hd7.php
-17:00   Fiorentina x Internazionale | https://v1.sportsonline.ps/channels/pt/sporttv3.php
-17:00   Fiorentina x Internazionale | https://v1.sportsonline.ps/channels/bra/br6.php
-17:00   PAOK x Kallithea | https://v1.sportsonline.ps/channels/hd/hd9.php
-17:30   Rayo Vallecano x Athletic Club | https://v1.sportsonline.ps/channels/hd/hd2.php
-17:30   Rayo Vallecano x Athletic Club | https://v1.sportsonline.ps/channels/hd/hd6.php
-17:30   Rayo Vallecano x Athletic Club | https://v1.sportsonline.ps/channels/pt/eleven2.php 
-18:00   Arouca x Benfica | https://v1.sportsonline.ps/channels/pt/sporttv1.php
-18:00   Arouca x Benfica | https://v1.sportsonline.ps/channels/bra/br4.php
-19:00   Flamengo x Internacional | https://v1.sportsonline.ps/channels/bra/br1.php
-19:45   Lecce x Juventus | https://v1.sportsonline.ps/channels/hd/hd11.php
-19:45   Lecce x Juventus | https://v1.sportsonline.ps/channels/hd/hd7.php
-19:45   Lecce x Juventus | https://v1.sportsonline.ps/channels/hd/hd8.php
-19:45   Lecce x Juventus | https://v1.sportsonline.ps/channels/pt/sporttv3.php
-19:45   Lecce x Juventus | https://v1.sportsonline.ps/channels/bra/br2.php
-19:45   Olympique Marseille x Monaco | https://v1.sportsonline.ps/channels/hd/hd4.php
-19:45   Olympique Marseille x Monaco | https://v1.sportsonline.ps/channels/hd/hd3.php
-19:45   Olympique Marseille x Monaco | https://v1.sportsonline.ps/channels/pt/sporttv4.php
-20:00   Real Sociedad x Real Betis | https://v1.sportsonline.ps/channels/hd/hd2.php
-20:00   Real Sociedad x Real Betis | https://v1.sportsonline.ps/channels/hd/hd6.php
-20:00   Real Sociedad x Real Betis | https://v1.sportsonline.ps/channels/pt/eleven1.php 
-20:00   Sporting Gijón x Córdoba | https://v1.sportsonline.ps/channels/pt/eleven3.php
-20:30   AVS x Sporting Braga | https://v1.sportsonline.ps/channels/pt/sporttv2.php
-21:00   NFL: Eagles @ Ravens | https://v1.sportsonline.ps/channels/hd/hd1.php
-21:25   NFL: Eagles @ Ravens | https://v1.sportsonline.ps/channels/pt/eleven2.php 
-21:30   RB Bragantino x Cruzeiro | https://v1.sportsonline.ps/channels/bra/br3.php
-21:30   Vitória x Fortaleza | https://v1.sportsonline.ps/channels/bra/br4.php
-21:30   Athletico-PR x Fluminense | https://v1.sportsonline.ps/channels/bra/br5.php
-23:00   NBA: Boston Celtics @ Cleveland Cavaliers | https://v1.sportsonline.ps/channels/hd/hd2.php
-23:00   NBA: Boston Celtics @ Cleveland Cavaliers | https://v1.sportsonline.ps/channels/pt/sporttv3.php
-23:30   Junior x Once Caldas | https://v1.sportsonline.ps/channels/hd/hd10.php
 00:45   Boca Juniors x Gimnasia La Plata | https://v1.sportsonline.ps/channels/hd/hd6.php
 00:45   Boca Juniors x Gimnasia La Plata | https://v1.sportsonline.ps/channels/pt/sporttv1.php
 01:00   Tigres UANL x Atlético San Luis | https://v1.sportsonline.ps/channels/hd/hd11.php
@@ -180,4 +90,127 @@ BR6 BRAZILIAN
 01:00   Atlético Tucumán x Newell's Old Boys | https://v1.sportsonline.ps/channels/hd/hd6.php
 01:20   NFL: Denver Broncos x Cleveland Browns | https://v1.sportsonline.ps/channels/hd/hd1.php
 01:20   NFL: Denver Broncos x Cleveland Browns | https://v1.sportsonline.ps/channels/bra/br4.php
-01:30   Atlético Nacional x Millonarios | https://v1.sportsonline.ps/channels/hd/hd10.php</pre></body></html>
+01:30   Atlético Nacional x Millonarios | https://v1.sportsonline.ps/channels/hd/hd10.php
+
+TUESDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 GERMAN
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD9 SPANISH
+HD10 ENGLISH
+HD11 PORTUGUESE 
+
+BR1 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+14:00   Pakhtakor x Al Ain | https://v1.sportsonline.ps/channels/hd/hd11.php
+17:00   Jahn Regensburg x Stuttgart | https://v1.sportsonline.ps/channels/hd/hd3.php
+17:00   Jahn Regensburg x Stuttgart | https://v1.sportsonline.ps/channels/pt/eleven1.php 
+17:00   Arminia Bielefeld x Freiburg | https://v1.sportsonline.ps/channels/hd/hd4.php
+17:00   Arminia Bielefeld x Freiburg | https://v1.sportsonline.ps/channels/pt/eleven3.php  
+17:30   Bologna x Monza | https://v1.sportsonline.ps/channels/hd/hd7.php
+17:30   Bologna x Monza | https://v1.sportsonline.ps/channels/pt/sporttv1.php
+18:00   Mallorca x Barcelona | https://v1.sportsonline.ps/channels/hd/hd2.php
+18:00   Mallorca x Barcelona | https://v1.sportsonline.ps/channels/hd/hd6.php
+18:00   Mallorca x Barcelona | https://v1.sportsonline.ps/channels/pt/eleven2.php 
+18:00   Real Ávila x Real Valladolid | https://v1.sportsonline.ps/channels/pt/sporttv2.php
+18:00   Al Hilal x Al Gharafa | https://v1.sportsonline.ps/channels/hd/hd11.php
+18:00   Al Hilal x Al Gharafa | https://v1.sportsonline.ps/channels/bra/br4.php
+18:00   Sweden W x Serbia W | https://v1.sportsonline.ps/channels/pt/sporttv4.php
+19:15   Belgium W x Ukraine W | https://v1.sportsonline.ps/channels/pt/sporttv3.php
+19:30   Ipswich Town x Crystal Palace | https://v1.sportsonline.ps/channels/hd/hd1.php
+19:30   Ipswich Town x Crystal Palace | https://v1.sportsonline.ps/channels/pt/eleven3.php 
+19:45   Werder Bremen x Darmstadt 98 | https://v1.sportsonline.ps/channels/hd/hd3.php
+19:45   Bayern München x Bayer Leverkusen | https://v1.sportsonline.ps/channels/hd/hd10.php
+19:45   Bayern München x Bayer Leverkusen | https://v1.sportsonline.ps/channels/hd/hd4.php
+19:45   Bayern München x Bayer Leverkusen | https://v1.sportsonline.ps/channels/pt/eleven1.php 
+19:45   Bayern München x Bayer Leverkusen | https://v1.sportsonline.ps/channels/bra/br6.php
+20:00   Milan x Sassuolo | https://v1.sportsonline.ps/channels/hd/hd7.php
+20:00   Milan x Sassuolo | https://v1.sportsonline.ps/channels/pt/sporttv1.php
+20:00   Salamanca x Celta de Vigo | https://v1.sportsonline.ps/channels/hd/hd9.php
+20:00   Salamanca x Celta de Vigo | https://v1.sportsonline.ps/channels/pt/sporttv2.php
+20:00   Salamanca x Celta de Vigo | https://v1.sportsonline.ps/channels/bra/br5.php
+20:15   Leicester City x West Ham United | https://v1.sportsonline.ps/channels/hd/hd5.php
+20:15   Leicester City x West Ham United | https://v1.sportsonline.ps/channels/pt/eleven2.php 
+20:15   Leicester City x West Ham United | https://v1.sportsonline.ps/channels/bra/br4.php
+20:15   Europa x Las Palmas | https://v1.sportsonline.ps/channels/pt/sporttv5.php
+23:00   Corinthians x Bahia | https://v1.sportsonline.ps/channels/bra/br1.php
+00:30   NBA: Orlando Magic @ New York Knicks | https://v1.sportsonline.ps/channels/hd/hd1.php
+01:00   NBA: Utah Jazz @ Oklahoma City Thunder | https://v1.sportsonline.ps/channels/pt/sporttv1.php
+01:00   NHL: Minnesota @ Vancouver | https://v1.sportsonline.ps/channels/pt/sporttv3.php
+03:00   NBA: Golden State Warriors @ Denver Nuggets | https://v1.sportsonline.ps/channels/hd/hd1.php
+
+WEDNESDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 GERMAN
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 GREEK &amp; ENGLISH
+HD9 ENGLISH
+HD10 ENGLISH
+HD11 GREEK &amp; ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+13:30   PAOK x Egaleo | https://v1.sportsonline.ps/channels/hd/hd8.php
+15:30   Olympiakos Piraeus x Kallithea | https://v1.sportsonline.ps/channels/hd/hd11.php
+17:00   Köln x Hertha BSC | https://v1.sportsonline.ps/channels/hd/hd3.php
+17:00   Wolfsburg x Hoffenheim | https://v1.sportsonline.ps/channels/hd/hd4.php
+17:00   Wolfsburg x Hoffenheim | https://v1.sportsonline.ps/channels/pt/eleven1.php 
+17:00   Champions League Basketball: Manisa Basket x Ucam Murcia | https://v1.sportsonline.ps/channels/pt/sporttv1.php
+17:30   Volos NFC x OFI | https://v1.sportsonline.ps/channels/hd/hd8.php
+18:00   Sant Andreu x Real Betis | https://v1.sportsonline.ps/channels/pt/sporttv2.php
+19:00   Ajax x Utrecht | https://v1.sportsonline.ps/channels/pt/sporttv4.php
+19:30   Newcastle United x Liverpool | https://v1.sportsonline.ps/channels/hd/hd2.php
+19:30   Newcastle United x Liverpool | https://v1.sportsonline.ps/channels/bra/br5.php
+19:30   Manchester City x Nottingham Forest | https://v1.sportsonline.ps/channels/hd/hd5.php
+19:30   Manchester City x Nottingham Forest | https://v1.sportsonline.ps/channels/pt/eleven2.php
+19:30   Manchester City x Nottingham Forest | https://v1.sportsonline.ps/channels/bra/br6.php
+19:30   Everton x Wolverhampton Wanderers | https://v1.sportsonline.ps/channels/hd/hd9.php
+19:30   Southampton x Chelsea | https://v1.sportsonline.ps/channels/hd/hd11.php
+19:30   Southampton x Chelsea | https://v1.sportsonline.ps/channels/bra/br4.php
+19:45   Karlsruher SC x Augsburg | https://v1.sportsonline.ps/channels/hd/hd3.php
+19:45   RB Leipzig x Eintracht Frankfurt | https://v1.sportsonline.ps/channels/hd/hd4.php
+20:00   Athletic Club x Real Madrid | https://v1.sportsonline.ps/channels/hd/hd10.php
+20:00   Athletic Club x Real Madrid | https://v1.sportsonline.ps/channels/hd/hd6.php 
+20:00   Athletic Club x Real Madrid | https://v1.sportsonline.ps/channels/pt/eleven3.php 
+20:00   Athletic Club x Real Madrid | https://v1.sportsonline.ps/channels/bra/br3.php
+20:00   Fiorentina x Empoli | https://v1.sportsonline.ps/channels/hd/hd7.php
+20:00   Fiorentina x Empoli | https://v1.sportsonline.ps/channels/pt/sporttv1.php
+20:00   Ejea x Valencia | https://v1.sportsonline.ps/channels/pt/sporttv2.php
+20:00   Aberdeen x Celtic | https://v1.sportsonline.ps/channels/pt/sporttv3.php
+20:00   UD Logroñés x Girona | https://v1.sportsonline.ps/channels/pt/sporttv5.php
+20:15   Arsenal x Manchester United | https://v1.sportsonline.ps/channels/hd/hd1.php
+20:15   Arsenal x Manchester United | https://v1.sportsonline.ps/channels/pt/eleven1.php  
+20:15   Arsenal x Manchester United | https://v1.sportsonline.ps/channels/bra/br2.php
+20:15   Aston Villa x Brentford | https://v1.sportsonline.ps/channels/hd/hd8.php
+22:00   Racing Club x Estudiantes | https://v1.sportsonline.ps/channels/bra/br6.php
+22:00   Vasco da Gama x Atlético Mineiro | https://v1.sportsonline.ps/channels/bra/br3.php
+23:00   Criciúma x Flamengo | https://v1.sportsonline.ps/channels/bra/br1.php
+23:00   São Paulo x Juventude | https://v1.sportsonline.ps/channels/bra/br4.php
+23:00   Vitória x Grêmio | https://v1.sportsonline.ps/channels/bra/br5.php
+00:30   Cruzeiro x Palmeiras | https://v1.sportsonline.ps/channels/bra/br3.php
+00:30   Internacional x Botafogo | https://v1.sportsonline.ps/channels/bra/br2.php
+00:30   Atlético Goianiense x Fortaleza | https://v1.sportsonline.ps/channels/bra/br6.php
+00:00   River Plate x San Lorenzo | https://v1.sportsonline.ps/channels/hd/hd6.php
+00:00   River Plate x San Lorenzo | https://v1.sportsonline.ps/channels/pt/sporttv1.php
+00:00   River Plate x San Lorenzo | https://v1.sportsonline.ps/channels/bra/br6.php
+00:30   Atlético Goianiense x Fortaleza | https://v1.sportsonline.ps/channels/bra/br6.php
+00:30   NBA: Los Angeles Lakers @ Miami Heat | https://v1.sportsonline.ps/channels/hd/hd1.php
+00:30   NBA: Los Angeles Lakers @ Miami Heat | https://v1.sportsonline.ps/channels/pt/sporttv2.php
+00:30   NBA: Orlando Magic @ Philadelphia 76ers | https://v1.sportsonline.ps/channels/pt/sporttv3.php
+03:30   NBA: Minnesota Timberwolves @ LA Clippers | https://v1.sportsonline.ps/channels/hd/hd1.php</pre></body></html>
