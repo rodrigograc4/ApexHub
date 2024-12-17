@@ -29,39 +29,15 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.ps
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.ps	
 
+		
 MONDAY
 HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
 HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 GREEK
-HD10 TURKISH
-HD11 TURKISH
 
 BR2 BRAZILIAN
 BR4 BRAZILIAN
-BR6 BRAZILIAN
 
-12:30   World Darts Championship: D2 | https://v2.sportsonline.ps/channels/hd/hd1.php
-16:00   Adana Demirspor x Beşiktaş | https://v2.sportsonline.ps/channels/hd/hd5.php
-16:00   Adana Demirspor x Beşiktaş | https://v2.sportsonline.ps/channels/hd/hd10.php
-16:00   Adana Demirspor x Beşiktaş | https://v2.sportsonline.ps/channels/pt/sporttv1.php
-17:00   Köln W x RB Leipzig W | https://v2.sportsonline.ps/channels/hd/hd3.php
-17:00   Draw UEFA Euro 2025 Womens | https://v2.sportsonline.ps/channels/pt/sporttv2.php
-18:00   Galatasaray x Trabzonspor | https://v2.sportsonline.ps/channels/hd/hd5.php
-18:00   Galatasaray x Trabzonspor | https://v2.sportsonline.ps/channels/hd/hd11.php
-18:00   Galatasaray x Trabzonspor | https://v2.sportsonline.ps/channels/pt/sporttv3.php
-18:30   Kallithea x Olympiakos Piraeus | https://v2.sportsonline.ps/channels/hd/hd9.php
-18:45   Sporting Braga x Famalicão | https://v2.sportsonline.ps/channels/pt/sporttv2.php
-19:30   Latina x Audace Cerignola | https://v2.sportsonline.ps/channels/hd/hd8.php
-19:45   Lazio x Internazionale | https://v2.sportsonline.ps/channels/hd/hd7.php
-19:45   Lazio x Internazionale | https://v2.sportsonline.ps/channels/pt/sporttv4.php
-19:45   Lazio x Internazionale | https://v2.sportsonline.ps/channels/bra/br6.php
-19:45   Dunkerque x Caen | https://v2.sportsonline.ps/channels/hd/hd4.php
 20:00   AFC Bournemouth x West Ham United | https://v2.sportsonline.ps/channels/hd/hd1.php
 20:00   AFC Bournemouth x West Ham United | https://v2.sportsonline.ps/channels/pt/eleven1.php  
 20:00   AFC Bournemouth x West Ham United | https://v2.sportsonline.ps/channels/bra/br2.php
@@ -88,6 +64,8 @@ HD9 SPANISH
 HD10 SPANISH
 HD11 TURKISH
 
+BR1 BRAZILIAN
+
 08:00   Cricket: South Africa W v England W Test | https://v2.sportsonline.ps/channels/hd/hd1.php
 10:00   Eyüpspor x Etimesgut | https://v2.sportsonline.ps/channels/hd/hd11.php
 12:30   Konyaspor x Karacabey Birlikspor | https://v2.sportsonline.ps/channels/hd/hd11.php
@@ -105,6 +83,7 @@ HD11 TURKISH
 20:00   Juventus x Cagliari | https://v2.sportsonline.ps/channels/hd/hd2.php
 20:00   Juventus x Cagliari | https://v2.sportsonline.ps/channels/hd/hd7.php
 20:00   Juventus x Cagliari | https://v2.sportsonline.ps/channels/pt/sporttv1.php
+20:00   Juventus x Cagliari | https://v2.sportsonline.ps/channels/bra/br1.php
 20:00   MVV x Feyenoord | https://v2.sportsonline.ps/channels/hd/hd4.php
 20:00   Olympique Lyonnais W x Wolfsburg W | https://v2.sportsonline.ps/channels/hd/hd3.php
 20:00   Olympique Lyonnais W x Wolfsburg W | https://v2.sportsonline.ps/channels/hd/hd6.php
@@ -168,4 +147,58 @@ BR6 BRAZILIAN
 23:30   NCAA Football: Boca Raton Bowl | https://v2.sportsonline.ps/channels/hd/hd1.php
 00:30   Deportes Tolima x Atlético Nacional | https://v2.sportsonline.ps/channels/hd/hd10.php
 02:00   NCAA Football: LA Bowl | https://v2.sportsonline.ps/channels/hd/hd1.php
+
+THURSDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 UNDEFINED
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD9 GREEK
+HD10 ENGLISH
+HD11 TURKISH &amp; ENGLISH 
+
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+08:30   DP World Tour: Afrasia Bank Mauritius Open - D1 | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
+10:00   İskenderun FK x Hatayspor | https://v2.sportsonline.ps/channels/hd/hd11.php
+11:30   Kırklarelispor x Adana Demirspor | https://v2.sportsonline.ps/channels/hd/hd11.php
+12:30   World Darts Championship: D5 S1 | https://v2.sportsonline.ps/channels/hd/hd1.php 
+14:00   24 Erzincanspor x Çorum Belediyespor | https://v2.sportsonline.ps/channels/hd/hd11.php
+17:00   Nacional x Benfica | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
+17:00   Nacional x Benfica | https://v2.sportsonline.ps/channels/bra/br6.php
+18:00   Elche x Racing Santander | https://v2.sportsonline.ps/channels/pt/eleven2.php 
+20:00   Tottenham Hotspur x Manchester United | https://v2.sportsonline.ps/channels/hd/hd1.php
+20:00   Tottenham Hotspur x Manchester United | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
+20:00   Tottenham Hotspur x Manchester United | https://v2.sportsonline.ps/channels/bra/br5.php
+20:00   Internazionale x Udinese | https://v2.sportsonline.ps/channels/hd/hd2.php
+20:00   Internazionale x Udinese | https://v2.sportsonline.ps/channels/hd/hd7.php
+20:00   Internazionale x Udinese | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
+20:00   Internazionale x Udinese | https://v2.sportsonline.ps/channels/bra/br2.php
+20:00   Chelsea x Shamrock Rovers | https://v2.sportsonline.ps/channels/hd/hd5.php
+20:00   Chelsea x Shamrock Rovers | https://v2.sportsonline.ps/channels/pt/eleven1.php 
+20:00   Chelsea x Shamrock Rovers | https://v2.sportsonline.ps/channels/bra/br3.php
+20:00   Heidenheim x St. Gallen | https://v2.sportsonline.ps/channels/hd/hd3.php
+20:00   Vitória Guimarães x Fiorentina | https://v2.sportsonline.ps/channels/hd/hd8.php
+20:00   Vitória Guimarães x Fiorentina | https://v2.sportsonline.ps/channels/pt/sporttv5.php 
+20:00   Real Betis x HJK | https://v2.sportsonline.ps/channels/hd/hd6.php
+20:00   Real Betis x HJK | https://v2.sportsonline.ps/channels/pt/eleven2.php 
+20:00   Panathinaikos x Dinamo Minsk | https://v2.sportsonline.ps/channels/hd/hd9.php
+20:00   Panathinaikos x Dinamo Minsk | https://v2.sportsonline.ps/channels/pt/eleven3.php 
+20:00   Hearts x Petrocub | https://v2.sportsonline.ps/channels/hd/hd10.php
+20:00   Larne x Gent | https://v2.sportsonline.ps/channels/hd/hd11.php
+20:00   Rapid Wien x København | https://v2.sportsonline.ps/channels/hd/hd4.php
+00:00   NBA: Oklahoma City Thunder @ Orlando Magic | https://v2.sportsonline.ps/channels/hd/hd5.php
+00:00   Boxing: Erick Rosa x Neider Valdez | https://v2.sportsonline.ps/channels/bra/br6.php
+01:00   NBA: Golden State Warriors @ Memphis Grizzlies | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
+01:15   NFL: Denver Broncos @ Los Angeles Chargers | https://v2.sportsonline.ps/channels/hd/hd1.php
+02:30   NBA: New York Knicks @ Minnesota Timberwolves | https://v2.sportsonline.ps/channels/hd/hd5.php
+02:30   NBA: Atlanta Hawks @ San Antonio Spurs | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
+03:00   NBA: Los Angeles Lakers @ Sacramento Kings | https://v2.sportsonline.ps/channels/hd/hd2.php
 </pre></body></html>
