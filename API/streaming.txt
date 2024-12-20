@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 19-12-24 |
+                | LAST UPDATE: 20-12-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -33,67 +33,11 @@
 		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
 		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
 		
-WEDNESDAY
-HD1 ENGLISH
-HD10 SPANISH
-
-23:30   NCAA Football: Boca Raton Bowl | https://v2.sportsonline.ps/channels/hd/hd1.php
-00:30   Deportes Tolima x Atlético Nacional | https://v2.sportsonline.ps/channels/hd/hd10.php
-02:00   NCAA Football: LA Bowl | https://v2.sportsonline.ps/channels/hd/hd1.php
-
 THURSDAY
 HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
-HD4 UNDEFINED
 HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 GREEK
-HD10 ENGLISH
-HD11 TURKISH &amp; ENGLISH 
 
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-
-08:30   DP World Tour: Afrasia Bank Mauritius Open - D1 | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
-10:00   İskenderun FK x Hatayspor | https://v2.sportsonline.ps/channels/hd/hd11.php
-11:30   Kırklarelispor x Adana Demirspor | https://v2.sportsonline.ps/channels/hd/hd11.php
-12:30   World Darts Championship: D5 S1 | https://v2.sportsonline.ps/channels/hd/hd1.php 
-14:00   24 Erzincanspor x Çorum Belediyespor | https://v2.sportsonline.ps/channels/hd/hd11.php
-17:00   Nacional x Benfica | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-17:00   Nacional x Benfica | https://v2.sportsonline.ps/channels/bra/br6.php
-18:00   Elche x Racing Santander | https://v2.sportsonline.ps/channels/pt/eleven2.php 
-20:00   Tottenham Hotspur x Manchester United | https://v2.sportsonline.ps/channels/hd/hd1.php
-20:00   Tottenham Hotspur x Manchester United | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-20:00   Tottenham Hotspur x Manchester United | https://v2.sportsonline.ps/channels/bra/br5.php
-20:00   Internazionale x Udinese | https://v2.sportsonline.ps/channels/hd/hd2.php
-20:00   Internazionale x Udinese | https://v2.sportsonline.ps/channels/hd/hd7.php
-20:00   Internazionale x Udinese | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
-20:00   Internazionale x Udinese | https://v2.sportsonline.ps/channels/bra/br2.php
-20:00   Chelsea x Shamrock Rovers | https://v2.sportsonline.ps/channels/hd/hd5.php
-20:00   Chelsea x Shamrock Rovers | https://v2.sportsonline.ps/channels/pt/eleven1.php 
-20:00   Chelsea x Shamrock Rovers | https://v2.sportsonline.ps/channels/bra/br3.php
-
-		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
-		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
-		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
-		
-20:00   Heidenheim x St. Gallen | https://v2.sportsonline.ps/channels/hd/hd3.php
-20:00   Vitória Guimarães x Fiorentina | https://v2.sportsonline.ps/channels/hd/hd8.php
-20:00   Vitória Guimarães x Fiorentina | https://v2.sportsonline.ps/channels/pt/sporttv5.php 
-20:00   Real Betis x HJK | https://v2.sportsonline.ps/channels/hd/hd6.php
-20:00   Real Betis x HJK | https://v2.sportsonline.ps/channels/pt/eleven2.php 
-20:00   Panathinaikos x Dinamo Minsk | https://v2.sportsonline.ps/channels/hd/hd9.php
-20:00   Panathinaikos x Dinamo Minsk | https://v2.sportsonline.ps/channels/pt/eleven3.php 
-20:00   Hearts x Petrocub | https://v2.sportsonline.ps/channels/hd/hd10.php
-20:00   Larne x Gent | https://v2.sportsonline.ps/channels/hd/hd11.php
-20:00   Rapid Wien x København | https://v2.sportsonline.ps/channels/hd/hd4.php
-00:00   NBA: Oklahoma City Thunder @ Orlando Magic | https://v2.sportsonline.ps/channels/hd/hd5.php
-00:00   Boxing: Erick Rosa x Neider Valdez | https://v2.sportsonline.ps/channels/bra/br6.php
 01:00   NBA: Golden State Warriors @ Memphis Grizzlies | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
 01:15   NFL: Denver Broncos @ Los Angeles Chargers | https://v2.sportsonline.ps/channels/hd/hd1.php
 02:30   NBA: New York Knicks @ Minnesota Timberwolves | https://v2.sportsonline.ps/channels/hd/hd5.php
@@ -117,6 +61,10 @@ BR1 BRAZILIAN
 BR2 BRAZILIAN
 BR6 BRAZILIAN
 
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+
 08:30   DP World Tour: Afrasia Bank Mauritius Open - D1 | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
 13:00   Premier Padel: Barcelona - Finals 2024 | https://v2.sportsonline.ps/channels/pt/sporttv4.php 
 17:00   Eyüpspor x Fenerbahçe | https://v2.sportsonline.ps/channels/hd/hd11.php
@@ -131,6 +79,11 @@ BR6 BRAZILIAN
 19:30   Salernitana x Brescia | https://v2.sportsonline.ps/channels/hd/hd8.php
 19:30   Cartagena x Albacete | https://v2.sportsonline.ps/channels/hd/hd9.php
 19:30   Cartagena x Albacete | https://v2.sportsonline.ps/channels/pt/eleven3.php 
+
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		
 19:45   Hellas Verona x Milan | https://v2.sportsonline.ps/channels/hd/hd7.php
 19:45   Hellas Verona x Milan | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
 19:45   Hellas Verona x Milan | https://v2.sportsonline.ps/channels/bra/br2.php
@@ -147,6 +100,10 @@ BR6 BRAZILIAN
 00:30   NBA: Milwaukee Bucks @ Cleveland Cavaliers | https://v2.sportsonline.ps/channels/hd/hd1.php
 00:30   NBA: Milwaukee Bucks @ Cleveland Cavaliers | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
 03:30   Boxing: Willibaldo Garcia Perez x Rene Calixto Bibiano | https://v2.sportsonline.ps/channels/bra/br6.php
+
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
 
 SATURDAY
 HD1 ENGLISH
@@ -181,6 +138,11 @@ BR6 BRAZILIAN
 13:00   Getafe x Mallorca | https://v2.sportsonline.ps/channels/hd/hd2.php
 13:00   Getafe x Mallorca | https://v2.sportsonline.ps/channels/hd/hd6.php
 13:00   Getafe x Mallorca | https://v2.sportsonline.ps/channels/pt/eleven2.php 
+
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		
 14:00   Torino x Bologna | https://v2.sportsonline.ps/channels/hd/hd7.php
 14:00   Torino x Bologna | https://v2.sportsonline.ps/channels/pt/sporttv3.php  
 14:00   Sassuolo x Palermo | https://v2.sportsonline.ps/channels/hd/hd8.php
@@ -209,6 +171,11 @@ BR6 BRAZILIAN
 17:30   Crystal Palace x Arsenal | https://v2.sportsonline.ps/channels/hd/hd1.php
 17:30   Crystal Palace x Arsenal | https://v2.sportsonline.ps/channels/pt/eleven1.php 
 17:30   Crystal Palace x Arsenal | https://v2.sportsonline.ps/channels/bra/br3.php
+
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+
 17:30   Osasuna x Athletic Club | https://v2.sportsonline.ps/channels/hd/hd2.php
 17:30   Osasuna x Athletic Club | https://v2.sportsonline.ps/channels/hd/hd6.php
 17:30   Osasuna x Athletic Club | https://v2.sportsonline.ps/channels/pt/eleven2.php 
@@ -231,6 +198,11 @@ BR6 BRAZILIAN
 20:00   Barcelona x Atlético Madrid | https://v2.sportsonline.ps/channels/hd/hd11.php
 20:00   Barcelona x Atlético Madrid | https://v2.sportsonline.ps/channels/pt/eleven1.php 
 20:00   Barcelona x Atlético Madrid | https://v2.sportsonline.ps/channels/bra/br2.php
+
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+
 20:00   RC Calais x Strasbourg | https://v2.sportsonline.ps/channels/hd/hd4.php
 20:30   Moreirense x Porto | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
 20:30   Basketball: Queluz x Porto | https://v2.sportsonline.ps/channels/pt/eleven2.php 
@@ -240,4 +212,103 @@ BR6 BRAZILIAN
 00:00   Vélez Sarsfield x Estudiantes | https://v2.sportsonline.ps/channels/pt/sporttv3.php  
 00:00   Vélez Sarsfield x Estudiantes | https://v2.sportsonline.ps/channels/bra/br6.php
 00:00   NBA: Miami Heat @ Orlando Magic | https://v2.sportsonline.ps/channels/pt/sporttv1.php
-01:00   NBA: New York Knicks @ New Orleans Pelicans | https://v2.sportsonline.ps/channels/hd/hd2.php</pre></body></html>
+01:00   NBA: New York Knicks @ New Orleans Pelicans | https://v2.sportsonline.ps/channels/hd/hd2.php
+
+
+SUNDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 FRENCH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD9 ENGLISH &amp; GREEK
+HD10 ENGLISH &amp; SPANISH
+HD11 ENGLISH &amp; GREEK
+
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN 
+BR6 BRAZILIAN
+
+06:00   DP World Tour: Afrasia Bank Mauritius Open - D4 | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
+11:00   Paços de Ferreira x Alverca | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
+11:15   Sparta Rotterdam x Ajax | https://v2.sportsonline.ps/channels/hd/hd11.php
+11:15   Sparta Rotterdam x Ajax | https://v2.sportsonline.ps/channels/pt/sporttv4.php 
+11:30   Roma x Parma | https://v2.sportsonline.ps/channels/hd/hd7.php
+11:30   Roma x Parma | https://v2.sportsonline.ps/channels/pt/sporttv3.php
+11:30   Roma x Parma | https://v2.sportsonline.ps/channels/bra/br2.php
+12:00   Dundee United x Celtic | https://v2.sportsonline.ps/channels/hd/hd10.php
+12:30   Hannover 96 x Hertha BSC | https://v2.sportsonline.ps/channels/hd/hd3.php
+13:00   Valencia x Deportivo Alavés | https://v2.sportsonline.ps/channels/hd/hd2.php
+13:00   Valencia x Deportivo Alavés | https://v2.sportsonline.ps/channels/hd/hd6.php
+13:00   Valencia x Deportivo Alavés | https://v2.sportsonline.ps/channels/pt/eleven2.php 
+13:00   Kayserispor x Galatasaray | https://v2.sportsonline.ps/channels/hd/hd9.php
+13:00   Kayserispor x Galatasaray | https://v2.sportsonline.ps/channels/pt/sporttv2.php  
+13:25   PSV x Feyenoord | https://v2.sportsonline.ps/channels/pt/sporttv4.php 
+13:45   Saint-Étienne x Olympique Marseille | https://v2.sportsonline.ps/channels/hd/hd4.php
+14:00   Manchester United x AFC Bournemouth | https://v2.sportsonline.ps/channels/hd/hd1.php
+14:00   Manchester United x AFC Bournemouth || https://v2.sportsonline.ps/channels/pt/eleven1.php
+14:00   Manchester United x AFC Bournemouth | https://v2.sportsonline.ps/channels/bra/br4.php
+
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+
+14:00   Everton x Chelsea | https://v2.sportsonline.ps/channels/hd/hd5.php
+14:00   Everton x Chelsea | https://v2.sportsonline.ps/channels/pt/eleven3.php 
+14:00   Everton x Chelsea | https://v2.sportsonline.ps/channels/bra/br2.php
+14:00   Leicester City x Wolverhampton Wanderers | https://v2.sportsonline.ps/channels/hd/hd11.php
+14:00   Fulham x Southampton | https://v2.sportsonline.ps/channels/hd/hd10.php
+14:00   Fulham x Southampton | https://v2.sportsonline.ps/channels/bra/br6.php
+14:00   Venezia x Cagliari | https://v2.sportsonline.ps/channels/hd/hd7.php
+14:00   Venezia x Cagliari | https://v2.sportsonline.ps/channels/pt/sporttv3.php
+14:25   Iraq x Yemen | https://v2.sportsonline.ps/channels/pt/sporttv5.php
+14:30   Bochum x Heidenheim | https://v2.sportsonline.ps/channels/hd/hd3.php
+15:15   Real Madrid x Sevilla | https://v2.sportsonline.ps/channels/hd/hd2.php
+15:15   Real Madrid x Sevilla | https://v2.sportsonline.ps/channels/hd/hd6.php
+15:15   Real Madrid x Sevilla | https://v2.sportsonline.ps/channels/pt/eleven2.php
+15:15   Real Madrid x Sevilla | https://v2.sportsonline.ps/channels/bra/br3.php
+15:30   Torreense x Penafiel | https://v2.sportsonline.ps/channels/pt/sporttv2.php
+16:00   Al Ahly x CR Belouizdad | https://v2.sportsonline.ps/channels/hd/hd9.php
+16:30   Tottenham Hotspur x Liverpool | https://v2.sportsonline.ps/channels/hd/hd1.php
+16:30   Tottenham Hotspur x Liverpool | https://v2.sportsonline.ps/channels/hd/hd5.php
+16:30   Tottenham Hotspur x Liverpool | https://v2.sportsonline.ps/channels/pt/eleven1.php 
+16:30   Tottenham Hotspur x Liverpool | https://v2.sportsonline.ps/channels/bra/br2.php
+16:30   Wolfsburg x Borussia Dortmund | https://v2.sportsonline.ps/channels/hd/hd10.php
+16:30   Wolfsburg x Borussia Dortmund | https://v2.sportsonline.ps/channels/hd/hd3.php
+17:00   Atalanta x Empoli | https://v2.sportsonline.ps/channels/hd/hd8.php
+17:00   Atalanta x Empoli | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
+17:00   Santa Clara x Sporting Braga | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
+17:30   Leganés x Villarreal | https://v2.sportsonline.ps/channels/hd/hd2.php
+17:30   Leganés x Villarreal | https://v2.sportsonline.ps/channels/hd/hd6.php
+17:30   Leganés x Villarreal | https://v2.sportsonline.ps/channels/pt/eleven2.php
+
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		NO SANDBOX ALLOWED!! NO SANDBOX ALLOWED!!
+		
+17:30   Las Palmas x Espanyol | https://v2.sportsonline.ps/channels/pt/eleven3.php
+17:30   PAOK x Atromitos | https://v2.sportsonline.ps/channels/hd/hd11.php
+17:30   Saudi Arabia x Bahrain | https://v2.sportsonline.ps/channels/pt/sporttv5.php
+19:00   AEK Athens x Levadiakos | https://v2.sportsonline.ps/channels/hd/hd9.php
+19:15   World Darts Championship: D8 S2 | https://v2.sportsonline.ps/channels/hd/hd1.php
+19:45   Monza x Juventus | https://v2.sportsonline.ps/channels/hd/hd5.php
+19:45   Monza x Juventus | https://v2.sportsonline.ps/channels/hd/hd7.php
+19:45   Monza x Juventus | https://v2.sportsonline.ps/channels/pt/sporttv3.php
+19:45   Monza x Juventus | https://v2.sportsonline.ps/channels/bra/br2.php
+20:00   Real Betis x Rayo Vallecano | https://v2.sportsonline.ps/channels/hd/hd2.php
+20:00   Real Betis x Rayo Vallecano | https://v2.sportsonline.ps/channels/hd/hd6.php
+20:00   Real Betis x Rayo Vallecano | https://v2.sportsonline.ps/channels/pt/eleven1.php
+20:00   Lens x PSG | https://v2.sportsonline.ps/channels/hd/hd4.php
+20:30   Gil Vicente x Sporting CP | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
+20:30   Gil Vicente x Sporting CP | https://v2.sportsonline.ps/channels/bra/br5.php
+21:05   NFL: Vikings @ Seahawks | https://v2.sportsonline.ps/channels/pt/eleven2.php
+22:30   Basketball: Loyola-Chicago x Oakland | https://v2.sportsonline.ps/channels/pt/eleven1.php
+23:00   Atlético Nacional x Deportes Tolima | https://v2.sportsonline.ps/channels/hd/hd10.php
+23:00   NBA: Indiana Pacers @ Sacramento Kings | https://v2.sportsonline.ps/channels/pt/sporttv2.php
+23:00   NBA: Houston Rockets @ Torontos Raptors | https://v2.sportsonline.ps/channels/pt/sporttv3.php
+01:20   NFL: Tampa Bay Buccaneers @ Dallas Cowboys | https://v2.sportsonline.ps/channels/hd/hd1.php</pre></body></html>
