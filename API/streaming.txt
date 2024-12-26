@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 24-12-24 |
+                | LAST UPDATE: 26-12-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,26 +29,6 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.ps
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.ps	
 
-MONDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD5 ENGLISH
-HD11 ENGLISH
-
-00:00   NBA: San Antonio Spurs @ Philadelphia 76ers | https://v2.sportsonline.ps/channels/hd/hd1.php
-00:00   NBA: San Antonio Spurs @ Philadelphia 76ers | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
-00:00   NHL: Pittsburgh x Philadelphia | https://v2.sportsonline.ps/channels/pt/sporttv3.php  
-00:30   NBA: Toronto Raptors @ New York Knicks | https://v2.sportsonline.ps/channels/hd/hd5.php
-01:20   NFL: Saints @ Packers | https://v2.sportsonline.ps/channels/hd/hd11.php
-01:20   NFL: Saints @ Packers | https://v2.sportsonline.ps/channels/pt/eleven1.php
-03:00   NBA: Phoenix Suns @ Denver Nuggets | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
-03:00   NBA: Indiana Pacers @ Golden State Warriors | https://v2.sportsonline.ps/channels/hd/hd1.php
-03:30   NBA: Detroit Pistons @ Los Angeles Lakers | https://v2.sportsonline.ps/channels/hd/hd2.php
-
-TUESDAY
-
-14:25  Oman x Qatar | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
-17:30  United Arab Emirates x Kuwait | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
 
 ░░★░░░░░█▄░▄█ █▀▀ █▀█ █▀█ █░█ ░░★░░░░░░
 ░░░░░★░░█░▀░█ █▀▀ ██▀ ██▀ ▀█▀ ░░░░░★░░░
@@ -56,30 +36,6 @@ TUESDAY
 ░░█▀▀ █░█ █▀█ █ █▀▀ ▀█▀ █▄░▄█ █▀█ █▀▀░░░░
 ░░█░░ █▀█ ██▀ █ ▀▀█ ░█░ █░▀░█ █▀█ ▀▀█░░░░
 ░░▀▀▀ ▀░▀ ▀░▀ ▀ ▀▀▀ ░▀░ ▀░░░▀ ▀░▀ ▀▀▀░░░░
-
-WEDNESDAY
-HD1 ENGLISH
-
-BR2 BRAZILIAN
-
-14:25   Yemen x Saudi Arabia | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-17:00   NBA: San Antonio Spurs @ New York Knicks | https://v2.sportsonline.ps/channels/hd/hd1.php
-17:00   NBA: San Antonio Spurs @ New York Knicks | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-17:00   NBA: San Antonio Spurs @ New York Knicks | https://v2.sportsonline.ps/channels/bra/br2.php
-17:30   Bahrain x Iraq | https://v2.sportsonline.ps/channels/pt/sporttv2.php
-18:00   NFL: Kansas City Chiefs @ Pittsburgh Steelers | https://v2.sportsonline.ps/channels/pt/eleven1.php
-19:30   NBA: Minnesota Timberwolves @ Dallas Mavericks | https://v2.sportsonline.ps/channels/hd/hd1.php
-19:30   NBA: Minnesota Timberwolves @ Dallas Mavericks | https://v2.sportsonline.ps/channels/pt/sporttv1.php  
-19:30   NBA: Minnesota Timberwolves @ Dallas Mavericks | https://v2.sportsonline.ps/channels/bra/br2.php
-22:00   NBA: Philadelphia 76ers @ Boston Celtics | https://v2.sportsonline.ps/channels/hd/hd1.php
-22:00   NBA: Philadelphia 76ers @ Boston Celtics | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-22:00   NBA: Philadelphia 76ers @ Boston Celtics | https://v2.sportsonline.ps/channels/bra/br2.php
-01:00   NBA: Los Angeles Lakers @ Golden State Warriors | https://v2.sportsonline.ps/channels/hd/hd1.php
-01:00   NBA: Los Angeles Lakers @ Golden State Warriors | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-01:00   NBA: Los Angeles Lakers @ Golden State Warriors | https://v2.sportsonline.ps/channels/bra/br2.php
-03:30   NBA: Denver Nuggets @ Phoenix Suns | https://v2.sportsonline.ps/channels/hd/hd1.php
-03:30   NBA: Denver Nuggets @ Phoenix Suns |  https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-03:30   NBA: Denver Nuggets @ Phoenix Suns | https://v2.sportsonline.ps/channels/bra/br2.php
 
 THURSDAY
 HD1 ENGLISH
