@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 29-12-24 |
+                | LAST UPDATE: 30-12-24 |
 				
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
         INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,91 +29,52 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.ps
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v2.sportsonline.ps	
 
-SATURDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD11 ENGLISH
-
-BR4 BRAZILIAN
-
-23:00   NBA: Oklahoma City Thunder @ Charlotte Hornets | https://v2.sportsonline.ps/channels/hd/hd1.php
-23:00   United Cup: D3 | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
-01:10   NFL: Arizona Cardinals @ Los Angeles Rams | https://v2.sportsonline.ps/channels/hd/hd11.php
-01:10   NFL: Arizona Cardinals @ Los Angeles Rams | https://v2.sportsonline.ps/channels/bra/br4.php
-01:30   NBA: Phoenix Suns @ Golden State Warriors | https://v2.sportsonline.ps/channels/hd/hd1.php
-03:30   NBA: Sacramento Kings @ Los Angeles Lakers | https://v2.sportsonline.ps/channels/hd/hd2.php
-03:30   NBA: Sacramento Kings @ Los Angeles Lakers | https://v2.sportsonline.ps/channels/pt/sporttv1.php
-
 SUNDAY
 HD1 ENGLISH
 HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 ENGLISH
-HD10 ENGLISH
-HD11 ENGLISH
 
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
-BR5 BRAZILIAN
-BR6 BRAZILIAN
-
-11:00   Penafiel x Benfica B | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-11:30   Udinese x Torino | https://v2.sportsonline.ps/channels/hd/hd7.php
-11:30   Udinese x Torino | https://v2.sportsonline.ps/channels/pt/sporttv4.php 
-12:30   Sheffield United x West Bromwich Albion | https://v2.sportsonline.ps/channels/hd/hd1.php
-12:30   Sheffield United x West Bromwich Albion | https://v2.sportsonline.ps/channels/hd/hd9.php
-12:30   Sheffield United x West Bromwich Albion | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
-14:00   Napoli x Venezia | https://v2.sportsonline.ps/channels/hd/hd7.php
-14:00   Napoli x Venezia | https://v2.sportsonline.ps/channels/bra/br6.php
-14:30   Leicester City x Manchester City | https://v2.sportsonline.ps/channels/hd/hd1.php
-14:30   Leicester City x Manchester City | https://v2.sportsonline.ps/channels/hd/hd6.php
-14:30   Leicester City x Manchester City | https://v2.sportsonline.ps/channels/pt/eleven1.php
-14:30   Leicester City x Manchester City | https://v2.sportsonline.ps/channels/bra/br2.php
-15:00   Tottenham Hotspur x Wolverhampton Wanderers | https://v2.sportsonline.ps/channels/hd/hd2.php
-15:00   Tottenham Hotspur x Wolverhampton Wanderers | https://v2.sportsonline.ps/channels/pt/eleven2.php
-15:00   Tottenham Hotspur x Wolverhampton Wanderers | https://v2.sportsonline.ps/channels/bra/br3.php
-15:00   Fulham x AFC Bournemouth | https://v2.sportsonline.ps/channels/hd/hd9.php
-15:00   Everton x Nottingham Forest | https://v2.sportsonline.ps/channels/hd/hd10.php
-15:00   Everton x Nottingham Forest | https://v2.sportsonline.ps/channels/pt/eleven3.php 
-15:00   Motherwell x Rangers | https://v2.sportsonline.ps/channels/hd/hd5.php
-15:00   Motherwell x Rangers | https://v2.sportsonline.ps/channels/hd/hd3.php
-15:00   Crystal Palace x Southampton | https://v2.sportsonline.ps/channels/hd/hd11.php
-15:30   Farense x Vitória Guimarães | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
-15:30   Rio Ave x Nacional | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
-15:30   Maritimo x Oliveirense | https://v2.sportsonline.ps/channels/pt/sporttv4.php
-17:00   Juventus x Fiorentina | https://v2.sportsonline.ps/channels/hd/hd8.php
-17:00   Juventus x Fiorentina | https://v2.sportsonline.ps/channels/bra/br2.php
-17:15   Dundee United x Aberdeen | https://v2.sportsonline.ps/channels/hd/hd3.php
-17:15   West Ham United x Liverpool | https://v2.sportsonline.ps/channels/hd/hd1.php
-17:15   West Ham United x Liverpool | https://v2.sportsonline.ps/channels/hd/hd6.php
-17:15   West Ham United x Liverpool | https://v2.sportsonline.ps/channels/pt/eleven1.php 
-17:15   West Ham United x Liverpool | https://v2.sportsonline.ps/channels/bra/br4.php
-17:45   Derby County x Leeds United | https://v2.sportsonline.ps/channels/hd/hd5.php
-17:45   Derby County x Leeds United | https://v2.sportsonline.ps/channels/pt/sporttv4.php
-17:45   Derby County x Leeds United | https://v2.sportsonline.ps/channels/bra/br6.php
-18:00   Sporting Braga x Casa Pia | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
-19:30   Basketball ACB: Real Madrid x Barcelona | https://v2.sportsonline.ps/channels/pt/eleven2.php
-19:30   World Darts Championship: D12 S2 | https://v2.sportsonline.ps/channels/hd/hd1.php
-19:45   Milan x Roma | https://v2.sportsonline.ps/channels/hd/hd11.php
-19:45   Milan x Roma | https://v2.sportsonline.ps/channels/hd/hd7.php
-19:45   Milan x Roma | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
-19:45   Milan x Roma | https://v2.sportsonline.ps/channels/bra/br2.php
-20:00   Middlesbrough x Burnley | https://v2.sportsonline.ps/channels/hd/hd5.php
-20:00   Middlesbrough x Burnley | https://v2.sportsonline.ps/channels/pt/sporttv4.php
-20:30   Sporting CP x Benfica | https://v2.sportsonline.ps/channels/hd/hd3.php
-20:30   Sporting CP x Benfica | https://v2.sportsonline.ps/channels/hd/hd4.php
-20:30   Sporting CP x Benfica | https://v2.sportsonline.ps/channels/hd/hd6.php
-20:30   Sporting CP x Benfica | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
-20:30   Sporting CP x Benfica | https://v2.sportsonline.ps/channels/bra/br5.php
 23:00   NBA: Indiana Pacers @ Boston Celtics | https://v2.sportsonline.ps/channels/hd/hd2.php
 23:00   NBA: Indiana Pacers @ Boston Celtics | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
 23:00   United Cup: D4 | https://v2.sportsonline.ps/channels/pt/sporttv3.php 
 00:00   NBA: Memphis Grizzlies @ Oklahoma City Thunder | https://v2.sportsonline.ps/channels/pt/sporttv4.php 
 01:10   NFL: Atlanta Falcons @ Washington Commanders | https://v2.sportsonline.ps/channels/hd/hd1.php
-03:00   United Cup: D4 | https://v2.sportsonline.ps/channels/pt/sporttv1.php </pre></body></html>
+03:00   United Cup: D4 | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
+
+MONDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN
+HD8 ITALIAN
+HD11 ENGLISH
+
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR6 BRAZILIAN
+
+06:00   ATP World Tour 250: Hong Kong | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
+07:30   Cricket: S Africa v Pakistan D5 | https://v2.sportsonline.ps/channels/hd/hd1.php
+10:00   United Cup: D4 | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
+12:30   World Darts Championship: D13 S1 | https://v2.sportsonline.ps/channels/hd/hd1.php
+17:30   Como x Lecce | https://v2.sportsonline.ps/channels/hd/hd7.php
+17:30   Como x Lecce | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
+19:45   Ipswich Town x Chelsea | https://v2.sportsonline.ps/channels/hd/hd2.php
+19:45   Ipswich Town x Chelsea | https://v2.sportsonline.ps/channels/pt/eleven2.php
+19:45   Ipswich Town x Chelsea | https://v2.sportsonline.ps/channels/bra/br6.php
+19:45   Bologna x Hellas Verona | https://v2.sportsonline.ps/channels/hd/hd8.php
+19:45   Bologna x Hellas Verona | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
+19:45   Aston Villa x Brighton &amp; Hove Albion | https://v2.sportsonline.ps/channels/hd/hd11.php
+19:45   Aston Villa x Brighton &amp; Hove Albion | https://v2.sportsonline.ps/channels/pt/eleven3.php
+19:45   Aston Villa x Brighton &amp; Hove Albion | https://v2.sportsonline.ps/channels/bra/br3.php
+20:00   Manchester United x Newcastle United | https://v2.sportsonline.ps/channels/hd/hd1.php 
+20:00   Manchester United x Newcastle United | https://v2.sportsonline.ps/channels/hd/hd6.php
+20:00   Manchester United x Newcastle United | https://v2.sportsonline.ps/channels/pt/eleven1.php
+20:00   Manchester United x Newcastle United | https://v2.sportsonline.ps/channels/bra/br2.php
+20:00   AFC Wimbledon x Gillingham | https://v2.sportsonline.ps/channels/hd/hd5.php
+20:15   Famalicão x Santa Clara | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
+23:00   United Cup: D5 | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
+00:00   NBA: New York Knicks @ Washington Wizards | https://v2.sportsonline.ps/channels/hd/hd2.php
+01:15   NFL: Detroit Lions @ San Francisco 49ers | https://v2.sportsonline.ps/channels/hd/hd1.php
+01:15   NFL: Detroit Lions @ San Francisco 49ers | https://v2.sportsonline.ps/channels/pt/eleven1.php
+03:00   NBA: Cleveland Cavaliers @ Golden State Warriors | https://v2.sportsonline.ps/channels/pt/sporttv1.php </pre></body></html>
