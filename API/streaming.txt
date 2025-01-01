@@ -33,8 +33,6 @@ TUESDAY
 HD2 ENGLISH
 HD11 ENGLISH
 
-06:00   ATP World Tour 250: Hong Kong | https://v2.sportsonline.ps/channels/pt/sporttv2.php 
-08:00   Central Coast Mariners x Melbourne City | https://v2.sportsonline.ps/channels/hd/hd11.php
 14:30   Oman x Saudi Arabia | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
 17:45   Bahrain x Kuwait | https://v2.sportsonline.ps/channels/pt/sporttv1.php 
 20:00   NBA: Indiana Pacers @ Milwaukee Bucks | https://v2.sportsonline.ps/channels/hd/hd11.php
