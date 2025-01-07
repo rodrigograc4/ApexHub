@@ -1,6 +1,6 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">============================================================
 
-                | LAST UPDATE: 06-01-25 |
+                | LAST UPDATE: 07-01-25 |
 				
        INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
        INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -29,67 +29,12 @@
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.ps
         𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐏𝐃𝐀𝐓𝐄!! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐂𝐇𝐀𝐍𝐆𝐄 𝐃𝐎𝐌𝐀𝐈𝐍 v3.sportsonline.ps	
 
-SUNDAY
-HD1 ENGLISH
-HD2 ENGLISH
-
-BR1 BRAZILIAN
-
-23:00   NBA: Utah Jazz @ Orlando Magic | https://v3.sportsonline.ps/channels/pt/sporttv1.php  
-00:00   NBA: Sacramento Kings @ Los Angeles Lakers | https://v3.sportsonline.ps/channels/hd/hd2.php
-00:30   Imperatriz U20 x Cruzeiro U20 | https://v3.sportsonline.ps/channels/bra/br1.php
-00:30   ATP World Tour 250: Auckland | https://v3.sportsonline.ps/channels/pt/sporttv3.php  
-01:20   NFL: Minnesota Vikings @ Detroit Lions | https://v3.sportsonline.ps/channels/hd/hd1.php
-04:00   ATP World Tour 250: Adelaide | https://v3.sportsonline.ps/channels/pt/sporttv1.php  
-05:30   ATP World Tour 250: Auckland | https://v3.sportsonline.ps/channels/pt/sporttv2.php
-
 MONDAY
 HD1 ENGLISH
-HD3 GERMAN
-HD4 GERMAN
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ITALIAN
-HD9 GREEK
-HD10 ENGLISH 
-HD11 ENGLISH
 
 BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
 BR4 BRAZILIAN
-BR6 BRAZILIAN
 
-08:00   Cricket: South Africa v Pakistan D4 | https://v3.sportsonline.ps/channels/hd/hd1.php
-12:30   Al Raed x Al Jabalain | https://v3.sportsonline.ps/channels/hd/hd11.php
-12:30   Al Raed x Al Jabalain | https://v3.sportsonline.ps/channels/pt/sporttv1.php  
-12:30   Al Raed x Al Jabalain | https://v3.sportsonline.ps/channels/bra/br5.php
-14:00   Schalke 04 x Aarau | https://v3.sportsonline.ps/channels/hd/hd4.php
-14:00   Virtus Entella x Rimini | https://v3.sportsonline.ps/channels/hd/hd8.php
-15:00   Al Shabab x Al Feiha | https://v3.sportsonline.ps/channels/hd/hd11.php
-15:00   Al Shabab x Al Feiha | https://v3.sportsonline.ps/channels/pt/sporttv1.php  
-15:00   Al Shabab x Al Feiha | https://v3.sportsonline.ps/channels/bra/br5.php
-16:00   Panaitolikos x Olympiakos Piraeus | https://v3.sportsonline.ps/channels/hd/hd9.php
-16:30   Ternana x Pontedera | https://v3.sportsonline.ps/channels/hd/hd8.php
-17:00   Salzburg x Bayern München | https://v3.sportsonline.ps/channels/hd/hd3.php
-18:00   Deportiva Minera x Real Madrid | https://v3.sportsonline.ps/channels/hd/hd6.php
-18:00   Deportiva Minera x Real Madrid | https://v3.sportsonline.ps/channels/pt/sporttv1.php  
-18:00   Deportiva Minera x Real Madrid | https://v3.sportsonline.ps/channels/bra/br2.php
-18:00   Benfica B x Porto B | https://v3.sportsonline.ps/channels/pt/btv.php  
-18:00   Retrô U20 x Vitória U20 | https://v3.sportsonline.ps/channels/bra/br1.php
-19:00   Internazionale x Milan | https://v3.sportsonline.ps/channels/hd/hd5.php
-19:00   Internazionale x Milan | https://v3.sportsonline.ps/channels/hd/hd7.php
-19:00   Internazionale x Milan | https://v3.sportsonline.ps/channels/pt/sporttv2.php
-19:00   Internazionale x Milan | https://v3.sportsonline.ps/channels/bra/br4.php
-20:00   Wolverhampton Wanderers x Nottingham Forest | https://v3.sportsonline.ps/channels/hd/hd1.php
-20:00   Wolverhampton Wanderers x Nottingham Forest | https://v3.sportsonline.ps/channels/pt/eleven1.php  
-20:00   Wolverhampton Wanderers x Nottingham Forest | https://v3.sportsonline.ps/channels/bra/br6.php
-20:00   Queens Park Rangers x Luton Town | https://v3.sportsonline.ps/channels/hd/hd10.php
-20:00   Queens Park Rangers x Luton Town | https://v3.sportsonline.ps/channels/pt/sporttv3.php  
-20:00   Queens Park Rangers x Luton Town | https://v3.sportsonline.ps/channels/bra/br3.php
-20:15   Gil Vicente x Rio Ave | https://v3.sportsonline.ps/channels/pt/sporttv1.php  
-20:15   Nova Iguaçu U20 x Atlético Mineiro U20 | https://v3.sportsonline.ps/channels/bra/br1.php
 21:30   Coimbra U20 x Fluminense U20 |https://v3.sportsonline.ps/channels/bra/br4.php
 22:30   Jaciobá U20 x Santos U20 | https://v3.sportsonline.ps/channels/bra/br1.php
 22:30   ATP World Tour 250: Auckland | https://v3.sportsonline.ps/channels/pt/sporttv2.php
@@ -215,7 +160,7 @@ BR6 BRAZILIAN
 19:00   Sheffield United x Cardiff City | https://v3.sportsonline.ps/channels/hd/hd8.php
 19:30   Beerschot x Anderlecht | https://v3.sportsonline.ps/channels/hd/hd4.php
 19:30   Beerschot x Anderlecht | https://v3.sportsonline.ps/channels/pt/eleven1.php
-19:45   Everton x Peterborough United | https://v3.sportsonline.ps/channels/hd/hd5.php
+19:45   Everton x Peterborough United | https://v3.sportsonline.ps/channels/hd/hd11.php
 19:45   Everton x Peterborough United | https://v3.sportsonline.ps/channels/pt/sporttv1.php
 19:45   Everton x Peterborough United | https://v3.sportsonline.ps/channels/bra/br3.php
 19:45   Fulham x Watford | https://v3.sportsonline.ps/channels/hd/hd5.php
@@ -231,4 +176,59 @@ BR6 BRAZILIAN
 00:30   Francana U20 x Atlético Mineiro U20 | https://v3.sportsonline.ps/channels/bra/br1.php
 01:00   NBA: Houston Rockets @ Memphis Grizzlies | https://v3.sportsonline.ps/channels/pt/sporttv1.php
 02:00   NBA: Atlanta Hawks @ Phoenix Suns | https://v3.sportsonline.ps/channels/pt/sporttv2.php
-03:30   NBA: Charlotte Hornets @ Los Angeles Lakers | https://v3.sportsonline.ps/channels/hd/hd1.php</pre></body></html>
+03:30   NBA: Charlotte Hornets @ Los Angeles Lakers | https://v3.sportsonline.ps/channels/hd/hd1.php
+
+FRIDAY
+HD1 ENGLISH
+HD2 ENGLISH
+HD3 GERMAN
+HD4 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD7 ITALIAN 
+HD9 DUTCH
+HD10 ENGLISH &amp; SPANISH
+HD11 ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+BR5 BRAZILIAN
+BR6 BRAZILIAN
+
+07:00   DP World Tour: Team Cup - D1 | https://v3.sportsonline.ps/channels/pt/sporttv2.php
+14:00   Flamengo SP U20 x Internacional U20 | https://v3.sportsonline.ps/channels/bra/br1.php
+17:00   Al Ahli x Al Shabab | https://v3.sportsonline.ps/channels/hd/hd10.php
+16:55   Al Ahli x Al Shabab | https://v3.sportsonline.ps/channels/pt/sporttv1.php
+17:00   Al Ahli x Al Shabab | https://v3.sportsonline.ps/channels/bra/br5.php
+18:00   Nantes x Monaco | https://v3.sportsonline.ps/channels/hd/hd4.php
+18:00   Nantes x Monaco | https://v3.sportsonline.ps/channels/pt/sporttv2.php
+19:00   Fortuna Sittard x Go Ahead Eagles | https://v3.sportsonline.ps/channels/hd/hd9.php
+19:30   Borussia Dortmund x Bayer Leverkusen | https://v3.sportsonline.ps/channels/hd/hd5.php
+19:30   Borussia Dortmund x Bayer Leverkusen | https://v3.sportsonline.ps/channels/hd/hd3.php
+19:30   Borussia Dortmund x Bayer Leverkusen | https://v3.sportsonline.ps/channels/pt/eleven1.php
+19:30   Borussia Dortmund x Bayer Leverkusen | https://v3.sportsonline.ps/channels/bra/br4.php
+19:30   Tenerife x Castellón | https://v3.sportsonline.ps/channels/pt/eleven3.php
+19:45   Lazio x Como | https://v3.sportsonline.ps/channels/hd/hd7.php
+19:45   Lazio x Como | https://v3.sportsonline.ps/channels/bra/br6.php
+19:45   Wycombe Wanderers x Portsmouth | https://v3.sportsonline.ps/channels/hd/hd11.php
+20:00   Auxerre x Lille | https://v3.sportsonline.ps/channels/hd/hd4.php
+20:00   Auxerre x Lille | https://v3.sportsonline.ps/channels/pt/sporttv2.php
+20:00   Rayo Vallecano x Celta de Vigo | https://v3.sportsonline.ps/channels/hd/hd2.php
+20:00   Rayo Vallecano x Celta de Vigo | https://v3.sportsonline.ps/channels/hd/hd6.php
+20:00   Rayo Vallecano x Celta de Vigo | https://v3.sportsonline.ps/channels/pt/eleven2.php
+20:00   Rayo Vallecano x Celta de Vigo | https://v3.sportsonline.ps/channels/bra/br3.php
+20:00   Aston Villa x West Ham United | https://v3.sportsonline.ps/channels/hd/hd1.php
+20:00   Aston Villa x West Ham United | https://v3.sportsonline.ps/channels/pt/sporttv1.php
+20:00   Aston Villa x West Ham United | https://v3.sportsonline.ps/channels/bra/br2.php
+22:00   Itapirense U20 x Atlético GO U20 | https://v3.sportsonline.ps/channels/bra/br1.php
+00:00   NBA: Golden State Warriors @ Indiana Pacers | https://v3.sportsonline.ps/channels/pt/sporttv1.php
+00:00   NBA: New Orleans Pelicans @ Philadelphia 76ers | https://v3.sportsonline.ps/channels/hd/hd1.php
+00:00   NBA: New Orleans Pelicans @ Philadelphia 76ers | https://v3.sportsonline.ps/channels/pt/sporttv4.php
+00:30   XV De Novembro U20 x São Paulo U20 | https://v3.sportsonline.ps/channels/bra/br1.php
+01:00   Querétaro x América | https://v3.sportsonline.ps/channels/hd/hd10.php
+01:00   One Championship: One Fight Night 27 | https://v3.sportsonline.ps/channels/pt/sporttv2.php
+01:00   ATP World Tour 250: Auckland - Final | https://v3.sportsonline.ps/channels/pt/sporttv3.php
+03:00   Tijuana x Toluca | https://v3.sportsonline.ps/channels/hd/hd10.php
+03:30   DP World Tour: Team Cup - D2 | https://v3.sportsonline.ps/channels/pt/sporttv3.php</pre></body></html>
